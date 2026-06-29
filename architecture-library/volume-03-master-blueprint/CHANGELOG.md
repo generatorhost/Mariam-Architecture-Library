@@ -79,3 +79,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v4 draft | Draft | Added Book 03.02 Enterprise Organization with 20 subsystem blueprint documents and v4 release artifacts. |
+
+## v5 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v5 draft | Draft | Added Book 03.03 AI Society with 20 subsystem blueprint documents and v5 release artifacts. |

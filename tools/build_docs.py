@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v4 draft"
-RELEASE_SLUG = "v4_draft"
+RELEASE_VERSION = "v5 draft"
+RELEASE_SLUG = "v5_draft"
 
 VOLUMES = [
     {
@@ -49,8 +49,14 @@ VOLUMES = [
     {
         "id": "volume-03-master-blueprint/book-03-02-enterprise-organization",
         "title": "Volume 03 - Book 03.02 Enterprise Organization",
-        "version": RELEASE_VERSION,
+        "version": "v4 draft",
         "pdf": "Volume_03_Book_03_02_Enterprise_Organization_v4_draft.pdf",
+    },
+    {
+        "id": "volume-03-master-blueprint/book-03-03-ai-society",
+        "title": "Volume 03 - Book 03.03 AI Society",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_03_Book_03_03_AI_Society_v5_draft.pdf",
     },
 ]
 

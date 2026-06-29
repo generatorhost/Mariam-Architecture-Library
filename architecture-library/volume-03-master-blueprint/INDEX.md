@@ -115,3 +115,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-02-018 - `book-03-02-enterprise-organization/book-03-02-18-organization-testing.md`
 - MAL-V03-B03-02-019 - `book-03-02-enterprise-organization/book-03-02-19-organization-acceptance.md`
 - MAL-V03-B03-02-020 - `book-03-02-enterprise-organization/book-03-02-20-organization-roadmap.md`
+
+## Book 03.03 AI Society
+- MAL-V03-B03-03-README - `book-03-03-ai-society/README.md`
+- MAL-V03-B03-03-001 - `book-03-03-ai-society/book-03-03-01-ai-society-overview.md`
+- MAL-V03-B03-03-002 - `book-03-03-ai-society/book-03-03-02-chief.md`
+- MAL-V03-B03-03-003 - `book-03-03-ai-society/book-03-03-03-mission-manager.md`
+- MAL-V03-B03-03-004 - `book-03-03-ai-society/book-03-03-04-department-managers.md`
+- MAL-V03-B03-03-005 - `book-03-03-ai-society/book-03-03-05-team-leaders.md`
+- MAL-V03-B03-03-006 - `book-03-03-ai-society/book-03-03-06-swarms.md`
+- MAL-V03-B03-03-007 - `book-03-03-ai-society/book-03-03-07-agents.md`
+- MAL-V03-B03-03-008 - `book-03-03-ai-society/book-03-03-08-skills.md`
+- MAL-V03-B03-03-009 - `book-03-03-ai-society/book-03-03-09-capabilities.md`
+- MAL-V03-B03-03-010 - `book-03-03-ai-society/book-03-03-10-agent-memory.md`
+- MAL-V03-B03-03-011 - `book-03-03-ai-society/book-03-03-11-agent-communication.md`
+- MAL-V03-B03-03-012 - `book-03-03-ai-society/book-03-03-12-agent-planning.md`
+- MAL-V03-B03-03-013 - `book-03-03-ai-society/book-03-03-13-agent-execution.md`
+- MAL-V03-B03-03-014 - `book-03-03-ai-society/book-03-03-14-agent-review.md`
+- MAL-V03-B03-03-015 - `book-03-03-ai-society/book-03-03-15-agent-validation.md`
+- MAL-V03-B03-03-016 - `book-03-03-ai-society/book-03-03-16-agent-optimization.md`
+- MAL-V03-B03-03-017 - `book-03-03-ai-society/book-03-03-17-agent-dna.md`
+- MAL-V03-B03-03-018 - `book-03-03-ai-society/book-03-03-18-agent-governance.md`
+- MAL-V03-B03-03-019 - `book-03-03-ai-society/book-03-03-19-ai-society-testing.md`
+- MAL-V03-B03-03-020 - `book-03-03-ai-society/book-03-03-20-ai-society-roadmap.md`

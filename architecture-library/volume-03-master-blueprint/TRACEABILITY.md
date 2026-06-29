@@ -87,3 +87,12 @@ Covers trace links from Book 03.01 Enterprise Core to Volumes 00, 01, and 02.
 | Roles, decisions, approvals, escalation | MAL-V00-B011, MAL-V02-B016, MAL-V03-B03-01-009 |
 | KPIs, rhythm, checkpoints | MAL-V01-B006, MAL-V02-B015, MAL-V03-B03-01-017 |
 | Storage, security, testing, acceptance | MAL-V03-B03-01-015, MAL-V03-B03-01-016, MAL-V03-B03-01-018 |
+
+## Book 03.03 Trace Map
+| Blueprint Area | Primary Sources |
+| --- | --- |
+| AI Society blueprint | MAL-V00-B006, MAL-V00-B008, MAL-V01-B003, MAL-V02-B005 |
+| Chief, managers, teams, swarms, agents | MAL-V02-B005, MAL-V02-B012, MAL-V03-B03-02-006 |
+| Skills, capabilities, memory, DNA | MAL-V00-B007, MAL-V02-B007, MAL-V02-B008 |
+| Planning, execution, review, validation | MAL-V00-B010, MAL-V02-B011, MAL-V03-B03-01-004 |
+| Governance, testing, roadmap | MAL-V00-B009, MAL-V00-B011, MAL-V03-B03-01-018 |

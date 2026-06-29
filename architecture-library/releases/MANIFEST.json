@@ -1,38 +1,43 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v4 draft",
+  "version": "v5 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T15:47:27.583770+00:00",
+  "generated_at": "2026-06-29T16:13:52.083603+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v4_draft.zip",
-      "bytes": 305495,
-      "sha256": "c1451beb78657436655b52a4ed9a05e1f4458f9ad68a8a5af7851015e9515a7a"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v5_draft.zip",
+      "bytes": 412809,
+      "sha256": "38a0eeb3b7f3ecea33581f5413aacaa8b47c085b37361cea4ada8459c8307818"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
       "bytes": 39899,
-      "sha256": "41ec8a88e95d472160327f25da19a827f4832cd3aedee1170dd625b3becf52a7"
+      "sha256": "7a975c8aa0bb4759d6b195d2c765849029e8d0caa01d1e71ee5989a99c51d023"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_01_Master_Vision_v1_draft.pdf",
       "bytes": 22202,
-      "sha256": "c7a4985164fa5fb49f9d452a031b8489094db1a1616c5288743b8395ce38d139"
+      "sha256": "d21c20ee44e570d4aabb8ce12aa04917826a3776024c7b7101eb67da205b4ed5"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_02_Master_Roadmap_v2_draft.pdf",
       "bytes": 77412,
-      "sha256": "952d4554ebc56229ca9fab5236ba238db12ce012eab205167d6975fda5d038f8"
+      "sha256": "3f70fb602aebc64be463f64779d34591c3f85b29cb10f80adc919709492ea990"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_01_Enterprise_Core_v3_draft.pdf",
       "bytes": 71806,
-      "sha256": "3e76e6458d6c470b8dea05e52a8e0175f73d86f88151c58c6766a8d0eae10436"
+      "sha256": "43424dbb1d24b84a5f070d123c666946a8d9c29b0e83cd6441a69cd20c9e8de6"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_02_Enterprise_Organization_v4_draft.pdf",
       "bytes": 70780,
-      "sha256": "b8146b1433ee3f47fbb4c75ad7c9e07cfb6473c87143a5031f05f29f4fa5b8aa"
+      "sha256": "4716aacce3b742ee52c784be4fc7b87e2419a5a2402a6aec56f85a620fc09155"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_03_Book_03_03_AI_Society_v5_draft.pdf",
+      "bytes": 111297,
+      "sha256": "0706592117ce8d96b72cc32110e7fa18fbe58753cadb6c39311986cd6f19b646"
     }
   ]
 }
