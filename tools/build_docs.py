@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v2 draft"
-RELEASE_SLUG = "v2_draft"
+RELEASE_VERSION = "v3 draft"
+RELEASE_SLUG = "v3_draft"
 
 VOLUMES = [
     {
@@ -37,8 +37,14 @@ VOLUMES = [
     {
         "id": "volume-02-master-roadmap",
         "title": "Volume 02 - Master Roadmap",
-        "version": RELEASE_VERSION,
+        "version": "v2 draft",
         "pdf": "Volume_02_Master_Roadmap_v2_draft.pdf",
+    },
+    {
+        "id": "volume-03-master-blueprint/book-03-01-enterprise-core",
+        "title": "Volume 03 - Book 03.01 Enterprise Core",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_03_Book_03_01_Enterprise_Core_v3_draft.pdf",
     },
 ]
 
@@ -227,11 +233,11 @@ def build_pdf(volume: dict[str, str]) -> Path:
 def release_inputs() -> list[Path]:
     paths: list[Path] = []
     paths.append(ROOT / "README.md")
-    paths.extend(sorted(LIBRARY.glob("volume-*/*.md")))
-    paths.extend(sorted(RELEASES.glob("*.md")))
+    paths.extend(sorted(LIBRARY.rglob("*.md")))
     paths.extend(sorted(RELEASES.glob("*.json")))
     paths.extend(sorted(PDF_DIR.glob("*.pdf")))
-    return [path for path in paths if path.exists()]
+    unique = {path.resolve(): path for path in paths if path.exists()}
+    return sorted(unique.values(), key=lambda path: path.relative_to(ROOT).as_posix())
 
 
 def build_zip() -> Path:
