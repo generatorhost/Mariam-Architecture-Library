@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v89_draft.md |
 | Documents | v89-workflow-system-part-4/README.md, v89-workflow-system-part-4/INDEX.md, v89-workflow-system-part-4/guide-17-89-01-actions.md, v89-workflow-system-part-4/guide-17-89-02-workflow-observability.md |
+
+## v90 - Workflow System Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v90_draft.md |
+| Documents | v90-workflow-system-part-5/README.md, v90-workflow-system-part-5/INDEX.md, v90-workflow-system-part-5/guide-17-90-01-conditions.md, v90-workflow-system-part-5/guide-17-90-02-workflow-governance.md |

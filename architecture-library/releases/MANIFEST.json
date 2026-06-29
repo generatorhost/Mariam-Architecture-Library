@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v89 draft",
+  "version": "v90 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:53:47.605901+00:00",
+  "generated_at": "2026-06-29T18:53:58.168621+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v89_draft.zip",
-      "bytes": 4648966,
-      "sha256": "9b2fe69552341b5b69f29e039052b334b5caccea42abc2769a4d7a40e44477a4"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v90_draft.zip",
+      "bytes": 4662555,
+      "sha256": "701ae076afef778aa42dbd9073248c3787b61f2717efc3f9463e81c7b4b843b7"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -458,6 +458,11 @@
       "path": "architecture-library/releases/pdf/Volume_17_Workflow_System_Part_4_v89_draft.pdf",
       "bytes": 11659,
       "sha256": "32ce0eac58ca0e2a57a8b9bd2f3bf76bff74af7b164ca6f6ed26e5a540f523b2"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_17_Workflow_System_Part_5_v90_draft.pdf",
+      "bytes": 11644,
+      "sha256": "e9954449201f7f8de08f5e1155abd0af5a2b993bfc78460c5cbe8835dc5452aa"
     }
   ]
 }
