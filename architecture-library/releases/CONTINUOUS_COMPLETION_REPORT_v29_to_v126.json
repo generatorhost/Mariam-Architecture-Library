@@ -1,0 +1,1472 @@
+[
+  {
+    "version": 29,
+    "title": "Knowledge Capability Workflow Specifications",
+    "commit": "a080df4a9c2fed48799b1c55535d635f7d2fb93d",
+    "pdf": "Volume_06_Knowledge_Capability_Workflow_Specifications_v29_draft.pdf",
+    "pages": 14,
+    "zip": "Mariam_Architecture_Library_v29_draft.zip",
+    "markdown": 652,
+    "pdf_count": 30,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_06_Knowledge_Capability_Workflow_Specifications_v29_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v29_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 30,
+    "title": "Model Provider Plugin Connector Specifications",
+    "commit": "c7bed5e29cd39db2146b751a4270ab8169fdc449",
+    "pdf": "Volume_06_Model_Provider_Plugin_Connector_Specifications_v30_draft.pdf",
+    "pages": 18,
+    "zip": "Mariam_Architecture_Library_v30_draft.zip",
+    "markdown": 659,
+    "pdf_count": 31,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_06_Model_Provider_Plugin_Connector_Specifications_v30_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v30_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 31,
+    "title": "Marketplace Opportunity Automation Specifications",
+    "commit": "081db335f3fadae3b9c7d6862ea4f0341dd9fbc2",
+    "pdf": "Volume_06_Marketplace_Opportunity_Automation_Specifications_v31_draft.pdf",
+    "pages": 18,
+    "zip": "Mariam_Architecture_Library_v31_draft.zip",
+    "markdown": 666,
+    "pdf_count": 32,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_06_Marketplace_Opportunity_Automation_Specifications_v31_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v31_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 32,
+    "title": "Governance Infrastructure Security Specifications",
+    "commit": "1673d5f8407240deaa4af7d055032e7b75eebb89",
+    "pdf": "Volume_06_Governance_Infrastructure_Security_Specifications_v32_draft.pdf",
+    "pages": 18,
+    "zip": "Mariam_Architecture_Library_v32_draft.zip",
+    "markdown": 673,
+    "pdf_count": 33,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_06_Governance_Infrastructure_Security_Specifications_v32_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v32_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 33,
+    "title": "Storage Dashboard API MCP Specifications",
+    "commit": "287888247bbeb2aca2bb393936c58f1204a4c60f",
+    "pdf": "Volume_06_Storage_Dashboard_Api_Mcp_Specifications_v33_draft.pdf",
+    "pages": 18,
+    "zip": "Mariam_Architecture_Library_v33_draft.zip",
+    "markdown": 680,
+    "pdf_count": 34,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_06_Storage_Dashboard_Api_Mcp_Specifications_v33_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v33_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 34,
+    "title": "Integration Notification Automation Analytics Specifications",
+    "commit": "cdeb4bf11348ccb7a151ea03a5ef4f16a00e23ae",
+    "pdf": "Volume_06_Integration_Notification_Automation_Analytics_Specifications_v34_draft.pdf",
+    "pages": 18,
+    "zip": "Mariam_Architecture_Library_v34_draft.zip",
+    "markdown": 687,
+    "pdf_count": 35,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_06_Integration_Notification_Automation_Analytics_Specifications_v34_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v34_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 35,
+    "title": "Volume 06 Completion Specifications",
+    "commit": "2af7a34ac0171afd8b1f123767a2ef7599d8d55e",
+    "pdf": "Volume_06_Volume_06_Completion_Specifications_v35_draft.pdf",
+    "pages": 18,
+    "zip": "Mariam_Architecture_Library_v35_draft.zip",
+    "markdown": 694,
+    "pdf_count": 36,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_06_Volume_06_Completion_Specifications_v35_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v35_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 36,
+    "title": "Development Guide Part 1",
+    "commit": "d4728d733031cbb0c44db467fa47c7f3632ae35c",
+    "pdf": "Volume_07_Development_Guide_Part_1_v36_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v36_draft.zip",
+    "markdown": 705,
+    "pdf_count": 37,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_07_Development_Guide_Part_1_v36_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v36_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 37,
+    "title": "Development Guide Part 2",
+    "commit": "e2cfec0dc1cfe688e342fbd02f0c9b97e6de850e",
+    "pdf": "Volume_07_Development_Guide_Part_2_v37_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v37_draft.zip",
+    "markdown": 711,
+    "pdf_count": 38,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_07_Development_Guide_Part_2_v37_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v37_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 38,
+    "title": "Development Guide Part 3",
+    "commit": "70435270d7f007a2e93b0c565917fbc6445123cb",
+    "pdf": "Volume_07_Development_Guide_Part_3_v38_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v38_draft.zip",
+    "markdown": 717,
+    "pdf_count": 39,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_07_Development_Guide_Part_3_v38_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v38_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 39,
+    "title": "Development Guide Part 4",
+    "commit": "b05d355f1b9d6c341d6919a4554c844b3428588b",
+    "pdf": "Volume_07_Development_Guide_Part_4_v39_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v39_draft.zip",
+    "markdown": 723,
+    "pdf_count": 40,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_07_Development_Guide_Part_4_v39_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v39_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 40,
+    "title": "Development Guide Part 5",
+    "commit": "eb6dbf98a8d71bd6000735927c018c5163da27fd",
+    "pdf": "Volume_07_Development_Guide_Part_5_v40_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v40_draft.zip",
+    "markdown": 729,
+    "pdf_count": 41,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_07_Development_Guide_Part_5_v40_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v40_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 41,
+    "title": "Operations Guide Part 1",
+    "commit": "1d9513d760f9313ee938c6aa40b0eb464d73fa73",
+    "pdf": "Volume_08_Operations_Guide_Part_1_v41_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v41_draft.zip",
+    "markdown": 740,
+    "pdf_count": 42,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_08_Operations_Guide_Part_1_v41_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v41_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 42,
+    "title": "Operations Guide Part 2",
+    "commit": "b75047138a8d466c7983e94757ec71808733bc89",
+    "pdf": "Volume_08_Operations_Guide_Part_2_v42_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v42_draft.zip",
+    "markdown": 746,
+    "pdf_count": 43,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_08_Operations_Guide_Part_2_v42_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v42_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 43,
+    "title": "Operations Guide Part 3",
+    "commit": "0c6735c68e130c26d9785f9a1526505ba5656b9b",
+    "pdf": "Volume_08_Operations_Guide_Part_3_v43_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v43_draft.zip",
+    "markdown": 752,
+    "pdf_count": 44,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_08_Operations_Guide_Part_3_v43_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v43_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 44,
+    "title": "Operations Guide Part 4",
+    "commit": "b07c428a8c718991efda4b6fb1ab280c7ae7ea34",
+    "pdf": "Volume_08_Operations_Guide_Part_4_v44_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v44_draft.zip",
+    "markdown": 758,
+    "pdf_count": 45,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_08_Operations_Guide_Part_4_v44_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v44_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 45,
+    "title": "Operations Guide Part 5",
+    "commit": "998afd7be4d2413dfd5644f2412b9a10a187bd19",
+    "pdf": "Volume_08_Operations_Guide_Part_5_v45_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v45_draft.zip",
+    "markdown": 764,
+    "pdf_count": 46,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_08_Operations_Guide_Part_5_v45_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v45_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 46,
+    "title": "Testing Guide Part 1",
+    "commit": "49fa8707f3ffcfdc010f30df37678637fa7c2e4d",
+    "pdf": "Volume_09_Testing_Guide_Part_1_v46_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v46_draft.zip",
+    "markdown": 774,
+    "pdf_count": 47,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_09_Testing_Guide_Part_1_v46_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v46_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 47,
+    "title": "Testing Guide Part 2",
+    "commit": "78a3806dea6958e543bcdc3efcc7161dd77db5c7",
+    "pdf": "Volume_09_Testing_Guide_Part_2_v47_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v47_draft.zip",
+    "markdown": 779,
+    "pdf_count": 48,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_09_Testing_Guide_Part_2_v47_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v47_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 48,
+    "title": "Testing Guide Part 3",
+    "commit": "39fcf9e0985d74460b8738f56451ce91d4588dbf",
+    "pdf": "Volume_09_Testing_Guide_Part_3_v48_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v48_draft.zip",
+    "markdown": 784,
+    "pdf_count": 49,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_09_Testing_Guide_Part_3_v48_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v48_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 49,
+    "title": "Testing Guide Part 4",
+    "commit": "8ebf2f8ee1702d731d7956be1de95c87ba548560",
+    "pdf": "Volume_09_Testing_Guide_Part_4_v49_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v49_draft.zip",
+    "markdown": 789,
+    "pdf_count": 50,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_09_Testing_Guide_Part_4_v49_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v49_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 50,
+    "title": "Testing Guide Part 5",
+    "commit": "3bb4d23ea39691cb8f214a1f2002a97bebf991d0",
+    "pdf": "Volume_09_Testing_Guide_Part_5_v50_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v50_draft.zip",
+    "markdown": 794,
+    "pdf_count": 51,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_09_Testing_Guide_Part_5_v50_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v50_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 51,
+    "title": "Enterprise Organization Part 1",
+    "commit": "8477b25e4b1b6eadb5f917e800cc4c16098b5f22",
+    "pdf": "Volume_10_Enterprise_Organization_Part_1_v51_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v51_draft.zip",
+    "markdown": 804,
+    "pdf_count": 52,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_10_Enterprise_Organization_Part_1_v51_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v51_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 52,
+    "title": "Enterprise Organization Part 2",
+    "commit": "eea096178e6bfff5d7889937bc7ebfc67d21c265",
+    "pdf": "Volume_10_Enterprise_Organization_Part_2_v52_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v52_draft.zip",
+    "markdown": 809,
+    "pdf_count": 53,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_10_Enterprise_Organization_Part_2_v52_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v52_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 53,
+    "title": "Enterprise Organization Part 3",
+    "commit": "a095965b4b86dc0b3bc3ee494996e4fd908930ba",
+    "pdf": "Volume_10_Enterprise_Organization_Part_3_v53_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v53_draft.zip",
+    "markdown": 814,
+    "pdf_count": 54,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_10_Enterprise_Organization_Part_3_v53_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v53_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 54,
+    "title": "Enterprise Organization Part 4",
+    "commit": "3933ae7d08c0d4f3d94b520ce4d2028d0d39c028",
+    "pdf": "Volume_10_Enterprise_Organization_Part_4_v54_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v54_draft.zip",
+    "markdown": 819,
+    "pdf_count": 55,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_10_Enterprise_Organization_Part_4_v54_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v54_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 55,
+    "title": "Enterprise Organization Part 5",
+    "commit": "bb0bd44acb9786f6bfd5e7d2c8805e53372d6053",
+    "pdf": "Volume_10_Enterprise_Organization_Part_5_v55_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v55_draft.zip",
+    "markdown": 824,
+    "pdf_count": 56,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_10_Enterprise_Organization_Part_5_v55_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v55_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 56,
+    "title": "AI Society Part 1",
+    "commit": "422015fa0ba43aa93b7185e862285d9c932c29be",
+    "pdf": "Volume_11_Ai_Society_Part_1_v56_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v56_draft.zip",
+    "markdown": 835,
+    "pdf_count": 57,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_11_Ai_Society_Part_1_v56_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v56_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 57,
+    "title": "AI Society Part 2",
+    "commit": "f6f6e9983cdfacd28627dc711d7ebac89ee5adc3",
+    "pdf": "Volume_11_Ai_Society_Part_2_v57_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v57_draft.zip",
+    "markdown": 841,
+    "pdf_count": 58,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_11_Ai_Society_Part_2_v57_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v57_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 58,
+    "title": "AI Society Part 3",
+    "commit": "d9899468fcb2ffcdd6fb5fe8806c99af25afbb14",
+    "pdf": "Volume_11_Ai_Society_Part_3_v58_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v58_draft.zip",
+    "markdown": 847,
+    "pdf_count": 59,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_11_Ai_Society_Part_3_v58_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v58_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 59,
+    "title": "AI Society Part 4",
+    "commit": "28a00f70fd60ae990ac5edfb08cb8296b481c2f7",
+    "pdf": "Volume_11_Ai_Society_Part_4_v59_draft.pdf",
+    "pages": 8,
+    "zip": "Mariam_Architecture_Library_v59_draft.zip",
+    "markdown": 853,
+    "pdf_count": 60,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_11_Ai_Society_Part_4_v59_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v59_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 60,
+    "title": "AI Society Part 5",
+    "commit": "287623d3ea04aaad14ab388055743eee5d6e2f75",
+    "pdf": "Volume_11_Ai_Society_Part_5_v60_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v60_draft.zip",
+    "markdown": 858,
+    "pdf_count": 61,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_11_Ai_Society_Part_5_v60_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v60_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 61,
+    "title": "Knowledge System Part 1",
+    "commit": "4ed8a1def51827eec44cd702b508300ef41af186",
+    "pdf": "Volume_12_Knowledge_System_Part_1_v61_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v61_draft.zip",
+    "markdown": 868,
+    "pdf_count": 62,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_12_Knowledge_System_Part_1_v61_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v61_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 62,
+    "title": "Knowledge System Part 2",
+    "commit": "2703082d030cc9f249ef71d38eb3e0f3b67012ee",
+    "pdf": "Volume_12_Knowledge_System_Part_2_v62_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v62_draft.zip",
+    "markdown": 873,
+    "pdf_count": 63,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_12_Knowledge_System_Part_2_v62_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v62_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 63,
+    "title": "Knowledge System Part 3",
+    "commit": "64509dac272eae313123c182d24cb38dc84dd051",
+    "pdf": "Volume_12_Knowledge_System_Part_3_v63_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v63_draft.zip",
+    "markdown": 878,
+    "pdf_count": 64,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_12_Knowledge_System_Part_3_v63_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v63_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 64,
+    "title": "Knowledge System Part 4",
+    "commit": "7df732320a67c825e7abac104cbc48d571fbaf0b",
+    "pdf": "Volume_12_Knowledge_System_Part_4_v64_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v64_draft.zip",
+    "markdown": 883,
+    "pdf_count": 65,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_12_Knowledge_System_Part_4_v64_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v64_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 65,
+    "title": "Knowledge System Part 5",
+    "commit": "9e20ce1408245c17b17ece240ee1ab7e4c582263",
+    "pdf": "Volume_12_Knowledge_System_Part_5_v65_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v65_draft.zip",
+    "markdown": 888,
+    "pdf_count": 66,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_12_Knowledge_System_Part_5_v65_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v65_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 66,
+    "title": "Capability System Part 1",
+    "commit": "c29da63929b1cf3d7d0199c7137db678143263a1",
+    "pdf": "Volume_13_Capability_System_Part_1_v66_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v66_draft.zip",
+    "markdown": 898,
+    "pdf_count": 67,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_13_Capability_System_Part_1_v66_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v66_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 67,
+    "title": "Capability System Part 2",
+    "commit": "66b21d47b5fb257f72d9943c50fa9964e663a5ad",
+    "pdf": "Volume_13_Capability_System_Part_2_v67_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v67_draft.zip",
+    "markdown": 903,
+    "pdf_count": 68,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_13_Capability_System_Part_2_v67_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v67_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 68,
+    "title": "Capability System Part 3",
+    "commit": "c7e07d26cd62a1b43e139fe35dfbc7003da21e42",
+    "pdf": "Volume_13_Capability_System_Part_3_v68_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v68_draft.zip",
+    "markdown": 908,
+    "pdf_count": 69,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_13_Capability_System_Part_3_v68_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v68_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 69,
+    "title": "Capability System Part 4",
+    "commit": "1633ab2bed4f6594782b40ccc19ba03fdebefea8",
+    "pdf": "Volume_13_Capability_System_Part_4_v69_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v69_draft.zip",
+    "markdown": 913,
+    "pdf_count": 70,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_13_Capability_System_Part_4_v69_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v69_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 70,
+    "title": "Capability System Part 5",
+    "commit": "82b41ae45b116bec35d10ac189737ca56d762463",
+    "pdf": "Volume_13_Capability_System_Part_5_v70_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v70_draft.zip",
+    "markdown": 918,
+    "pdf_count": 71,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_13_Capability_System_Part_5_v70_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v70_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 71,
+    "title": "DNA Operating System Part 1",
+    "commit": "71b65d6ad0fdafd86a9b82df6a58c330d9031643",
+    "pdf": "Volume_14_Dna_Operating_System_Part_1_v71_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v71_draft.zip",
+    "markdown": 928,
+    "pdf_count": 72,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_14_Dna_Operating_System_Part_1_v71_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v71_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 72,
+    "title": "DNA Operating System Part 2",
+    "commit": "cde5a2c8857c9c117fa14b082b69a64726ca652b",
+    "pdf": "Volume_14_Dna_Operating_System_Part_2_v72_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v72_draft.zip",
+    "markdown": 933,
+    "pdf_count": 73,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_14_Dna_Operating_System_Part_2_v72_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v72_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 73,
+    "title": "DNA Operating System Part 3",
+    "commit": "f97562c6dddae07deb2de7849ca131c39db96788",
+    "pdf": "Volume_14_Dna_Operating_System_Part_3_v73_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v73_draft.zip",
+    "markdown": 938,
+    "pdf_count": 74,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_14_Dna_Operating_System_Part_3_v73_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v73_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 74,
+    "title": "DNA Operating System Part 4",
+    "commit": "807a28855db2c2a413ff9e3c5ed2b8db0bfc7da9",
+    "pdf": "Volume_14_Dna_Operating_System_Part_4_v74_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v74_draft.zip",
+    "markdown": 943,
+    "pdf_count": 75,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_14_Dna_Operating_System_Part_4_v74_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v74_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 75,
+    "title": "DNA Operating System Part 5",
+    "commit": "a534915cf173a186e512b9e75c3abc1881e20948",
+    "pdf": "Volume_14_Dna_Operating_System_Part_5_v75_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v75_draft.zip",
+    "markdown": 948,
+    "pdf_count": 76,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_14_Dna_Operating_System_Part_5_v75_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v75_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 76,
+    "title": "Runtime Ecosystem Part 1",
+    "commit": "ec31873d10563fb87e411dec4835b897f717b84b",
+    "pdf": "Volume_15_Runtime_Ecosystem_Part_1_v76_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v76_draft.zip",
+    "markdown": 958,
+    "pdf_count": 77,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_15_Runtime_Ecosystem_Part_1_v76_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v76_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 77,
+    "title": "Runtime Ecosystem Part 2",
+    "commit": "3aa6fc2c8c5a05de6af9f8c9823659990ef08011",
+    "pdf": "Volume_15_Runtime_Ecosystem_Part_2_v77_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v77_draft.zip",
+    "markdown": 963,
+    "pdf_count": 78,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_15_Runtime_Ecosystem_Part_2_v77_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v77_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 78,
+    "title": "Runtime Ecosystem Part 3",
+    "commit": "37d6398ce17553001bfcaff6898bae450482e8c4",
+    "pdf": "Volume_15_Runtime_Ecosystem_Part_3_v78_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v78_draft.zip",
+    "markdown": 968,
+    "pdf_count": 79,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_15_Runtime_Ecosystem_Part_3_v78_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v78_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 79,
+    "title": "Runtime Ecosystem Part 4",
+    "commit": "353a7fc3c2c226385846da745747a620ffec8ce8",
+    "pdf": "Volume_15_Runtime_Ecosystem_Part_4_v79_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v79_draft.zip",
+    "markdown": 973,
+    "pdf_count": 80,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_15_Runtime_Ecosystem_Part_4_v79_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v79_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 80,
+    "title": "Runtime Ecosystem Part 5",
+    "commit": "60ecbd98f1f589184ae052add4c7f23383023ec3",
+    "pdf": "Volume_15_Runtime_Ecosystem_Part_5_v80_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v80_draft.zip",
+    "markdown": 978,
+    "pdf_count": 81,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_15_Runtime_Ecosystem_Part_5_v80_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v80_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 81,
+    "title": "Model Ecosystem Part 1",
+    "commit": "b368f62d3f5ffee824b83fa31e631994956b788c",
+    "pdf": "Volume_16_Model_Ecosystem_Part_1_v81_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v81_draft.zip",
+    "markdown": 988,
+    "pdf_count": 82,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_16_Model_Ecosystem_Part_1_v81_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v81_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 82,
+    "title": "Model Ecosystem Part 2",
+    "commit": "40bff82e45fbbc5dcb37f158432d09207a3eeca5",
+    "pdf": "Volume_16_Model_Ecosystem_Part_2_v82_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v82_draft.zip",
+    "markdown": 993,
+    "pdf_count": 83,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_16_Model_Ecosystem_Part_2_v82_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v82_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 83,
+    "title": "Model Ecosystem Part 3",
+    "commit": "2957512f761279852398f363ebfb6ecbc92ee618",
+    "pdf": "Volume_16_Model_Ecosystem_Part_3_v83_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v83_draft.zip",
+    "markdown": 998,
+    "pdf_count": 84,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_16_Model_Ecosystem_Part_3_v83_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v83_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 84,
+    "title": "Model Ecosystem Part 4",
+    "commit": "b3da65b14f583a262464d2157f9ec8479b08b51b",
+    "pdf": "Volume_16_Model_Ecosystem_Part_4_v84_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v84_draft.zip",
+    "markdown": 1003,
+    "pdf_count": 85,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_16_Model_Ecosystem_Part_4_v84_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v84_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 85,
+    "title": "Model Ecosystem Part 5",
+    "commit": "f4faee2f8357e535acef1d1692a9cb8630d737df",
+    "pdf": "Volume_16_Model_Ecosystem_Part_5_v85_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v85_draft.zip",
+    "markdown": 1008,
+    "pdf_count": 86,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_16_Model_Ecosystem_Part_5_v85_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v85_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 86,
+    "title": "Workflow System Part 1",
+    "commit": "e1de4c52a749eebf96c64b98e8db205d3b689855",
+    "pdf": "Volume_17_Workflow_System_Part_1_v86_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v86_draft.zip",
+    "markdown": 1018,
+    "pdf_count": 87,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_17_Workflow_System_Part_1_v86_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v86_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 87,
+    "title": "Workflow System Part 2",
+    "commit": "d81e0019aa9463f70d2390bc9e6e35735691c0f8",
+    "pdf": "Volume_17_Workflow_System_Part_2_v87_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v87_draft.zip",
+    "markdown": 1023,
+    "pdf_count": 88,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_17_Workflow_System_Part_2_v87_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v87_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 88,
+    "title": "Workflow System Part 3",
+    "commit": "7fd928694077a7fdd3cc634d22f4ab5e9579f6e3",
+    "pdf": "Volume_17_Workflow_System_Part_3_v88_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v88_draft.zip",
+    "markdown": 1028,
+    "pdf_count": 89,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_17_Workflow_System_Part_3_v88_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v88_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 89,
+    "title": "Workflow System Part 4",
+    "commit": "d26a7e5bb975f48a8437bd52e8dd1ba2847a135c",
+    "pdf": "Volume_17_Workflow_System_Part_4_v89_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v89_draft.zip",
+    "markdown": 1033,
+    "pdf_count": 90,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_17_Workflow_System_Part_4_v89_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v89_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 90,
+    "title": "Workflow System Part 5",
+    "commit": "9f665138e0fd24eb3d7cf4d272e49afaac206dd6",
+    "pdf": "Volume_17_Workflow_System_Part_5_v90_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v90_draft.zip",
+    "markdown": 1038,
+    "pdf_count": 91,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_17_Workflow_System_Part_5_v90_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v90_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 91,
+    "title": "Swarm Intelligence Part 1",
+    "commit": "eed1699964919a01c30aea98a798629f02eb8137",
+    "pdf": "Volume_18_Swarm_Intelligence_Part_1_v91_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v91_draft.zip",
+    "markdown": 1048,
+    "pdf_count": 92,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_18_Swarm_Intelligence_Part_1_v91_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v91_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 92,
+    "title": "Swarm Intelligence Part 2",
+    "commit": "1852517423b64477e7ad8098f5d7dbded6124b91",
+    "pdf": "Volume_18_Swarm_Intelligence_Part_2_v92_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v92_draft.zip",
+    "markdown": 1053,
+    "pdf_count": 93,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_18_Swarm_Intelligence_Part_2_v92_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v92_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 93,
+    "title": "Swarm Intelligence Part 3",
+    "commit": "6cfaf02bd2159179f0ffed16bfd2b2599b1b9803",
+    "pdf": "Volume_18_Swarm_Intelligence_Part_3_v93_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v93_draft.zip",
+    "markdown": 1058,
+    "pdf_count": 94,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_18_Swarm_Intelligence_Part_3_v93_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v93_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 94,
+    "title": "Swarm Intelligence Part 4",
+    "commit": "1ab2103cc72b2adfbb5067feb15079cf55d8b4d8",
+    "pdf": "Volume_18_Swarm_Intelligence_Part_4_v94_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v94_draft.zip",
+    "markdown": 1063,
+    "pdf_count": 95,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_18_Swarm_Intelligence_Part_4_v94_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v94_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 95,
+    "title": "Swarm Intelligence Part 5",
+    "commit": "4eb50215b0ec51e0d06215f200113ab3ee577cce",
+    "pdf": "Volume_18_Swarm_Intelligence_Part_5_v95_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v95_draft.zip",
+    "markdown": 1068,
+    "pdf_count": 96,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_18_Swarm_Intelligence_Part_5_v95_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v95_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 96,
+    "title": "Opportunity Intelligence Part 1",
+    "commit": "f673826f7766fa06ca1b43fbf975ae408c143468",
+    "pdf": "Volume_19_Opportunity_Intelligence_Part_1_v96_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v96_draft.zip",
+    "markdown": 1078,
+    "pdf_count": 97,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_19_Opportunity_Intelligence_Part_1_v96_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v96_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 97,
+    "title": "Opportunity Intelligence Part 2",
+    "commit": "a24a6630e207fdfe0c035beb81700994c2746ce3",
+    "pdf": "Volume_19_Opportunity_Intelligence_Part_2_v97_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v97_draft.zip",
+    "markdown": 1083,
+    "pdf_count": 98,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_19_Opportunity_Intelligence_Part_2_v97_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v97_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 98,
+    "title": "Opportunity Intelligence Part 3",
+    "commit": "8417a766990d99ddef6ef1cef14dd357e26f69a3",
+    "pdf": "Volume_19_Opportunity_Intelligence_Part_3_v98_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v98_draft.zip",
+    "markdown": 1088,
+    "pdf_count": 99,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_19_Opportunity_Intelligence_Part_3_v98_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v98_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 99,
+    "title": "Opportunity Intelligence Part 4",
+    "commit": "42de274e83807d7310f45f635a44a3f63a02d46d",
+    "pdf": "Volume_19_Opportunity_Intelligence_Part_4_v99_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v99_draft.zip",
+    "markdown": 1093,
+    "pdf_count": 100,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_19_Opportunity_Intelligence_Part_4_v99_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v99_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 100,
+    "title": "Opportunity Intelligence Part 5",
+    "commit": "ef0c2f0d20175772498d7cd28f976733bb1e390a",
+    "pdf": "Volume_19_Opportunity_Intelligence_Part_5_v100_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v100_draft.zip",
+    "markdown": 1098,
+    "pdf_count": 101,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_19_Opportunity_Intelligence_Part_5_v100_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v100_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 101,
+    "title": "Enterprise Governance Part 1",
+    "commit": "5bd550e81ce96cd4552791c6807fa425ede7c866",
+    "pdf": "Volume_20_Enterprise_Governance_Part_1_v101_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v101_draft.zip",
+    "markdown": 1108,
+    "pdf_count": 102,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_20_Enterprise_Governance_Part_1_v101_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v101_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 102,
+    "title": "Enterprise Governance Part 2",
+    "commit": "50f298fb390359aba5f572e9472f41b3468743b1",
+    "pdf": "Volume_20_Enterprise_Governance_Part_2_v102_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v102_draft.zip",
+    "markdown": 1113,
+    "pdf_count": 103,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_20_Enterprise_Governance_Part_2_v102_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v102_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 103,
+    "title": "Enterprise Governance Part 3",
+    "commit": "35f0f00c34e7b37277740ed23d6e272718772aa0",
+    "pdf": "Volume_20_Enterprise_Governance_Part_3_v103_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v103_draft.zip",
+    "markdown": 1118,
+    "pdf_count": 104,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_20_Enterprise_Governance_Part_3_v103_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v103_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 104,
+    "title": "Enterprise Governance Part 4",
+    "commit": "acdfd0d229522af17d6f1d01a7fa169aeb1a9345",
+    "pdf": "Volume_20_Enterprise_Governance_Part_4_v104_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v104_draft.zip",
+    "markdown": 1123,
+    "pdf_count": 105,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_20_Enterprise_Governance_Part_4_v104_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v104_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 105,
+    "title": "Enterprise Governance Part 5",
+    "commit": "f8c0cffdd1585de4db5f0ed7611f5cbd35dac6d1",
+    "pdf": "Volume_20_Enterprise_Governance_Part_5_v105_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v105_draft.zip",
+    "markdown": 1128,
+    "pdf_count": 106,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_20_Enterprise_Governance_Part_5_v105_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v105_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 106,
+    "title": "Infrastructure Part 1",
+    "commit": "d1e5bb5defb7795ead0f7ecb568e0b9136cb72c8",
+    "pdf": "Volume_21_Infrastructure_Part_1_v106_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v106_draft.zip",
+    "markdown": 1138,
+    "pdf_count": 107,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_21_Infrastructure_Part_1_v106_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v106_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 107,
+    "title": "Infrastructure Part 2",
+    "commit": "8573e867a09b514d6267eba0954628dbe7c06d84",
+    "pdf": "Volume_21_Infrastructure_Part_2_v107_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v107_draft.zip",
+    "markdown": 1143,
+    "pdf_count": 108,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_21_Infrastructure_Part_2_v107_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v107_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 108,
+    "title": "Infrastructure Part 3",
+    "commit": "d352cacad157310948b7a896f882b6f8b7653502",
+    "pdf": "Volume_21_Infrastructure_Part_3_v108_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v108_draft.zip",
+    "markdown": 1148,
+    "pdf_count": 109,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_21_Infrastructure_Part_3_v108_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v108_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 109,
+    "title": "Infrastructure Part 4",
+    "commit": "882ecbebe40e30de2160557c9ae071e7aed5623f",
+    "pdf": "Volume_21_Infrastructure_Part_4_v109_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v109_draft.zip",
+    "markdown": 1153,
+    "pdf_count": 110,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_21_Infrastructure_Part_4_v109_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v109_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 110,
+    "title": "Infrastructure Part 5",
+    "commit": "5a42c02209f790c8c0eef6f5b967bc3845935b1a",
+    "pdf": "Volume_21_Infrastructure_Part_5_v110_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v110_draft.zip",
+    "markdown": 1158,
+    "pdf_count": 111,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_21_Infrastructure_Part_5_v110_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v110_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 111,
+    "title": "Experience Layer Part 1",
+    "commit": "f8ff7c35fc713b4344aaece0fc1c4368bac2a2e9",
+    "pdf": "Volume_22_Experience_Layer_Part_1_v111_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v111_draft.zip",
+    "markdown": 1168,
+    "pdf_count": 112,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_22_Experience_Layer_Part_1_v111_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v111_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 112,
+    "title": "Experience Layer Part 2",
+    "commit": "c16c777cfbff45aee527e2abc7f6c0d4974c5028",
+    "pdf": "Volume_22_Experience_Layer_Part_2_v112_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v112_draft.zip",
+    "markdown": 1173,
+    "pdf_count": 113,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_22_Experience_Layer_Part_2_v112_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v112_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 113,
+    "title": "Experience Layer Part 3",
+    "commit": "b136d5ba9478b6b05f5eb64501404bec9f2a909a",
+    "pdf": "Volume_22_Experience_Layer_Part_3_v113_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v113_draft.zip",
+    "markdown": 1178,
+    "pdf_count": 114,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_22_Experience_Layer_Part_3_v113_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v113_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 114,
+    "title": "Experience Layer Part 4",
+    "commit": "cd4bddb4aacdbed0e15a79e24b00f5e407f10282",
+    "pdf": "Volume_22_Experience_Layer_Part_4_v114_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v114_draft.zip",
+    "markdown": 1183,
+    "pdf_count": 115,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_22_Experience_Layer_Part_4_v114_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v114_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 115,
+    "title": "Experience Layer Part 5",
+    "commit": "08fdc791cc71c1f2c63eafdd64b9da3a55b1696f",
+    "pdf": "Volume_22_Experience_Layer_Part_5_v115_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v115_draft.zip",
+    "markdown": 1188,
+    "pdf_count": 116,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_22_Experience_Layer_Part_5_v115_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v115_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 116,
+    "title": "Marketplace Part 1",
+    "commit": "028aa72e61f45c1c8b9cf3063d790719aff3672f",
+    "pdf": "Volume_23_Marketplace_Part_1_v116_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v116_draft.zip",
+    "markdown": 1198,
+    "pdf_count": 117,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_23_Marketplace_Part_1_v116_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v116_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 117,
+    "title": "Marketplace Part 2",
+    "commit": "a8ddd7a746e5ecd258d0121eae042d03f317c0f6",
+    "pdf": "Volume_23_Marketplace_Part_2_v117_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v117_draft.zip",
+    "markdown": 1203,
+    "pdf_count": 118,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_23_Marketplace_Part_2_v117_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v117_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 118,
+    "title": "Marketplace Part 3",
+    "commit": "b8616f5ac6c4bd0c4499866e787ecbe0013728cd",
+    "pdf": "Volume_23_Marketplace_Part_3_v118_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v118_draft.zip",
+    "markdown": 1208,
+    "pdf_count": 119,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_23_Marketplace_Part_3_v118_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v118_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 119,
+    "title": "Marketplace Part 4",
+    "commit": "b4f3d0ddd08418b46dbb30291e7de32af6c68d32",
+    "pdf": "Volume_23_Marketplace_Part_4_v119_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v119_draft.zip",
+    "markdown": 1213,
+    "pdf_count": 120,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_23_Marketplace_Part_4_v119_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v119_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 120,
+    "title": "Marketplace Part 5",
+    "commit": "682e6e2291dbe0fa7a11713337e2a61fa039b050",
+    "pdf": "Volume_23_Marketplace_Part_5_v120_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v120_draft.zip",
+    "markdown": 1218,
+    "pdf_count": 121,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_23_Marketplace_Part_5_v120_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v120_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 121,
+    "title": "Evolution Part 1",
+    "commit": "772250b84b03958a044e0e2f868b4e619df3a5a9",
+    "pdf": "Volume_24_Evolution_Part_1_v121_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v121_draft.zip",
+    "markdown": 1228,
+    "pdf_count": 122,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_24_Evolution_Part_1_v121_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v121_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 122,
+    "title": "Evolution Part 2",
+    "commit": "7ac690b2838a57b14d1555de3b97931dac344bbd",
+    "pdf": "Volume_24_Evolution_Part_2_v122_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v122_draft.zip",
+    "markdown": 1233,
+    "pdf_count": 123,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_24_Evolution_Part_2_v122_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v122_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 123,
+    "title": "Evolution Part 3",
+    "commit": "83cdebeec4266dba3d3ea0525714dd15b28ef6f6",
+    "pdf": "Volume_24_Evolution_Part_3_v123_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v123_draft.zip",
+    "markdown": 1238,
+    "pdf_count": 124,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_24_Evolution_Part_3_v123_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v123_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 124,
+    "title": "Evolution Part 4",
+    "commit": "337c5ee3f0455886156e9d3c1c77f4afa885edaa",
+    "pdf": "Volume_24_Evolution_Part_4_v124_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v124_draft.zip",
+    "markdown": 1243,
+    "pdf_count": 125,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_24_Evolution_Part_4_v124_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v124_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 125,
+    "title": "Evolution Part 5",
+    "commit": "8a0011871e2e542c3969b787f19e54ac025e0d4b",
+    "pdf": "Volume_24_Evolution_Part_5_v125_draft.pdf",
+    "pages": 6,
+    "zip": "Mariam_Architecture_Library_v125_draft.zip",
+    "markdown": 1248,
+    "pdf_count": 126,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_24_Evolution_Part_5_v125_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v125_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  },
+  {
+    "version": 126,
+    "title": "Autonomous Enterprise Final Documentation",
+    "commit": "52e4699d39ea7750192339da719655f268f7e9c8",
+    "pdf": "Volume_25_Autonomous_Enterprise_Final_Documentation_v126_draft.pdf",
+    "pages": 34,
+    "zip": "Mariam_Architecture_Library_v126_draft.zip",
+    "markdown": 1273,
+    "pdf_count": 127,
+    "build_tail": [
+      "Generated architecture-library\\releases\\pdf\\Volume_25_Autonomous_Enterprise_Final_Documentation_v126_draft.pdf",
+      "Generated architecture-library\\releases\\Mariam_Architecture_Library_v126_draft.zip",
+      "Generated architecture-library\\releases\\MANIFEST.json"
+    ]
+  }
+]
