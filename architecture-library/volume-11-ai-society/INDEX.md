@@ -20,3 +20,10 @@
 - `v58-ai-society-part-3/guide-11-58-01-departments.md`
 - `v58-ai-society-part-3/guide-11-58-02-memory.md`
 - `v58-ai-society-part-3/guide-11-58-03-optimization.md`
+
+## v59 - AI Society Part 4
+- `v59-ai-society-part-4/README.md`
+- `v59-ai-society-part-4/INDEX.md`
+- `v59-ai-society-part-4/guide-11-59-01-teams.md`
+- `v59-ai-society-part-4/guide-11-59-02-reasoning.md`
+- `v59-ai-society-part-4/guide-11-59-03-evolution.md`
