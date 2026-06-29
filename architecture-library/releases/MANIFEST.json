@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v126 draft",
+  "version": "v127 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T19:00:49.010143+00:00",
+  "generated_at": "2026-06-29T23:45:35.007796+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v126_draft.zip",
-      "bytes": 5239479,
-      "sha256": "a04feb03d9f6c188169100f8a96b3691af46a4f0e3d8246b887c7bdb130e802f"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v127_draft.zip",
+      "bytes": 5504606,
+      "sha256": "19f36b934bf4bef4e451293060e65783fc7e782919a46e7634bc6317ba7cea5f"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -643,6 +643,11 @@
       "path": "architecture-library/releases/pdf/Volume_25_Autonomous_Enterprise_Final_Documentation_v126_draft.pdf",
       "bytes": 73174,
       "sha256": "6158d9204ded99883419a3b02c994f354bf2d864eb29dd0279a3a1bb55ccaf69"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_26_Experience_Interface_Design_v127_draft.pdf",
+      "bytes": 282007,
+      "sha256": "8bc258074460d11d5762b5814eec5236320b3bf2110e4ee398e0e08e8442a46a"
     }
   ]
 }
