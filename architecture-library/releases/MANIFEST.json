@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v90 draft",
+  "version": "v91 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:53:58.168621+00:00",
+  "generated_at": "2026-06-29T18:54:09.000656+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v90_draft.zip",
-      "bytes": 4662555,
-      "sha256": "701ae076afef778aa42dbd9073248c3787b61f2717efc3f9463e81c7b4b843b7"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v91_draft.zip",
+      "bytes": 4678388,
+      "sha256": "64a1ddb5460b9458aca7a5bc4d2f9b3366b01d8bc82122ad19aeed334a2ce875"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -463,6 +463,11 @@
       "path": "architecture-library/releases/pdf/Volume_17_Workflow_System_Part_5_v90_draft.pdf",
       "bytes": 11644,
       "sha256": "e9954449201f7f8de08f5e1155abd0af5a2b993bfc78460c5cbe8835dc5452aa"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_18_Swarm_Intelligence_Part_1_v91_draft.pdf",
+      "bytes": 11678,
+      "sha256": "384b1e6ddf3b4272940803c0d02ef0baaf8f4353dfe3d4d4c964d19d0687ac4d"
     }
   ]
 }

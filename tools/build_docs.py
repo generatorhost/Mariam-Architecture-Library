@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v90 draft"
-RELEASE_SLUG = "v90_draft"
+RELEASE_VERSION = "v91 draft"
+RELEASE_SLUG = "v91_draft"
 
 VOLUMES = [
     {
@@ -565,8 +565,14 @@ VOLUMES = [
     {
         "id": "volume-17-workflow-system/v90-workflow-system-part-5",
         "title": "Volume 17 Workflow System - Workflow System Part 5",
-        "version": RELEASE_VERSION,
+        "version": "v90 draft",
         "pdf": "Volume_17_Workflow_System_Part_5_v90_draft.pdf",
+    },
+    {
+        "id": "volume-18-swarm-intelligence/v91-swarm-intelligence-part-1",
+        "title": "Volume 18 Swarm Intelligence - Swarm Intelligence Part 1",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_18_Swarm_Intelligence_Part_1_v91_draft.pdf",
     },
 ]
 
