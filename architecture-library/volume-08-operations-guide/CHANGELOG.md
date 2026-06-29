@@ -19,3 +19,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v44 draft | Draft | Added Operations Guide Part 4 documentation and release artifacts. |
+
+## v45 - Operations Guide Part 5
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v45 draft | Draft | Added Operations Guide Part 5 documentation and release artifacts. |

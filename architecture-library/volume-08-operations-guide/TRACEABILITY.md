@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v44_draft.md |
 | Documents | v44-operations-guide-part-4/README.md, v44-operations-guide-part-4/INDEX.md, v44-operations-guide-part-4/guide-08-44-01-scaling.md, v44-operations-guide-part-4/guide-08-44-02-backup.md, v44-operations-guide-part-4/guide-08-44-03-disaster-recovery.md |
+
+## v45 - Operations Guide Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v45_draft.md |
+| Documents | v45-operations-guide-part-5/README.md, v45-operations-guide-part-5/INDEX.md, v45-operations-guide-part-5/guide-08-45-01-monitoring.md, v45-operations-guide-part-5/guide-08-45-02-restore.md, v45-operations-guide-part-5/guide-08-45-03-performance-tuning.md |
