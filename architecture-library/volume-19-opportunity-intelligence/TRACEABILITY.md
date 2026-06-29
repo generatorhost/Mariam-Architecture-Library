@@ -17,3 +17,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v97_draft.md |
 | Documents | v97-opportunity-intelligence-part-2/README.md, v97-opportunity-intelligence-part-2/INDEX.md, v97-opportunity-intelligence-part-2/guide-19-97-01-freelance-discovery.md, v97-opportunity-intelligence-part-2/guide-19-97-02-opportunity-validation.md |
+
+## v98 - Opportunity Intelligence Part 3
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v98_draft.md |
+| Documents | v98-opportunity-intelligence-part-3/README.md, v98-opportunity-intelligence-part-3/INDEX.md, v98-opportunity-intelligence-part-3/guide-19-98-01-remote-work-discovery.md, v98-opportunity-intelligence-part-3/guide-19-98-02-client-fit.md |
