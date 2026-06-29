@@ -142,3 +142,12 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v33_draft.md |
 | Documents | v33-storage-dashboard-api-mcp-specifications/README.md, v33-storage-dashboard-api-mcp-specifications/INDEX.md, v33-storage-dashboard-api-mcp-specifications/spec-06-33-01-storage.md, v33-storage-dashboard-api-mcp-specifications/spec-06-33-02-dashboard.md, v33-storage-dashboard-api-mcp-specifications/spec-06-33-03-api.md, v33-storage-dashboard-api-mcp-specifications/spec-06-33-04-mcp.md |
+
+## v34 - Integration Notification Automation Analytics Specifications
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v34_draft.md |
+| Documents | v34-integration-notification-automation-analytics-specifications/README.md, v34-integration-notification-automation-analytics-specifications/INDEX.md, v34-integration-notification-automation-analytics-specifications/spec-06-34-01-integration.md, v34-integration-notification-automation-analytics-specifications/spec-06-34-02-notification.md, v34-integration-notification-automation-analytics-specifications/spec-06-34-03-automation.md, v34-integration-notification-automation-analytics-specifications/spec-06-34-04-analytics.md |

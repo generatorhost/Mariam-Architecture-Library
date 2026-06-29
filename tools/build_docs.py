@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v33 draft"
-RELEASE_SLUG = "v33_draft"
+RELEASE_VERSION = "v34 draft"
+RELEASE_SLUG = "v34_draft"
 
 VOLUMES = [
     {
@@ -223,8 +223,14 @@ VOLUMES = [
     {
         "id": "volume-06-specifications/v33-storage-dashboard-api-mcp-specifications",
         "title": "Volume 06 Specifications - Storage Dashboard API MCP Specifications",
-        "version": RELEASE_VERSION,
+        "version": "v33 draft",
         "pdf": "Volume_06_Storage_Dashboard_Api_Mcp_Specifications_v33_draft.pdf",
+    },
+    {
+        "id": "volume-06-specifications/v34-integration-notification-automation-analytics-specifications",
+        "title": "Volume 06 Specifications - Integration Notification Automation Analytics Specifications",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_06_Integration_Notification_Automation_Analytics_Specifications_v34_draft.pdf",
     },
 ]
 

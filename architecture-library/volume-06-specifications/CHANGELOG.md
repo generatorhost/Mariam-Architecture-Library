@@ -111,3 +111,8 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v33 draft | Draft | Added Storage Dashboard API MCP Specifications documentation and release artifacts. |
+
+## v34 - Integration Notification Automation Analytics Specifications
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v34 draft | Draft | Added Integration Notification Automation Analytics Specifications documentation and release artifacts. |
