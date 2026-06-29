@@ -11,3 +11,9 @@
 - `v72-dna-operating-system-part-2/INDEX.md`
 - `v72-dna-operating-system-part-2/guide-14-72-01-mdp.md`
 - `v72-dna-operating-system-part-2/guide-14-72-02-universal-dna-extractor.md`
+
+## v73 - DNA Operating System Part 3
+- `v73-dna-operating-system-part-3/README.md`
+- `v73-dna-operating-system-part-3/INDEX.md`
+- `v73-dna-operating-system-part-3/guide-14-73-01-runtime-store.md`
+- `v73-dna-operating-system-part-3/guide-14-73-02-federation.md`
