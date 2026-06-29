@@ -94,3 +94,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v7 draft | Draft | Added Book 03.05 Capability System with 20 subsystem blueprint documents and v7 release artifacts. |
+
+## v8 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v8 draft | Draft | Added Book 03.06 DNA Operating System with 20 subsystem blueprint documents and v8 release artifacts. |

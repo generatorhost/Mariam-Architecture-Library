@@ -184,3 +184,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-05-018 - `book-03-05-capability-system/book-03-05-18-capability-testing.md`
 - MAL-V03-B03-05-019 - `book-03-05-capability-system/book-03-05-19-capability-acceptance.md`
 - MAL-V03-B03-05-020 - `book-03-05-capability-system/book-03-05-20-capability-roadmap.md`
+
+## Book 03.06 DNA Operating System
+- MAL-V03-B03-06-README - `book-03-06-dna-operating-system/README.md`
+- MAL-V03-B03-06-001 - `book-03-06-dna-operating-system/book-03-06-01-dna-operating-system-overview.md`
+- MAL-V03-B03-06-002 - `book-03-06-dna-operating-system/book-03-06-02-dna-package-engine.md`
+- MAL-V03-B03-06-003 - `book-03-06-dna-operating-system/book-03-06-03-runtime-store.md`
+- MAL-V03-B03-06-004 - `book-03-06-dna-operating-system/book-03-06-04-package-graph.md`
+- MAL-V03-B03-06-005 - `book-03-06-dna-operating-system/book-03-06-05-dependency-resolver.md`
+- MAL-V03-B03-06-006 - `book-03-06-dna-operating-system/book-03-06-06-mount-manager.md`
+- MAL-V03-B03-06-007 - `book-03-06-dna-operating-system/book-03-06-07-hot-reload.md`
+- MAL-V03-B03-06-008 - `book-03-06-dna-operating-system/book-03-06-08-universal-dna-extractor.md`
+- MAL-V03-B03-06-009 - `book-03-06-dna-operating-system/book-03-06-09-dna-federation.md`
+- MAL-V03-B03-06-010 - `book-03-06-dna-operating-system/book-03-06-10-dna-export.md`
+- MAL-V03-B03-06-011 - `book-03-06-dna-operating-system/book-03-06-11-dna-import.md`
+- MAL-V03-B03-06-012 - `book-03-06-dna-operating-system/book-03-06-12-dna-versioning.md`
+- MAL-V03-B03-06-013 - `book-03-06-dna-operating-system/book-03-06-13-dna-validation.md`
+- MAL-V03-B03-06-014 - `book-03-06-dna-operating-system/book-03-06-14-dna-governance.md`
+- MAL-V03-B03-06-015 - `book-03-06-dna-operating-system/book-03-06-15-dna-security.md`
+- MAL-V03-B03-06-016 - `book-03-06-dna-operating-system/book-03-06-16-dna-events.md`
+- MAL-V03-B03-06-017 - `book-03-06-dna-operating-system/book-03-06-17-dna-storage.md`
+- MAL-V03-B03-06-018 - `book-03-06-dna-operating-system/book-03-06-18-dna-testing.md`
+- MAL-V03-B03-06-019 - `book-03-06-dna-operating-system/book-03-06-19-dna-acceptance.md`
+- MAL-V03-B03-06-020 - `book-03-06-dna-operating-system/book-03-06-20-dna-roadmap.md`

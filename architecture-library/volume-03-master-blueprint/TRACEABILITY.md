@@ -114,3 +114,12 @@ Covers trace links from Book 03.01 Enterprise Core to Volumes 00, 01, and 02.
 | Requirements, dependencies, lifecycle, DNA | MAL-V00-B007, MAL-V02-B008, MAL-V03-B03-04-014 |
 | Benchmarks, quality, governance, security | MAL-V00-B009, MAL-V00-B011, MAL-V03-B03-01-016 |
 | Events, storage, metrics, testing, roadmap | MAL-V03-B03-01-014, MAL-V03-B03-01-015, MAL-V03-B03-01-018 |
+
+## Book 03.06 Trace Map
+| Blueprint Area | Primary Sources |
+| --- | --- |
+| DNA Operating System blueprint | MAL-V00-B009, MAL-V00-B010, MAL-V02-B006 |
+| Core runtime and security dependencies | MAL-V03-B03-01-004, MAL-V03-B03-01-016 |
+| Organization and governance dependencies | MAL-V03-B03-02-008, MAL-V03-B03-02-014 |
+| AI, knowledge, and capability dependencies | MAL-V03-B03-03-013, MAL-V03-B03-04-015, MAL-V03-B03-05-003 |
+| Testing and acceptance | MAL-V03-B03-01-018, MAL-V03-ACCEPTANCE |

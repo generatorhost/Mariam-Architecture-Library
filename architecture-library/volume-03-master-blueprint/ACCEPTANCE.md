@@ -104,3 +104,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v7 build produces `Volume_03_Book_03_05_Capability_System_v7_draft.pdf`.
 - The v7 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v7_draft.md`.
 - Capability System authority preserves explicit contracts, lifecycle, matching, ranking, governance, security, benchmark, and acceptance controls.
+
+## Book 03.06 DNA Operating System Acceptance Checklist
+- Book 03.06 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.06 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v8 build produces `Volume_03_Book_03_06_DNA_Operating_System_v8_draft.pdf`.
+- The v8 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v8_draft.md`.
+- DNA Operating System authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
