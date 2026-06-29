@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v31 draft",
+  "version": "v32 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:43:58.738808+00:00",
+  "generated_at": "2026-06-29T18:44:08.098903+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v31_draft.zip",
-      "bytes": 3681195,
-      "sha256": "e23e618b16c7a7d999088082c7645fbc5895cd51888106cb7639bbce1b31d91a"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v32_draft.zip",
+      "bytes": 3716514,
+      "sha256": "1be91f5206795b1d50d7795be12a37b24628334871d8ecd4ea83160f3b16dcc9"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -148,6 +148,11 @@
       "path": "architecture-library/releases/pdf/Volume_06_Execution_OS_Specifications_v28_draft.pdf",
       "bytes": 156831,
       "sha256": "4d640de1153b4af047ff1f382021fceeb8a599ce1a277aa9960e4e9a1ede6f84"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_06_Governance_Infrastructure_Security_Specifications_v32_draft.pdf",
+      "bytes": 33362,
+      "sha256": "7f3107bdbfe2751e18aa81af79a617737a2c989265c934070c30f99359b7febd"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_06_Knowledge_Capability_Workflow_Specifications_v29_draft.pdf",

@@ -124,3 +124,12 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v31_draft.md |
 | Documents | v31-marketplace-opportunity-automation-specifications/README.md, v31-marketplace-opportunity-automation-specifications/INDEX.md, v31-marketplace-opportunity-automation-specifications/spec-06-31-01-marketplace.md, v31-marketplace-opportunity-automation-specifications/spec-06-31-02-opportunity-intelligence.md, v31-marketplace-opportunity-automation-specifications/spec-06-31-03-freelance-automation.md, v31-marketplace-opportunity-automation-specifications/spec-06-31-04-remote-work-automation.md |
+
+## v32 - Governance Infrastructure Security Specifications
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v32_draft.md |
+| Documents | v32-governance-infrastructure-security-specifications/README.md, v32-governance-infrastructure-security-specifications/INDEX.md, v32-governance-infrastructure-security-specifications/spec-06-32-01-governance.md, v32-governance-infrastructure-security-specifications/spec-06-32-02-infrastructure.md, v32-governance-infrastructure-security-specifications/spec-06-32-03-monitoring.md, v32-governance-infrastructure-security-specifications/spec-06-32-04-security.md |

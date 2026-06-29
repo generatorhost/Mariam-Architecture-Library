@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v31 draft"
-RELEASE_SLUG = "v31_draft"
+RELEASE_VERSION = "v32 draft"
+RELEASE_SLUG = "v32_draft"
 
 VOLUMES = [
     {
@@ -211,8 +211,14 @@ VOLUMES = [
     {
         "id": "volume-06-specifications/v31-marketplace-opportunity-automation-specifications",
         "title": "Volume 06 Specifications - Marketplace Opportunity Automation Specifications",
-        "version": RELEASE_VERSION,
+        "version": "v31 draft",
         "pdf": "Volume_06_Marketplace_Opportunity_Automation_Specifications_v31_draft.pdf",
+    },
+    {
+        "id": "volume-06-specifications/v32-governance-infrastructure-security-specifications",
+        "title": "Volume 06 Specifications - Governance Infrastructure Security Specifications",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_06_Governance_Infrastructure_Security_Specifications_v32_draft.pdf",
     },
 ]
 

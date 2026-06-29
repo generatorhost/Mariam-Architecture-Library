@@ -101,3 +101,8 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v31 draft | Draft | Added Marketplace Opportunity Automation Specifications documentation and release artifacts. |
+
+## v32 - Governance Infrastructure Security Specifications
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v32 draft | Draft | Added Governance Infrastructure Security Specifications documentation and release artifacts. |
