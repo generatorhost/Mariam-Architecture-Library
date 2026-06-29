@@ -253,3 +253,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-08-018 - `book-03-08-workflow-system/book-03-08-18-workflow-security.md`
 - MAL-V03-B03-08-019 - `book-03-08-workflow-system/book-03-08-19-workflow-testing.md`
 - MAL-V03-B03-08-020 - `book-03-08-workflow-system/book-03-08-20-workflow-roadmap.md`
+
+## Book 03.09 Swarm Intelligence
+- MAL-V03-B03-09-README - `book-03-09-swarm-intelligence/README.md`
+- MAL-V03-B03-09-001 - `book-03-09-swarm-intelligence/book-03-09-01-swarm-intelligence-overview.md`
+- MAL-V03-B03-09-002 - `book-03-09-swarm-intelligence/book-03-09-02-swarm-chief.md`
+- MAL-V03-B03-09-003 - `book-03-09-swarm-intelligence/book-03-09-03-coordinator.md`
+- MAL-V03-B03-09-004 - `book-03-09-swarm-intelligence/book-03-09-04-teams.md`
+- MAL-V03-B03-09-005 - `book-03-09-swarm-intelligence/book-03-09-05-dynamic-swarms.md`
+- MAL-V03-B03-09-006 - `book-03-09-swarm-intelligence/book-03-09-06-parallel-execution.md`
+- MAL-V03-B03-09-007 - `book-03-09-swarm-intelligence/book-03-09-07-recovery.md`
+- MAL-V03-B03-09-008 - `book-03-09-swarm-intelligence/book-03-09-08-communication.md`
+- MAL-V03-B03-09-009 - `book-03-09-swarm-intelligence/book-03-09-09-optimization.md`
+- MAL-V03-B03-09-010 - `book-03-09-swarm-intelligence/book-03-09-10-consensus.md`
+- MAL-V03-B03-09-011 - `book-03-09-swarm-intelligence/book-03-09-11-critique-loops.md`
+- MAL-V03-B03-09-012 - `book-03-09-swarm-intelligence/book-03-09-12-conflict-resolution.md`
+- MAL-V03-B03-09-013 - `book-03-09-swarm-intelligence/book-03-09-13-task-allocation.md`
+- MAL-V03-B03-09-014 - `book-03-09-swarm-intelligence/book-03-09-14-swarm-memory.md`
+- MAL-V03-B03-09-015 - `book-03-09-swarm-intelligence/book-03-09-15-swarm-governance.md`
+- MAL-V03-B03-09-016 - `book-03-09-swarm-intelligence/book-03-09-16-swarm-events.md`
+- MAL-V03-B03-09-017 - `book-03-09-swarm-intelligence/book-03-09-17-swarm-storage.md`
+- MAL-V03-B03-09-018 - `book-03-09-swarm-intelligence/book-03-09-18-swarm-security.md`
+- MAL-V03-B03-09-019 - `book-03-09-swarm-intelligence/book-03-09-19-swarm-testing.md`
+- MAL-V03-B03-09-020 - `book-03-09-swarm-intelligence/book-03-09-20-swarm-roadmap.md`

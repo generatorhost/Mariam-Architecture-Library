@@ -109,3 +109,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v10 draft | Draft | Added Book 03.08 Workflow System with 20 subsystem blueprint documents and v10 release artifacts. |
+
+## v11 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v11 draft | Draft | Added Book 03.09 Swarm Intelligence with 20 subsystem blueprint documents and v11 release artifacts. |
