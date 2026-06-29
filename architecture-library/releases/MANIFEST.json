@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v71 draft",
+  "version": "v72 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:50:37.699660+00:00",
+  "generated_at": "2026-06-29T18:50:49.544735+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v71_draft.zip",
-      "bytes": 4398266,
-      "sha256": "f1ffa23dc7117756a98bfc9e593e4173c4872b32f64a9d745a7d9a468f09b7f2"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v72_draft.zip",
+      "bytes": 4411986,
+      "sha256": "b1432a814c7bbe12fadaba563b7177b9d8e53e692eeb3a167d26e18fdaac8691"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -368,6 +368,11 @@
       "path": "architecture-library/releases/pdf/Volume_14_Dna_Operating_System_Part_1_v71_draft.pdf",
       "bytes": 11690,
       "sha256": "acd7613c0570b10c96dfbd6803e8fd093a47a0b9dcb7f173e44d35c465d5e222"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_14_Dna_Operating_System_Part_2_v72_draft.pdf",
+      "bytes": 11682,
+      "sha256": "1a8efc7c35f30ebccccac72698ef8fb6df831c5a1fe2469ddb61ba83ac3f877c"
     }
   ]
 }
