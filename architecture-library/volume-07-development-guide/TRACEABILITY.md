@@ -26,3 +26,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v38_draft.md |
 | Documents | v38-development-guide-part-3/README.md, v38-development-guide-part-3/INDEX.md, v38-development-guide-part-3/guide-07-38-01-runtime-development.md, v38-development-guide-part-3/guide-07-38-02-provider-development.md, v38-development-guide-part-3/guide-07-38-03-code-review.md |
+
+## v39 - Development Guide Part 4
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v39_draft.md |
+| Documents | v39-development-guide-part-4/README.md, v39-development-guide-part-4/INDEX.md, v39-development-guide-part-4/guide-07-39-01-agent-development.md, v39-development-guide-part-4/guide-07-39-02-testing-workflow.md, v39-development-guide-part-4/guide-07-39-03-pull-requests.md |
