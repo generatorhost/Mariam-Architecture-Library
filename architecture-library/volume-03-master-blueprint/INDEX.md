@@ -299,3 +299,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-10-018 - `book-03-10-model-ecosystem/book-03-10-18-model-security.md`
 - MAL-V03-B03-10-019 - `book-03-10-model-ecosystem/book-03-10-19-model-testing.md`
 - MAL-V03-B03-10-020 - `book-03-10-model-ecosystem/book-03-10-20-model-roadmap.md`
+
+## Book 03.11 Provider Ecosystem
+- MAL-V03-B03-11-README - `book-03-11-provider-ecosystem/README.md`
+- MAL-V03-B03-11-001 - `book-03-11-provider-ecosystem/book-03-11-01-provider-ecosystem-overview.md`
+- MAL-V03-B03-11-002 - `book-03-11-provider-ecosystem/book-03-11-02-provider-registry.md`
+- MAL-V03-B03-11-003 - `book-03-11-provider-ecosystem/book-03-11-03-provider-contracts.md`
+- MAL-V03-B03-11-004 - `book-03-11-provider-ecosystem/book-03-11-04-provider-routing.md`
+- MAL-V03-B03-11-005 - `book-03-11-provider-ecosystem/book-03-11-05-provider-credentials.md`
+- MAL-V03-B03-11-006 - `book-03-11-provider-ecosystem/book-03-11-06-provider-quotas.md`
+- MAL-V03-B03-11-007 - `book-03-11-provider-ecosystem/book-03-11-07-provider-health.md`
+- MAL-V03-B03-11-008 - `book-03-11-provider-ecosystem/book-03-11-08-provider-fallback.md`
+- MAL-V03-B03-11-009 - `book-03-11-provider-ecosystem/book-03-11-09-provider-adapters.md`
+- MAL-V03-B03-11-010 - `book-03-11-provider-ecosystem/book-03-11-10-provider-billing.md`
+- MAL-V03-B03-11-011 - `book-03-11-provider-ecosystem/book-03-11-11-provider-compliance.md`
+- MAL-V03-B03-11-012 - `book-03-11-provider-ecosystem/book-03-11-12-provider-onboarding.md`
+- MAL-V03-B03-11-013 - `book-03-11-provider-ecosystem/book-03-11-13-provider-deprecation.md`
+- MAL-V03-B03-11-014 - `book-03-11-provider-ecosystem/book-03-11-14-provider-observability.md`
+- MAL-V03-B03-11-015 - `book-03-11-provider-ecosystem/book-03-11-15-provider-governance.md`
+- MAL-V03-B03-11-016 - `book-03-11-provider-ecosystem/book-03-11-16-provider-events.md`
+- MAL-V03-B03-11-017 - `book-03-11-provider-ecosystem/book-03-11-17-provider-storage.md`
+- MAL-V03-B03-11-018 - `book-03-11-provider-ecosystem/book-03-11-18-provider-security.md`
+- MAL-V03-B03-11-019 - `book-03-11-provider-ecosystem/book-03-11-19-provider-testing.md`
+- MAL-V03-B03-11-020 - `book-03-11-provider-ecosystem/book-03-11-20-provider-roadmap.md`

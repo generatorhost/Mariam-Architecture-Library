@@ -139,3 +139,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v12 build produces `Volume_03_Book_03_10_Model_Ecosystem_v12_draft.pdf`.
 - The v12 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v12_draft.md`.
 - Model Ecosystem authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
+
+## Book 03.11 Provider Ecosystem Acceptance Checklist
+- Book 03.11 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.11 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v13 build produces `Volume_03_Book_03_11_Provider_Ecosystem_v13_draft.pdf`.
+- The v13 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v13_draft.md`.
+- Provider Ecosystem authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
