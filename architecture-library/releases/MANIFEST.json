@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v28 draft",
+  "version": "v29 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:38:44.653885+00:00",
+  "generated_at": "2026-06-29T18:43:40.669281+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v28_draft.zip",
-      "bytes": 3581113,
-      "sha256": "e6ab42e910d8dfbd688577418f097dc5af869033ef940641066272c27ddf5f86"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v29_draft.zip",
+      "bytes": 3609041,
+      "sha256": "04bf40e0d733d48de62e95677be98baef37d40342e1b2ad1a314e0d2bfdd1e5a"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -148,6 +148,11 @@
       "path": "architecture-library/releases/pdf/Volume_06_Execution_OS_Specifications_v28_draft.pdf",
       "bytes": 156831,
       "sha256": "4d640de1153b4af047ff1f382021fceeb8a599ce1a277aa9960e4e9a1ede6f84"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_06_Knowledge_Capability_Workflow_Specifications_v29_draft.pdf",
+      "bytes": 25920,
+      "sha256": "f98f8b5320180373c1ce484be320a70e985af10978c9c5a051d7b2e7f82f50a0"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_06_Runtime_Ecosystem_Specifications_v27_draft.pdf",

@@ -86,3 +86,8 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v28 draft | Draft | Added 15 Execution OS specifications and v28 release artifacts. |
+
+## v29 - Knowledge Capability Workflow Specifications
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v29 draft | Draft | Added Knowledge Capability Workflow Specifications documentation and release artifacts. |

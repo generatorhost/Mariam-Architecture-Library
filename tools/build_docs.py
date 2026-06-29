@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v28 draft"
-RELEASE_SLUG = "v28_draft"
+RELEASE_VERSION = "v29 draft"
+RELEASE_SLUG = "v29_draft"
 
 VOLUMES = [
     {
@@ -193,8 +193,14 @@ VOLUMES = [
     {
         "id": "volume-06-specifications/execution-os",
         "title": "Volume 06 - Execution OS Specifications",
-        "version": RELEASE_VERSION,
+        "version": "v28 draft",
         "pdf": "Volume_06_Execution_OS_Specifications_v28_draft.pdf",
+    },
+    {
+        "id": "volume-06-specifications/v29-knowledge-capability-workflow-specifications",
+        "title": "Volume 06 Specifications - Knowledge Capability Workflow Specifications",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_06_Knowledge_Capability_Workflow_Specifications_v29_draft.pdf",
     },
 ]
 
@@ -359,6 +365,11 @@ def build_pdf(volume: dict[str, str]) -> Path:
     PDF_DIR.mkdir(parents=True, exist_ok=True)
     volume_dir = LIBRARY / volume["id"]
     output = PDF_DIR / volume["pdf"]
+    source_files = markdown_files(volume_dir)
+    if output.exists() and source_files:
+        newest_source = max(path.stat().st_mtime for path in source_files)
+        if output.stat().st_mtime >= newest_source:
+            return output
     styles = make_styles()
     doc = SimpleDocTemplate(
         str(output),
@@ -371,7 +382,7 @@ def build_pdf(volume: dict[str, str]) -> Path:
         author="Mariam Architecture Library",
     )
     story = [Paragraph(volume["title"], styles["title"]), Paragraph(f"Version {volume['version']}", styles["meta"])]
-    for index, path in enumerate(markdown_files(volume_dir)):
+    for index, path in enumerate(source_files):
         if index:
             story.append(PageBreak())
         story.append(Paragraph(path.name, styles["meta"]))

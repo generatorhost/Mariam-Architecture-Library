@@ -97,3 +97,12 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Task graph, mission graph, scheduler, and executor | MAL-V03-B03-08-003, MAL-V03-B03-08-001, MAL-V06-RUNTIME-SPEC-008 |
 | Long-running missions, stall detection, recovery, and self-healing | MAL-V03-B03-20-001, MAL-V03-B03-17-001, MAL-V06-RUNTIME-SPEC-014 |
 | Execution testing | MAL-V03-B03-09-019, MAL-V05-STD-013, MAL-V06-RUNTIME-SPEC-015 |
+
+## v29 - Knowledge Capability Workflow Specifications
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v29_draft.md |
+| Documents | v29-knowledge-capability-workflow-specifications/README.md, v29-knowledge-capability-workflow-specifications/INDEX.md, v29-knowledge-capability-workflow-specifications/spec-06-29-01-knowledge-system.md, v29-knowledge-capability-workflow-specifications/spec-06-29-02-capability-system.md, v29-knowledge-capability-workflow-specifications/spec-06-29-03-workflow-system.md |

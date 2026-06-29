@@ -135,3 +135,10 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - MAL-V06-EXEC-SPEC-13 - `execution-os/spec-06-exec-13-recovery-engine-specification.md`
 - MAL-V06-EXEC-SPEC-14 - `execution-os/spec-06-exec-14-self-healing-specification.md`
 - MAL-V06-EXEC-SPEC-15 - `execution-os/spec-06-exec-15-execution-testing-specification.md`
+
+## v29 - Knowledge Capability Workflow Specifications
+- `v29-knowledge-capability-workflow-specifications/README.md`
+- `v29-knowledge-capability-workflow-specifications/INDEX.md`
+- `v29-knowledge-capability-workflow-specifications/spec-06-29-01-knowledge-system.md`
+- `v29-knowledge-capability-workflow-specifications/spec-06-29-02-capability-system.md`
+- `v29-knowledge-capability-workflow-specifications/spec-06-29-03-workflow-system.md`
