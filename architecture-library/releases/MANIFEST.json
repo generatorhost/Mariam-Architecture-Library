@@ -1,33 +1,38 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v3 draft",
+  "version": "v4 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T15:30:47.058446+00:00",
+  "generated_at": "2026-06-29T15:47:27.583770+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v3_draft.zip",
-      "bytes": 232487,
-      "sha256": "434c723fcbfa77b6d6d4abcfbad8e10220519c7cc3abbda9334855e3460dc434"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v4_draft.zip",
+      "bytes": 305495,
+      "sha256": "c1451beb78657436655b52a4ed9a05e1f4458f9ad68a8a5af7851015e9515a7a"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
       "bytes": 39899,
-      "sha256": "618e61504665875ad9c2b963ac6ea393e8c0d0a512681db7416c1ea545b1791f"
+      "sha256": "41ec8a88e95d472160327f25da19a827f4832cd3aedee1170dd625b3becf52a7"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_01_Master_Vision_v1_draft.pdf",
       "bytes": 22202,
-      "sha256": "2ab41ac0fbab56d9f7838589b8873266f5d8dad6d632ebe9bd25333201573b4c"
+      "sha256": "c7a4985164fa5fb49f9d452a031b8489094db1a1616c5288743b8395ce38d139"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_02_Master_Roadmap_v2_draft.pdf",
       "bytes": 77412,
-      "sha256": "33d7c1de27b37339d460b1d3efa49e4b7c3d2c728ca33eeff2c3f772744b2b03"
+      "sha256": "952d4554ebc56229ca9fab5236ba238db12ce012eab205167d6975fda5d038f8"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_01_Enterprise_Core_v3_draft.pdf",
       "bytes": 71806,
-      "sha256": "6110b2d4c27f3ddb2931c102f3fed580373578dc2c17a3be3c97c1e40526f1f7"
+      "sha256": "3e76e6458d6c470b8dea05e52a8e0175f73d86f88151c58c6766a8d0eae10436"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_03_Book_03_02_Enterprise_Organization_v4_draft.pdf",
+      "bytes": 70780,
+      "sha256": "b8146b1433ee3f47fbb4c75ad7c9e07cfb6473c87143a5031f05f29f4fa5b8aa"
     }
   ]
 }

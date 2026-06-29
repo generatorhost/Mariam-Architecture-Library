@@ -78,3 +78,12 @@ Covers trace links from Book 03.01 Enterprise Core to Volumes 00, 01, and 02.
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v3 draft | 2026-06-29 | Draft | Initial Enterprise Core blueprint content for Mariam Architecture Library v3. |
+
+## Book 03.02 Trace Map
+| Blueprint Area | Primary Sources |
+| --- | --- |
+| Enterprise Organization blueprint | MAL-V00-B005, MAL-V01-B002, MAL-V02-B004 |
+| Board, chief office, departments | MAL-V00-B009, MAL-V02-B004, MAL-V03-B03-01-012 |
+| Roles, decisions, approvals, escalation | MAL-V00-B011, MAL-V02-B016, MAL-V03-B03-01-009 |
+| KPIs, rhythm, checkpoints | MAL-V01-B006, MAL-V02-B015, MAL-V03-B03-01-017 |
+| Storage, security, testing, acceptance | MAL-V03-B03-01-015, MAL-V03-B03-01-016, MAL-V03-B03-01-018 |

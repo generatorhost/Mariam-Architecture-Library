@@ -74,3 +74,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v3 draft | 2026-06-29 | Draft | Initial Enterprise Core blueprint content for Mariam Architecture Library v3. |
+
+## v4 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v4 draft | Draft | Added Book 03.02 Enterprise Organization with 20 subsystem blueprint documents and v4 release artifacts. |

@@ -76,3 +76,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v3 draft | 2026-06-29 | Draft | Initial Enterprise Core blueprint content for Mariam Architecture Library v3. |
+
+## Book 03.02 Enterprise Organization Acceptance Checklist
+- Book 03.02 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.02 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, tests, acceptance, and traceability.
+- The v4 build produces `Volume_03_Book_03_02_Enterprise_Organization_v4_draft.pdf`.
+- The v4 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v4_draft.md`.
+- Book 03.02 traceability links back to Volume 00, Volume 01, Volume 02, and Book 03.01 Enterprise Core where applicable.

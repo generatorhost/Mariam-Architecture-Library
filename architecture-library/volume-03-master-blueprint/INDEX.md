@@ -92,3 +92,26 @@ Covers current v3 content and establishes stable references for future blueprint
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v3 draft | 2026-06-29 | Draft | Initial Enterprise Core blueprint content for Mariam Architecture Library v3. |
+
+## Book 03.02 Enterprise Organization
+- MAL-V03-B03-02-README - `book-03-02-enterprise-organization/README.md`
+- MAL-V03-B03-02-001 - `book-03-02-enterprise-organization/book-03-02-01-enterprise-organization-overview.md`
+- MAL-V03-B03-02-002 - `book-03-02-enterprise-organization/book-03-02-02-enterprise-structure.md`
+- MAL-V03-B03-02-003 - `book-03-02-enterprise-organization/book-03-02-03-board-governance.md`
+- MAL-V03-B03-02-004 - `book-03-02-enterprise-organization/book-03-02-04-chief-office.md`
+- MAL-V03-B03-02-005 - `book-03-02-enterprise-organization/book-03-02-05-departments.md`
+- MAL-V03-B03-02-006 - `book-03-02-enterprise-organization/book-03-02-06-department-missions.md`
+- MAL-V03-B03-02-007 - `book-03-02-enterprise-organization/book-03-02-07-roles-responsibilities.md`
+- MAL-V03-B03-02-008 - `book-03-02-enterprise-organization/book-03-02-08-decision-flow.md`
+- MAL-V03-B03-02-009 - `book-03-02-enterprise-organization/book-03-02-09-escalation-model.md`
+- MAL-V03-B03-02-010 - `book-03-02-enterprise-organization/book-03-02-10-approval-lines.md`
+- MAL-V03-B03-02-011 - `book-03-02-enterprise-organization/book-03-02-11-cross-department-coordination.md`
+- MAL-V03-B03-02-012 - `book-03-02-enterprise-organization/book-03-02-12-enterprise-kpis.md`
+- MAL-V03-B03-02-013 - `book-03-02-enterprise-organization/book-03-02-13-operating-rhythm.md`
+- MAL-V03-B03-02-014 - `book-03-02-enterprise-organization/book-03-02-14-governance-checkpoints.md`
+- MAL-V03-B03-02-015 - `book-03-02-enterprise-organization/book-03-02-15-organization-events.md`
+- MAL-V03-B03-02-016 - `book-03-02-enterprise-organization/book-03-02-16-organization-storage.md`
+- MAL-V03-B03-02-017 - `book-03-02-enterprise-organization/book-03-02-17-organization-security.md`
+- MAL-V03-B03-02-018 - `book-03-02-enterprise-organization/book-03-02-18-organization-testing.md`
+- MAL-V03-B03-02-019 - `book-03-02-enterprise-organization/book-03-02-19-organization-acceptance.md`
+- MAL-V03-B03-02-020 - `book-03-02-enterprise-organization/book-03-02-20-organization-roadmap.md`
