@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v112 draft"
-RELEASE_SLUG = "v112_draft"
+RELEASE_VERSION = "v113 draft"
+RELEASE_SLUG = "v113_draft"
 
 VOLUMES = [
     {
@@ -697,8 +697,14 @@ VOLUMES = [
     {
         "id": "volume-22-experience-layer/v112-experience-layer-part-2",
         "title": "Volume 22 Experience Layer - Experience Layer Part 2",
-        "version": RELEASE_VERSION,
+        "version": "v112 draft",
         "pdf": "Volume_22_Experience_Layer_Part_2_v112_draft.pdf",
+    },
+    {
+        "id": "volume-22-experience-layer/v113-experience-layer-part-3",
+        "title": "Volume 22 Experience Layer - Experience Layer Part 3",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_22_Experience_Layer_Part_3_v113_draft.pdf",
     },
 ]
 

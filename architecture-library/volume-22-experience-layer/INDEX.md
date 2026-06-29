@@ -11,3 +11,9 @@
 - `v112-experience-layer-part-2/INDEX.md`
 - `v112-experience-layer-part-2/guide-22-112-01-executive-dashboard.md`
 - `v112-experience-layer-part-2/guide-22-112-02-engineering.md`
+
+## v113 - Experience Layer Part 3
+- `v113-experience-layer-part-3/README.md`
+- `v113-experience-layer-part-3/INDEX.md`
+- `v113-experience-layer-part-3/guide-22-113-01-knowledge-center.md`
+- `v113-experience-layer-part-3/guide-22-113-02-notifications.md`

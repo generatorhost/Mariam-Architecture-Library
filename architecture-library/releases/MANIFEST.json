@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v112 draft",
+  "version": "v113 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:58:04.897144+00:00",
+  "generated_at": "2026-06-29T18:58:15.674405+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v112_draft.zip",
-      "bytes": 4973054,
-      "sha256": "0328abd4c299b5c2218ec1db607c0c262d0a6b81c440fcaf5d507a55fff63383"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v113_draft.zip",
+      "bytes": 4986730,
+      "sha256": "2222a6b26164410832620d755eb14a046bff18df49927fd274e3dbd1626cf539"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -573,6 +573,11 @@
       "path": "architecture-library/releases/pdf/Volume_22_Experience_Layer_Part_2_v112_draft.pdf",
       "bytes": 11673,
       "sha256": "f56501623e8ff9a4ec8da889a09e3c194c5ddfbc4af580a1d6aacef4e6954a58"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_22_Experience_Layer_Part_3_v113_draft.pdf",
+      "bytes": 11678,
+      "sha256": "7cb7d79f49948c33cd902b631296fa0adcda64585f166f162858af08c4f8fea0"
     }
   ]
 }
