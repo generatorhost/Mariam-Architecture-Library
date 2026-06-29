@@ -132,3 +132,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v11 build produces `Volume_03_Book_03_09_Swarm_Intelligence_v11_draft.pdf`.
 - The v11 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v11_draft.md`.
 - Swarm Intelligence authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
+
+## Book 03.10 Model Ecosystem Acceptance Checklist
+- Book 03.10 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.10 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v12 build produces `Volume_03_Book_03_10_Model_Ecosystem_v12_draft.pdf`.
+- The v12 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v12_draft.md`.
+- Model Ecosystem authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.

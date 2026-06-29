@@ -276,3 +276,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-09-018 - `book-03-09-swarm-intelligence/book-03-09-18-swarm-security.md`
 - MAL-V03-B03-09-019 - `book-03-09-swarm-intelligence/book-03-09-19-swarm-testing.md`
 - MAL-V03-B03-09-020 - `book-03-09-swarm-intelligence/book-03-09-20-swarm-roadmap.md`
+
+## Book 03.10 Model Ecosystem
+- MAL-V03-B03-10-README - `book-03-10-model-ecosystem/README.md`
+- MAL-V03-B03-10-001 - `book-03-10-model-ecosystem/book-03-10-01-model-ecosystem-overview.md`
+- MAL-V03-B03-10-002 - `book-03-10-model-ecosystem/book-03-10-02-model-registry.md`
+- MAL-V03-B03-10-003 - `book-03-10-model-ecosystem/book-03-10-03-model-router.md`
+- MAL-V03-B03-10-004 - `book-03-10-model-ecosystem/book-03-10-04-gguf-models.md`
+- MAL-V03-B03-10-005 - `book-03-10-model-ecosystem/book-03-10-05-onnx-models.md`
+- MAL-V03-B03-10-006 - `book-03-10-model-ecosystem/book-03-10-06-safetensors-models.md`
+- MAL-V03-B03-10-007 - `book-03-10-model-ecosystem/book-03-10-07-transformers-models.md`
+- MAL-V03-B03-10-008 - `book-03-10-model-ecosystem/book-03-10-08-pytorch-models.md`
+- MAL-V03-B03-10-009 - `book-03-10-model-ecosystem/book-03-10-09-llama-cpp-runtime.md`
+- MAL-V03-B03-10-010 - `book-03-10-model-ecosystem/book-03-10-10-vllm-runtime.md`
+- MAL-V03-B03-10-011 - `book-03-10-model-ecosystem/book-03-10-11-ktransformers-runtime.md`
+- MAL-V03-B03-10-012 - `book-03-10-model-ecosystem/book-03-10-12-provider-abstraction.md`
+- MAL-V03-B03-10-013 - `book-03-10-model-ecosystem/book-03-10-13-model-evaluation.md`
+- MAL-V03-B03-10-014 - `book-03-10-model-ecosystem/book-03-10-14-model-fallback.md`
+- MAL-V03-B03-10-015 - `book-03-10-model-ecosystem/book-03-10-15-model-cost-control.md`
+- MAL-V03-B03-10-016 - `book-03-10-model-ecosystem/book-03-10-16-model-events.md`
+- MAL-V03-B03-10-017 - `book-03-10-model-ecosystem/book-03-10-17-model-storage.md`
+- MAL-V03-B03-10-018 - `book-03-10-model-ecosystem/book-03-10-18-model-security.md`
+- MAL-V03-B03-10-019 - `book-03-10-model-ecosystem/book-03-10-19-model-testing.md`
+- MAL-V03-B03-10-020 - `book-03-10-model-ecosystem/book-03-10-20-model-roadmap.md`

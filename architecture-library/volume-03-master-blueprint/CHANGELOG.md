@@ -114,3 +114,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v11 draft | Draft | Added Book 03.09 Swarm Intelligence with 20 subsystem blueprint documents and v11 release artifacts. |
+
+## v12 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v12 draft | Draft | Added Book 03.10 Model Ecosystem with 20 subsystem blueprint documents and v12 release artifacts. |
