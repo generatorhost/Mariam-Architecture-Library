@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v24 draft"
-RELEASE_SLUG = "v24_draft"
+RELEASE_VERSION = "v25 draft"
+RELEASE_SLUG = "v25_draft"
 
 VOLUMES = [
     {
@@ -169,8 +169,14 @@ VOLUMES = [
     {
         "id": "volume-05-engineering-standards",
         "title": "Volume 05 - Engineering Standards",
-        "version": RELEASE_VERSION,
+        "version": "v24 draft",
         "pdf": "Volume_05_Engineering_Standards_v24_draft.pdf",
+    },
+    {
+        "id": "volume-06-specifications/core",
+        "title": "Volume 06 - Core Specifications",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_06_Core_Specifications_v25_draft.pdf",
     },
 ]
 
