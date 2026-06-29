@@ -23,3 +23,9 @@
 - `v54-enterprise-organization-part-4/INDEX.md`
 - `v54-enterprise-organization-part-4/guide-10-54-01-teams.md`
 - `v54-enterprise-organization-part-4/guide-10-54-02-decision-trees.md`
+
+## v55 - Enterprise Organization Part 5
+- `v55-enterprise-organization-part-5/README.md`
+- `v55-enterprise-organization-part-5/INDEX.md`
+- `v55-enterprise-organization-part-5/guide-10-55-01-roles.md`
+- `v55-enterprise-organization-part-5/guide-10-55-02-operational-flows.md`
