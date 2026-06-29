@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v95 draft"
-RELEASE_SLUG = "v95_draft"
+RELEASE_VERSION = "v96 draft"
+RELEASE_SLUG = "v96_draft"
 
 VOLUMES = [
     {
@@ -595,8 +595,14 @@ VOLUMES = [
     {
         "id": "volume-18-swarm-intelligence/v95-swarm-intelligence-part-5",
         "title": "Volume 18 Swarm Intelligence - Swarm Intelligence Part 5",
-        "version": RELEASE_VERSION,
+        "version": "v95 draft",
         "pdf": "Volume_18_Swarm_Intelligence_Part_5_v95_draft.pdf",
+    },
+    {
+        "id": "volume-19-opportunity-intelligence/v96-opportunity-intelligence-part-1",
+        "title": "Volume 19 Opportunity Intelligence - Opportunity Intelligence Part 1",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_19_Opportunity_Intelligence_Part_1_v96_draft.pdf",
     },
 ]
 
