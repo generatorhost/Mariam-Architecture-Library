@@ -26,3 +26,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v78_draft.md |
 | Documents | v78-runtime-ecosystem-part-3/README.md, v78-runtime-ecosystem-part-3/INDEX.md, v78-runtime-ecosystem-part-3/guide-15-78-01-tool-runtime.md, v78-runtime-ecosystem-part-3/guide-15-78-02-workflow-runtime.md |
+
+## v79 - Runtime Ecosystem Part 4
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v79_draft.md |
+| Documents | v79-runtime-ecosystem-part-4/README.md, v79-runtime-ecosystem-part-4/INDEX.md, v79-runtime-ecosystem-part-4/guide-15-79-01-plugin-runtime.md, v79-runtime-ecosystem-part-4/guide-15-79-02-memory-runtime.md |

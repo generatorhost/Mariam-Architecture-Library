@@ -17,3 +17,9 @@
 - `v78-runtime-ecosystem-part-3/INDEX.md`
 - `v78-runtime-ecosystem-part-3/guide-15-78-01-tool-runtime.md`
 - `v78-runtime-ecosystem-part-3/guide-15-78-02-workflow-runtime.md`
+
+## v79 - Runtime Ecosystem Part 4
+- `v79-runtime-ecosystem-part-4/README.md`
+- `v79-runtime-ecosystem-part-4/INDEX.md`
+- `v79-runtime-ecosystem-part-4/guide-15-79-01-plugin-runtime.md`
+- `v79-runtime-ecosystem-part-4/guide-15-79-02-memory-runtime.md`
