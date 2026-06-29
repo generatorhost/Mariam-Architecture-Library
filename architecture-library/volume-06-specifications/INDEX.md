@@ -166,3 +166,11 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - `v32-governance-infrastructure-security-specifications/spec-06-32-02-infrastructure.md`
 - `v32-governance-infrastructure-security-specifications/spec-06-32-03-monitoring.md`
 - `v32-governance-infrastructure-security-specifications/spec-06-32-04-security.md`
+
+## v33 - Storage Dashboard API MCP Specifications
+- `v33-storage-dashboard-api-mcp-specifications/README.md`
+- `v33-storage-dashboard-api-mcp-specifications/INDEX.md`
+- `v33-storage-dashboard-api-mcp-specifications/spec-06-33-01-storage.md`
+- `v33-storage-dashboard-api-mcp-specifications/spec-06-33-02-dashboard.md`
+- `v33-storage-dashboard-api-mcp-specifications/spec-06-33-03-api.md`
+- `v33-storage-dashboard-api-mcp-specifications/spec-06-33-04-mcp.md`

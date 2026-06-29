@@ -106,3 +106,8 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v32 draft | Draft | Added Governance Infrastructure Security Specifications documentation and release artifacts. |
+
+## v33 - Storage Dashboard API MCP Specifications
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v33 draft | Draft | Added Storage Dashboard API MCP Specifications documentation and release artifacts. |

@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v32 draft",
+  "version": "v33 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:44:08.098903+00:00",
+  "generated_at": "2026-06-29T18:44:17.090269+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v32_draft.zip",
-      "bytes": 3716514,
-      "sha256": "1be91f5206795b1d50d7795be12a37b24628334871d8ecd4ea83160f3b16dcc9"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v33_draft.zip",
+      "bytes": 3751870,
+      "sha256": "80253004743561b99806acdd964f4b9fb31de001dacce99a6288764f4b5c40d7"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -173,6 +173,11 @@
       "path": "architecture-library/releases/pdf/Volume_06_Runtime_Ecosystem_Specifications_v27_draft.pdf",
       "bytes": 129136,
       "sha256": "2f0d9db74c79847aed87de44d3b8cddffb3aef97fe61cc50b1ded906d248b49a"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_06_Storage_Dashboard_Api_Mcp_Specifications_v33_draft.pdf",
+      "bytes": 33194,
+      "sha256": "ed547fc91bd8d57d8c1343e55b83adb271fc795fc8e80360a05d08dcadffe7ad"
     }
   ]
 }
