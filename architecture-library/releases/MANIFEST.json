@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v49 draft",
+  "version": "v50 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:46:54.274960+00:00",
+  "generated_at": "2026-06-29T18:47:03.922303+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v49_draft.zip",
-      "bytes": 4069763,
-      "sha256": "b374634f75fd182fb1598b8f35d44bdd612b46f908220df9bf06a002ab8ddfe6"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v50_draft.zip",
+      "bytes": 4083308,
+      "sha256": "6f4d83bc954fbe9a518a5ca9d93a960a1f0c899c4f510adfca8a91fe9283dce6"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -258,6 +258,11 @@
       "path": "architecture-library/releases/pdf/Volume_09_Testing_Guide_Part_4_v49_draft.pdf",
       "bytes": 11620,
       "sha256": "013d4768f9a1007a3bb2fc883ca0b78a384c0b3581060877ef0c4dd055bb5e39"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_09_Testing_Guide_Part_5_v50_draft.pdf",
+      "bytes": 11651,
+      "sha256": "9dce5180f13b86fdf3c09d0391d7b023a4347e431e331d14ec45797ba9b31f36"
     }
   ]
 }

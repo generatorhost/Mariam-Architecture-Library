@@ -23,3 +23,9 @@
 - `v49-testing-guide-part-4/INDEX.md`
 - `v49-testing-guide-part-4/guide-09-49-01-acceptance-testing.md`
 - `v49-testing-guide-part-4/guide-09-49-02-regression-testing.md`
+
+## v50 - Testing Guide Part 5
+- `v50-testing-guide-part-5/README.md`
+- `v50-testing-guide-part-5/INDEX.md`
+- `v50-testing-guide-part-5/guide-09-50-01-performance-testing.md`
+- `v50-testing-guide-part-5/guide-09-50-02-automation-testing.md`
