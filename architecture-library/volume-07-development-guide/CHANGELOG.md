@@ -9,3 +9,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v37 draft | Draft | Added Development Guide Part 2 documentation and release artifacts. |
+
+## v38 - Development Guide Part 3
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v38 draft | Draft | Added Development Guide Part 3 documentation and release artifacts. |
