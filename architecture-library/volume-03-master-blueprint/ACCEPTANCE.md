@@ -118,3 +118,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v9 build produces `Volume_03_Book_03_07_Runtime_Ecosystem_v9_draft.pdf`.
 - The v9 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v9_draft.md`.
 - Runtime Ecosystem authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
+
+## Book 03.08 Workflow System Acceptance Checklist
+- Book 03.08 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.08 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v10 build produces `Volume_03_Book_03_08_Workflow_System_v10_draft.pdf`.
+- The v10 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v10_draft.md`.
+- Workflow System authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.

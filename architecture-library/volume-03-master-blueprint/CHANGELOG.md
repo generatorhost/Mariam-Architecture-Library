@@ -104,3 +104,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v9 draft | Draft | Added Book 03.07 Runtime Ecosystem with 20 subsystem blueprint documents and v9 release artifacts. |
+
+## v10 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v10 draft | Draft | Added Book 03.08 Workflow System with 20 subsystem blueprint documents and v10 release artifacts. |

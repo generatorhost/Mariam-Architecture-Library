@@ -230,3 +230,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-07-018 - `book-03-07-runtime-ecosystem/book-03-07-18-runtime-security.md`
 - MAL-V03-B03-07-019 - `book-03-07-runtime-ecosystem/book-03-07-19-runtime-testing.md`
 - MAL-V03-B03-07-020 - `book-03-07-runtime-ecosystem/book-03-07-20-runtime-roadmap.md`
+
+## Book 03.08 Workflow System
+- MAL-V03-B03-08-README - `book-03-08-workflow-system/README.md`
+- MAL-V03-B03-08-001 - `book-03-08-workflow-system/book-03-08-01-workflow-system-overview.md`
+- MAL-V03-B03-08-002 - `book-03-08-workflow-system/book-03-08-02-workflow-engine.md`
+- MAL-V03-B03-08-003 - `book-03-08-workflow-system/book-03-08-03-mission-graph.md`
+- MAL-V03-B03-08-004 - `book-03-08-workflow-system/book-03-08-04-task-graph.md`
+- MAL-V03-B03-08-005 - `book-03-08-workflow-system/book-03-08-05-planner.md`
+- MAL-V03-B03-08-006 - `book-03-08-workflow-system/book-03-08-06-scheduler.md`
+- MAL-V03-B03-08-007 - `book-03-08-workflow-system/book-03-08-07-executor.md`
+- MAL-V03-B03-08-008 - `book-03-08-workflow-system/book-03-08-08-recovery.md`
+- MAL-V03-B03-08-009 - `book-03-08-workflow-system/book-03-08-09-self-healing.md`
+- MAL-V03-B03-08-010 - `book-03-08-workflow-system/book-03-08-10-approval-gates.md`
+- MAL-V03-B03-08-011 - `book-03-08-workflow-system/book-03-08-11-workflow-state.md`
+- MAL-V03-B03-08-012 - `book-03-08-workflow-system/book-03-08-12-workflow-templates.md`
+- MAL-V03-B03-08-013 - `book-03-08-workflow-system/book-03-08-13-workflow-routing.md`
+- MAL-V03-B03-08-014 - `book-03-08-workflow-system/book-03-08-14-workflow-observability.md`
+- MAL-V03-B03-08-015 - `book-03-08-workflow-system/book-03-08-15-workflow-governance.md`
+- MAL-V03-B03-08-016 - `book-03-08-workflow-system/book-03-08-16-workflow-events.md`
+- MAL-V03-B03-08-017 - `book-03-08-workflow-system/book-03-08-17-workflow-storage.md`
+- MAL-V03-B03-08-018 - `book-03-08-workflow-system/book-03-08-18-workflow-security.md`
+- MAL-V03-B03-08-019 - `book-03-08-workflow-system/book-03-08-19-workflow-testing.md`
+- MAL-V03-B03-08-020 - `book-03-08-workflow-system/book-03-08-20-workflow-roadmap.md`

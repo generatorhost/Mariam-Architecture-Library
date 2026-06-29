@@ -132,3 +132,12 @@ Covers trace links from Book 03.01 Enterprise Core to Volumes 00, 01, and 02.
 | Organization and governance dependencies | MAL-V03-B03-02-008, MAL-V03-B03-02-014 |
 | AI, knowledge, and capability dependencies | MAL-V03-B03-03-013, MAL-V03-B03-04-015, MAL-V03-B03-05-003 |
 | Testing and acceptance | MAL-V03-B03-01-018, MAL-V03-ACCEPTANCE |
+
+## Book 03.08 Trace Map
+| Blueprint Area | Primary Sources |
+| --- | --- |
+| Workflow System blueprint | MAL-V00-B009, MAL-V00-B010, MAL-V02-B008 |
+| Core runtime and security dependencies | MAL-V03-B03-01-004, MAL-V03-B03-01-016 |
+| Organization and governance dependencies | MAL-V03-B03-02-008, MAL-V03-B03-02-014 |
+| AI, knowledge, and capability dependencies | MAL-V03-B03-03-013, MAL-V03-B03-04-015, MAL-V03-B03-05-003 |
+| Testing and acceptance | MAL-V03-B03-01-018, MAL-V03-ACCEPTANCE |
