@@ -11,3 +11,9 @@
 - `v77-runtime-ecosystem-part-2/INDEX.md`
 - `v77-runtime-ecosystem-part-2/guide-15-77-01-model-runtime.md`
 - `v77-runtime-ecosystem-part-2/guide-15-77-02-service-runtime.md`
+
+## v78 - Runtime Ecosystem Part 3
+- `v78-runtime-ecosystem-part-3/README.md`
+- `v78-runtime-ecosystem-part-3/INDEX.md`
+- `v78-runtime-ecosystem-part-3/guide-15-78-01-tool-runtime.md`
+- `v78-runtime-ecosystem-part-3/guide-15-78-02-workflow-runtime.md`
