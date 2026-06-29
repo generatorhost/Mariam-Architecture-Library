@@ -11,3 +11,9 @@
 - `v52-enterprise-organization-part-2/INDEX.md`
 - `v52-enterprise-organization-part-2/guide-10-52-01-boards.md`
 - `v52-enterprise-organization-part-2/guide-10-52-02-processes.md`
+
+## v53 - Enterprise Organization Part 3
+- `v53-enterprise-organization-part-3/README.md`
+- `v53-enterprise-organization-part-3/INDEX.md`
+- `v53-enterprise-organization-part-3/guide-10-53-01-chief-office.md`
+- `v53-enterprise-organization-part-3/guide-10-53-02-policies.md`

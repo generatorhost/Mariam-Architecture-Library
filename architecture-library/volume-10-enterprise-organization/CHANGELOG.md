@@ -9,3 +9,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v52 draft | Draft | Added Enterprise Organization Part 2 documentation and release artifacts. |
+
+## v53 - Enterprise Organization Part 3
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v53 draft | Draft | Added Enterprise Organization Part 3 documentation and release artifacts. |

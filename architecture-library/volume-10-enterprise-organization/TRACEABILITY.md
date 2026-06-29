@@ -17,3 +17,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v52_draft.md |
 | Documents | v52-enterprise-organization-part-2/README.md, v52-enterprise-organization-part-2/INDEX.md, v52-enterprise-organization-part-2/guide-10-52-01-boards.md, v52-enterprise-organization-part-2/guide-10-52-02-processes.md |
+
+## v53 - Enterprise Organization Part 3
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v53_draft.md |
+| Documents | v53-enterprise-organization-part-3/README.md, v53-enterprise-organization-part-3/INDEX.md, v53-enterprise-organization-part-3/guide-10-53-01-chief-office.md, v53-enterprise-organization-part-3/guide-10-53-02-policies.md |
