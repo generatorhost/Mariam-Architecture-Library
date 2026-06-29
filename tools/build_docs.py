@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v120 draft"
-RELEASE_SLUG = "v120_draft"
+RELEASE_VERSION = "v121 draft"
+RELEASE_SLUG = "v121_draft"
 
 VOLUMES = [
     {
@@ -745,8 +745,14 @@ VOLUMES = [
     {
         "id": "volume-23-marketplace/v120-marketplace-part-5",
         "title": "Volume 23 Marketplace - Marketplace Part 5",
-        "version": RELEASE_VERSION,
+        "version": "v120 draft",
         "pdf": "Volume_23_Marketplace_Part_5_v120_draft.pdf",
+    },
+    {
+        "id": "volume-24-evolution/v121-evolution-part-1",
+        "title": "Volume 24 Evolution - Evolution Part 1",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_24_Evolution_Part_1_v121_draft.pdf",
     },
 ]
 

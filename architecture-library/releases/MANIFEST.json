@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v120 draft",
+  "version": "v121 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:59:37.133791+00:00",
+  "generated_at": "2026-06-29T18:59:48.801523+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v120_draft.zip",
-      "bytes": 5082923,
-      "sha256": "431b00e7dbf9c20c2463b01e4c8dbdd4b9b927583f4386d61aa35b680f8b8967"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v121_draft.zip",
+      "bytes": 5098396,
+      "sha256": "cae9f5a3bff9277f0a1ae799461d1643056a70b61e01dc97ed4b2b07ac9c6c01"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -613,6 +613,11 @@
       "path": "architecture-library/releases/pdf/Volume_23_Marketplace_Part_5_v120_draft.pdf",
       "bytes": 11613,
       "sha256": "f06226c7f281186adde305c8e1cb0b1425d37fedcca75a1e57c303dc0a974d2a"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_24_Evolution_Part_1_v121_draft.pdf",
+      "bytes": 11610,
+      "sha256": "38c4568ecbe7e9691f6dfb8cddd01fa12470cada35b431b096bf21a93bb2e080"
     }
   ]
 }
