@@ -164,3 +164,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v21 draft | Draft | Added Book 03.19 Infrastructure with 20 subsystem blueprint documents and v21 release artifacts. |
+
+## v22 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v22 draft | Draft | Added Book 03.20 Autonomous Enterprise with 20 subsystem blueprint documents and v22 release artifacts. |

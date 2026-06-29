@@ -202,3 +202,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v21 build produces `Volume_03_Book_03_19_Infrastructure_v21_draft.pdf`.
 - The v21 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v21_draft.md`.
 - Infrastructure authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
+
+## Book 03.20 Autonomous Enterprise Acceptance Checklist
+- Book 03.20 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.20 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v22 build produces `Volume_03_Book_03_20_Autonomous_Enterprise_v22_draft.pdf`.
+- The v22 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v22_draft.md`.
+- Autonomous Enterprise authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.

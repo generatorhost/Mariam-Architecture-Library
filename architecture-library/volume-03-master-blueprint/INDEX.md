@@ -506,3 +506,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-19-018 - `book-03-19-infrastructure/book-03-19-18-infrastructure-security.md`
 - MAL-V03-B03-19-019 - `book-03-19-infrastructure/book-03-19-19-infrastructure-testing.md`
 - MAL-V03-B03-19-020 - `book-03-19-infrastructure/book-03-19-20-infrastructure-roadmap.md`
+
+## Book 03.20 Autonomous Enterprise
+- MAL-V03-B03-20-README - `book-03-20-autonomous-enterprise/README.md`
+- MAL-V03-B03-20-001 - `book-03-20-autonomous-enterprise/book-03-20-01-autonomous-enterprise-overview.md`
+- MAL-V03-B03-20-002 - `book-03-20-autonomous-enterprise/book-03-20-02-autonomy-levels.md`
+- MAL-V03-B03-20-003 - `book-03-20-autonomous-enterprise/book-03-20-03-autonomous-planning.md`
+- MAL-V03-B03-20-004 - `book-03-20-autonomous-enterprise/book-03-20-04-supervised-execution.md`
+- MAL-V03-B03-20-005 - `book-03-20-autonomous-enterprise/book-03-20-05-enterprise-simulation.md`
+- MAL-V03-B03-20-006 - `book-03-20-autonomous-enterprise/book-03-20-06-risk-controls.md`
+- MAL-V03-B03-20-007 - `book-03-20-autonomous-enterprise/book-03-20-07-executive-control.md`
+- MAL-V03-B03-20-008 - `book-03-20-autonomous-enterprise/book-03-20-08-self-improvement.md`
+- MAL-V03-B03-20-009 - `book-03-20-autonomous-enterprise/book-03-20-09-autonomous-workflows.md`
+- MAL-V03-B03-20-010 - `book-03-20-autonomous-enterprise/book-03-20-10-autonomous-marketing.md`
+- MAL-V03-B03-20-011 - `book-03-20-autonomous-enterprise/book-03-20-11-autonomous-sales.md`
+- MAL-V03-B03-20-012 - `book-03-20-autonomous-enterprise/book-03-20-12-autonomous-delivery.md`
+- MAL-V03-B03-20-013 - `book-03-20-autonomous-enterprise/book-03-20-13-client-success-automation.md`
+- MAL-V03-B03-20-014 - `book-03-20-autonomous-enterprise/book-03-20-14-growth-automation.md`
+- MAL-V03-B03-20-015 - `book-03-20-autonomous-enterprise/book-03-20-15-autonomy-governance.md`
+- MAL-V03-B03-20-016 - `book-03-20-autonomous-enterprise/book-03-20-16-autonomy-events.md`
+- MAL-V03-B03-20-017 - `book-03-20-autonomous-enterprise/book-03-20-17-autonomy-storage.md`
+- MAL-V03-B03-20-018 - `book-03-20-autonomous-enterprise/book-03-20-18-autonomy-security.md`
+- MAL-V03-B03-20-019 - `book-03-20-autonomous-enterprise/book-03-20-19-autonomy-testing.md`
+- MAL-V03-B03-20-020 - `book-03-20-autonomous-enterprise/book-03-20-20-autonomy-roadmap.md`

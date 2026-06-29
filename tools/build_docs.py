@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v21 draft"
-RELEASE_SLUG = "v21_draft"
+RELEASE_VERSION = "v22 draft"
+RELEASE_SLUG = "v22_draft"
 
 VOLUMES = [
     {
@@ -151,8 +151,14 @@ VOLUMES = [
     {
         "id": "volume-03-master-blueprint/book-03-19-infrastructure",
         "title": "Volume 03 - Book 03.19 Infrastructure",
-        "version": RELEASE_VERSION,
+        "version": "v21 draft",
         "pdf": "Volume_03_Book_03_19_Infrastructure_v21_draft.pdf",
+    },
+    {
+        "id": "volume-03-master-blueprint/book-03-20-autonomous-enterprise",
+        "title": "Volume 03 - Book 03.20 Autonomous Enterprise",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_03_Book_03_20_Autonomous_Enterprise_v22_draft.pdf",
     },
 ]
 
