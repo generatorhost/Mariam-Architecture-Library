@@ -26,3 +26,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v48_draft.md |
 | Documents | v48-testing-guide-part-3/README.md, v48-testing-guide-part-3/INDEX.md, v48-testing-guide-part-3/guide-09-48-01-system-testing.md, v48-testing-guide-part-3/guide-09-48-02-security-testing.md |
+
+## v49 - Testing Guide Part 4
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v49_draft.md |
+| Documents | v49-testing-guide-part-4/README.md, v49-testing-guide-part-4/INDEX.md, v49-testing-guide-part-4/guide-09-49-01-acceptance-testing.md, v49-testing-guide-part-4/guide-09-49-02-regression-testing.md |

@@ -17,3 +17,9 @@
 - `v48-testing-guide-part-3/INDEX.md`
 - `v48-testing-guide-part-3/guide-09-48-01-system-testing.md`
 - `v48-testing-guide-part-3/guide-09-48-02-security-testing.md`
+
+## v49 - Testing Guide Part 4
+- `v49-testing-guide-part-4/README.md`
+- `v49-testing-guide-part-4/INDEX.md`
+- `v49-testing-guide-part-4/guide-09-49-01-acceptance-testing.md`
+- `v49-testing-guide-part-4/guide-09-49-02-regression-testing.md`
