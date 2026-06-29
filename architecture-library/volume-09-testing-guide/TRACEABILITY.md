@@ -17,3 +17,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v47_draft.md |
 | Documents | v47-testing-guide-part-2/README.md, v47-testing-guide-part-2/INDEX.md, v47-testing-guide-part-2/guide-09-47-01-integration-testing.md, v47-testing-guide-part-2/guide-09-47-02-chaos-testing.md |
+
+## v48 - Testing Guide Part 3
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v48_draft.md |
+| Documents | v48-testing-guide-part-3/README.md, v48-testing-guide-part-3/INDEX.md, v48-testing-guide-part-3/guide-09-48-01-system-testing.md, v48-testing-guide-part-3/guide-09-48-02-security-testing.md |
