@@ -17,3 +17,9 @@
 - `v68-capability-system-part-3/INDEX.md`
 - `v68-capability-system-part-3/guide-13-68-01-discovery.md`
 - `v68-capability-system-part-3/guide-13-68-02-lifecycle.md`
+
+## v69 - Capability System Part 4
+- `v69-capability-system-part-4/README.md`
+- `v69-capability-system-part-4/INDEX.md`
+- `v69-capability-system-part-4/guide-13-69-01-matching.md`
+- `v69-capability-system-part-4/guide-13-69-02-benchmarks.md`

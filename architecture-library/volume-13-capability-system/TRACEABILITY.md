@@ -26,3 +26,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v68_draft.md |
 | Documents | v68-capability-system-part-3/README.md, v68-capability-system-part-3/INDEX.md, v68-capability-system-part-3/guide-13-68-01-discovery.md, v68-capability-system-part-3/guide-13-68-02-lifecycle.md |
+
+## v69 - Capability System Part 4
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v69_draft.md |
+| Documents | v69-capability-system-part-4/README.md, v69-capability-system-part-4/INDEX.md, v69-capability-system-part-4/guide-13-69-01-matching.md, v69-capability-system-part-4/guide-13-69-02-benchmarks.md |
