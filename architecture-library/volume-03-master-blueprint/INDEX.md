@@ -345,3 +345,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-12-018 - `book-03-12-plugin-runtime/book-03-12-18-plugin-security.md`
 - MAL-V03-B03-12-019 - `book-03-12-plugin-runtime/book-03-12-19-plugin-testing.md`
 - MAL-V03-B03-12-020 - `book-03-12-plugin-runtime/book-03-12-20-plugin-roadmap.md`
+
+## Book 03.13 Connector Runtime
+- MAL-V03-B03-13-README - `book-03-13-connector-runtime/README.md`
+- MAL-V03-B03-13-001 - `book-03-13-connector-runtime/book-03-13-01-connector-runtime-overview.md`
+- MAL-V03-B03-13-002 - `book-03-13-connector-runtime/book-03-13-02-connector-manifest.md`
+- MAL-V03-B03-13-003 - `book-03-13-connector-runtime/book-03-13-03-connector-loader.md`
+- MAL-V03-B03-13-004 - `book-03-13-connector-runtime/book-03-13-04-connector-auth.md`
+- MAL-V03-B03-13-005 - `book-03-13-connector-runtime/book-03-13-05-connector-permissions.md`
+- MAL-V03-B03-13-006 - `book-03-13-connector-runtime/book-03-13-06-connector-api.md`
+- MAL-V03-B03-13-007 - `book-03-13-connector-runtime/book-03-13-07-connector-sync.md`
+- MAL-V03-B03-13-008 - `book-03-13-connector-runtime/book-03-13-08-connector-webhooks.md`
+- MAL-V03-B03-13-009 - `book-03-13-connector-runtime/book-03-13-09-connector-rate-limits.md`
+- MAL-V03-B03-13-010 - `book-03-13-connector-runtime/book-03-13-10-connector-mapping.md`
+- MAL-V03-B03-13-011 - `book-03-13-connector-runtime/book-03-13-11-connector-retries.md`
+- MAL-V03-B03-13-012 - `book-03-13-connector-runtime/book-03-13-12-connector-observability.md`
+- MAL-V03-B03-13-013 - `book-03-13-connector-runtime/book-03-13-13-connector-governance.md`
+- MAL-V03-B03-13-014 - `book-03-13-connector-runtime/book-03-13-14-connector-quality.md`
+- MAL-V03-B03-13-015 - `book-03-13-connector-runtime/book-03-13-15-connector-compatibility.md`
+- MAL-V03-B03-13-016 - `book-03-13-connector-runtime/book-03-13-16-connector-events.md`
+- MAL-V03-B03-13-017 - `book-03-13-connector-runtime/book-03-13-17-connector-storage.md`
+- MAL-V03-B03-13-018 - `book-03-13-connector-runtime/book-03-13-18-connector-security.md`
+- MAL-V03-B03-13-019 - `book-03-13-connector-runtime/book-03-13-19-connector-testing.md`
+- MAL-V03-B03-13-020 - `book-03-13-connector-runtime/book-03-13-20-connector-roadmap.md`
