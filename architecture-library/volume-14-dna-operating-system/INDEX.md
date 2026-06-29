@@ -23,3 +23,9 @@
 - `v74-dna-operating-system-part-4/INDEX.md`
 - `v74-dna-operating-system-part-4/guide-14-74-01-package-graph.md`
 - `v74-dna-operating-system-part-4/guide-14-74-02-evolution.md`
+
+## v75 - DNA Operating System Part 5
+- `v75-dna-operating-system-part-5/README.md`
+- `v75-dna-operating-system-part-5/INDEX.md`
+- `v75-dna-operating-system-part-5/guide-14-75-01-dependency-resolver.md`
+- `v75-dna-operating-system-part-5/guide-14-75-02-export.md`

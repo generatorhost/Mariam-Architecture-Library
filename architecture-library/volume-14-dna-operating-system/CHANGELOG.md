@@ -19,3 +19,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v74 draft | Draft | Added DNA Operating System Part 4 documentation and release artifacts. |
+
+## v75 - DNA Operating System Part 5
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v75 draft | Draft | Added DNA Operating System Part 5 documentation and release artifacts. |
