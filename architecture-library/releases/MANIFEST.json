@@ -1,118 +1,123 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v20 draft",
+  "version": "v21 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T16:52:06.487527+00:00",
+  "generated_at": "2026-06-29T16:52:26.314967+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v20_draft.zip",
-      "bytes": 2519615,
-      "sha256": "793ba79704b9d7149868b5622f9cae07b4c14c7ac900603e57abde000ac9bd67"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v21_draft.zip",
+      "bytes": 2663000,
+      "sha256": "1621bb168cefb79c11b12adf3873a7aba5bae88ec3fec56093681978f9790bd7"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
       "bytes": 39899,
-      "sha256": "d032c8d9609cafee6b0f3ca8789455201ba5fe44def823d3f008808637cd237d"
+      "sha256": "030cf6aac4fe55ffcd6292ef9d643395c4a650f74f5c60e2462c06310dc79841"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_01_Master_Vision_v1_draft.pdf",
       "bytes": 22202,
-      "sha256": "edbe35123e06f6c632b17724bdffd353845d0357065ae88719886aab9a79036b"
+      "sha256": "92f8a7703a893ec6f4c4b2260cc6316c8b76037786b050a6fd81370d2a31fbf5"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_02_Master_Roadmap_v2_draft.pdf",
       "bytes": 77412,
-      "sha256": "158ee35edfeabb4acc8cfe2f338f16e2d61aa4c2567e2f3c81f6cc35c5a614b8"
+      "sha256": "f6e460ed625fa414af4225e5fe945928729caedf5d526ba7e92f411246a9d7f8"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_01_Enterprise_Core_v3_draft.pdf",
       "bytes": 71806,
-      "sha256": "f54b21b14d4909ae2a5120ac6cf522589b50d450bcd735216935c48fb778cf53"
+      "sha256": "8f3c0f1873652b7d73554511b951fcdfb1b64a7f402fb228c8c126b4d56e8db5"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_02_Enterprise_Organization_v4_draft.pdf",
       "bytes": 70780,
-      "sha256": "6134d115296309bcbbda78f576463df6a3d59953b1fd4cc01b4178b05f653b78"
+      "sha256": "7985aee0ff78304970fea3862386124459128d74ba2c4503c41973db9920bd40"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_03_AI_Society_v5_draft.pdf",
       "bytes": 111297,
-      "sha256": "f84418d412d37cbdd7457e9da8f2b70d3ac72d8f06e61b22f3aeda4b8e268dff"
+      "sha256": "a3dd1cdc961cf92a8dd00664bda74a4ea9d075d00ff710b68599cd7c0b169664"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_04_Knowledge_System_v6_draft.pdf",
       "bytes": 110971,
-      "sha256": "4d7bb999d9ab459d67719d9a3730df1968792326a0333077396da2f50804104d"
+      "sha256": "6fc7c971fa5a01f08b5478ada00645cf78b469ea1897860439060ec2bf1f9a56"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_05_Capability_System_v7_draft.pdf",
       "bytes": 114912,
-      "sha256": "d31744dd872c710c78d7886cfe3a02c70dcf59ed119e0ac3aff252ec98960fba"
+      "sha256": "c48e1464019d8987f3284c891556ac2b530fa3b1d3045d82da3408d117d7ecd2"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_06_DNA_Operating_System_v8_draft.pdf",
       "bytes": 134487,
-      "sha256": "aa7a548d7c29084a16ceff3281ac10bd1f8cfe655bb0bb70c4279eba3ad8d4cf"
+      "sha256": "d6fc1d982cea2b64cc80be38f1d6a737a9ef5e432647bf77cb49377575dbd58e"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_07_Runtime_Ecosystem_v9_draft.pdf",
       "bytes": 133787,
-      "sha256": "6943516ecb49ed36d1c3c6d3f041046da5a5ad09fcd834d94a1a36bbf46a588e"
+      "sha256": "6eeed5fbb855430398027baed8648fb7d955892601e93b8e924d1c6171d03e74"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_08_Workflow_System_v10_draft.pdf",
       "bytes": 133987,
-      "sha256": "4415e734bfd86b2744346bf832f6280310187933d366b43cceb5c4837a7b01a4"
+      "sha256": "c60724026044af075b02d89c802c9d7cf3d1057c394bb7ccae10e44675825cf2"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_09_Swarm_Intelligence_v11_draft.pdf",
       "bytes": 133973,
-      "sha256": "4f675bd6fc1d82ef798ca5be1a7c8fbf9f5f3f66b639bb10330e166a0d445533"
+      "sha256": "e89e32893bc13c256cef15cd24a8a39f776bc0c504c2f007725077e8d09a2889"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_10_Model_Ecosystem_v12_draft.pdf",
       "bytes": 133898,
-      "sha256": "7684d7857e45ec82e3308f6467a3320b38f6067a27467f25ea1c3ad6aaf2a28a"
+      "sha256": "009528b6d8959b3818d7c53968385963a307cbd8029a0b98c6f237b16e7e78ce"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_11_Provider_Ecosystem_v13_draft.pdf",
       "bytes": 133939,
-      "sha256": "5220558c9158d8b02cdc99f7dee7001a9ca94761d03ead42e7bc454014eaa42d"
+      "sha256": "2d6af118fa4dd59c5ed0f1b9bbd0c9f330d9c45b2f130b459333d6da9b0a65b7"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_12_Plugin_Runtime_v14_draft.pdf",
       "bytes": 133746,
-      "sha256": "632d9dbe9adafe614cc59598b6ae5ae020f358d300c8a707cf66d56c94a82f02"
+      "sha256": "2ad25c3c1ace175fbfebed7af28d8c124056526ea2d9d37e3ddc8088f5dd8531"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_13_Connector_Runtime_v15_draft.pdf",
       "bytes": 134387,
-      "sha256": "fb5096e3c7a25d9493670518f574b63354d2002790f7783596c9b34846c798e8"
+      "sha256": "22ca9bfbdf9d3bc563a5d867fa838bcb37a343d04697569f960aebc3b3be005d"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_14_Marketplace_v16_draft.pdf",
       "bytes": 133415,
-      "sha256": "f4d93347d6254c9fbe3e221a1d3ac00a792a317d6ecfcbd832b0f3701120e98b"
+      "sha256": "070dbfc44d0167fbbeff45b3485782ca059e0fb428f24c16569344447b54d0e4"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_15_Opportunity_Intelligence_v17_draft.pdf",
       "bytes": 135130,
-      "sha256": "653ae1a1e694b4740a018583a8614457fe1ba27d77a7e0c1173b71d5f685b8de"
+      "sha256": "394a39ca133396ba010b9ff414cda197a3fc9ba4a1586bfdcc617dece33f379f"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_16_Freelance_Automation_v18_draft.pdf",
       "bytes": 134560,
-      "sha256": "a2cbca6fd8412f04ca064bd0d8d2655355eb4e95449c52d93c4872a8293a0a19"
+      "sha256": "ebf41eae7b03837e175c3f281c2d7a2706319a22828631aec6d8befc224fec43"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_17_Remote_Work_Automation_v19_draft.pdf",
       "bytes": 135220,
-      "sha256": "caae40ab2ffba2169860413ca829bf19c3e3c9249c09c62ebba0751d8d653bd8"
+      "sha256": "74a3ab9fc1cbb6daf928def7a432c8ba0d9d709502fdedcaf5324120588551aa"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_18_Enterprise_Governance_v20_draft.pdf",
       "bytes": 134686,
-      "sha256": "38514a85d27c8b8116c84bb44cd775415ae857519465c09274b5ec785c65e785"
+      "sha256": "d959c4169d5410747c593b7579e1648e6d203ed9e126617918c76e1cbf9b9b89"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_03_Book_03_19_Infrastructure_v21_draft.pdf",
+      "bytes": 133694,
+      "sha256": "b96bf61f6454b938126368b4bf9193cac65183d1ed17a448fa9dcc5955d1679d"
     }
   ]
 }

@@ -483,3 +483,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-18-018 - `book-03-18-enterprise-governance/book-03-18-18-governance-security.md`
 - MAL-V03-B03-18-019 - `book-03-18-enterprise-governance/book-03-18-19-governance-testing.md`
 - MAL-V03-B03-18-020 - `book-03-18-enterprise-governance/book-03-18-20-governance-roadmap.md`
+
+## Book 03.19 Infrastructure
+- MAL-V03-B03-19-README - `book-03-19-infrastructure/README.md`
+- MAL-V03-B03-19-001 - `book-03-19-infrastructure/book-03-19-01-infrastructure-overview.md`
+- MAL-V03-B03-19-002 - `book-03-19-infrastructure/book-03-19-02-environment-model.md`
+- MAL-V03-B03-19-003 - `book-03-19-infrastructure/book-03-19-03-deployment-pipeline.md`
+- MAL-V03-B03-19-004 - `book-03-19-infrastructure/book-03-19-04-storage-layer.md`
+- MAL-V03-B03-19-005 - `book-03-19-infrastructure/book-03-19-05-cache-layer.md`
+- MAL-V03-B03-19-006 - `book-03-19-infrastructure/book-03-19-06-networking.md`
+- MAL-V03-B03-19-007 - `book-03-19-infrastructure/book-03-19-07-secrets-management.md`
+- MAL-V03-B03-19-008 - `book-03-19-infrastructure/book-03-19-08-sandboxing.md`
+- MAL-V03-B03-19-009 - `book-03-19-infrastructure/book-03-19-09-metrics.md`
+- MAL-V03-B03-19-010 - `book-03-19-infrastructure/book-03-19-10-tracing.md`
+- MAL-V03-B03-19-011 - `book-03-19-infrastructure/book-03-19-11-logs.md`
+- MAL-V03-B03-19-012 - `book-03-19-infrastructure/book-03-19-12-monitoring.md`
+- MAL-V03-B03-19-013 - `book-03-19-infrastructure/book-03-19-13-backup-recovery.md`
+- MAL-V03-B03-19-014 - `book-03-19-infrastructure/book-03-19-14-scaling.md`
+- MAL-V03-B03-19-015 - `book-03-19-infrastructure/book-03-19-15-infrastructure-governance.md`
+- MAL-V03-B03-19-016 - `book-03-19-infrastructure/book-03-19-16-infrastructure-events.md`
+- MAL-V03-B03-19-017 - `book-03-19-infrastructure/book-03-19-17-infrastructure-storage.md`
+- MAL-V03-B03-19-018 - `book-03-19-infrastructure/book-03-19-18-infrastructure-security.md`
+- MAL-V03-B03-19-019 - `book-03-19-infrastructure/book-03-19-19-infrastructure-testing.md`
+- MAL-V03-B03-19-020 - `book-03-19-infrastructure/book-03-19-20-infrastructure-roadmap.md`

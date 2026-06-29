@@ -159,3 +159,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v20 draft | Draft | Added Book 03.18 Enterprise Governance with 20 subsystem blueprint documents and v20 release artifacts. |
+
+## v21 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v21 draft | Draft | Added Book 03.19 Infrastructure with 20 subsystem blueprint documents and v21 release artifacts. |
