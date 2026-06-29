@@ -391,3 +391,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-14-018 - `book-03-14-marketplace/book-03-14-18-marketplace-security.md`
 - MAL-V03-B03-14-019 - `book-03-14-marketplace/book-03-14-19-marketplace-testing.md`
 - MAL-V03-B03-14-020 - `book-03-14-marketplace/book-03-14-20-marketplace-roadmap.md`
+
+## Book 03.15 Opportunity Intelligence
+- MAL-V03-B03-15-README - `book-03-15-opportunity-intelligence/README.md`
+- MAL-V03-B03-15-001 - `book-03-15-opportunity-intelligence/book-03-15-01-opportunity-intelligence-overview.md`
+- MAL-V03-B03-15-002 - `book-03-15-opportunity-intelligence/book-03-15-02-signal-collection.md`
+- MAL-V03-B03-15-003 - `book-03-15-opportunity-intelligence/book-03-15-03-source-registry.md`
+- MAL-V03-B03-15-004 - `book-03-15-opportunity-intelligence/book-03-15-04-deep-crawling.md`
+- MAL-V03-B03-15-005 - `book-03-15-opportunity-intelligence/book-03-15-05-opportunity-normalization.md`
+- MAL-V03-B03-15-006 - `book-03-15-opportunity-intelligence/book-03-15-06-client-intelligence.md`
+- MAL-V03-B03-15-007 - `book-03-15-opportunity-intelligence/book-03-15-07-fit-analysis.md`
+- MAL-V03-B03-15-008 - `book-03-15-opportunity-intelligence/book-03-15-08-scoring.md`
+- MAL-V03-B03-15-009 - `book-03-15-opportunity-intelligence/book-03-15-09-ranking.md`
+- MAL-V03-B03-15-010 - `book-03-15-opportunity-intelligence/book-03-15-10-recommendations.md`
+- MAL-V03-B03-15-011 - `book-03-15-opportunity-intelligence/book-03-15-11-opportunity-workflows.md`
+- MAL-V03-B03-15-012 - `book-03-15-opportunity-intelligence/book-03-15-12-opportunity-feedback.md`
+- MAL-V03-B03-15-013 - `book-03-15-opportunity-intelligence/book-03-15-13-opportunity-governance.md`
+- MAL-V03-B03-15-014 - `book-03-15-opportunity-intelligence/book-03-15-14-opportunity-quality.md`
+- MAL-V03-B03-15-015 - `book-03-15-opportunity-intelligence/book-03-15-15-opportunity-observability.md`
+- MAL-V03-B03-15-016 - `book-03-15-opportunity-intelligence/book-03-15-16-opportunity-events.md`
+- MAL-V03-B03-15-017 - `book-03-15-opportunity-intelligence/book-03-15-17-opportunity-storage.md`
+- MAL-V03-B03-15-018 - `book-03-15-opportunity-intelligence/book-03-15-18-opportunity-security.md`
+- MAL-V03-B03-15-019 - `book-03-15-opportunity-intelligence/book-03-15-19-opportunity-testing.md`
+- MAL-V03-B03-15-020 - `book-03-15-opportunity-intelligence/book-03-15-20-opportunity-roadmap.md`

@@ -167,3 +167,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v16 build produces `Volume_03_Book_03_14_Marketplace_v16_draft.pdf`.
 - The v16 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v16_draft.md`.
 - Marketplace authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
+
+## Book 03.15 Opportunity Intelligence Acceptance Checklist
+- Book 03.15 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.15 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v17 build produces `Volume_03_Book_03_15_Opportunity_Intelligence_v17_draft.pdf`.
+- The v17 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v17_draft.md`.
+- Opportunity Intelligence authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.

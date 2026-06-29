@@ -139,3 +139,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v16 draft | Draft | Added Book 03.14 Marketplace with 20 subsystem blueprint documents and v16 release artifacts. |
+
+## v17 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v17 draft | Draft | Added Book 03.15 Opportunity Intelligence with 20 subsystem blueprint documents and v17 release artifacts. |

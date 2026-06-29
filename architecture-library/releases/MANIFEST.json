@@ -1,98 +1,103 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v16 draft",
+  "version": "v17 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T16:50:56.903159+00:00",
+  "generated_at": "2026-06-29T16:51:12.941935+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v16_draft.zip",
-      "bytes": 1933535,
-      "sha256": "847b76b3afd7f5c42c7c6bfff04e38d614564b8480c4daf37571f37c3358bb87"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v17_draft.zip",
+      "bytes": 2080111,
+      "sha256": "4501040844d5fc672d4b35b85c5572610d2ddddd1679aa9e35fdd9b6c9a52630"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
       "bytes": 39899,
-      "sha256": "3688535a962f787b82bc71f34f73899296c9ee677706584df4de197bc49f1415"
+      "sha256": "424192c98d6664dd820efd6a020434435d51b513b3b555f201020c332e241fcb"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_01_Master_Vision_v1_draft.pdf",
       "bytes": 22202,
-      "sha256": "ba155e3307f6b37fcbf2e74e5b6916aa33f9b6b4a41982d35f8b5343a2c0dfe6"
+      "sha256": "766b06cbb8571c1a128872532510225e2e1c4c2cc2340e388945035b71fa144b"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_02_Master_Roadmap_v2_draft.pdf",
       "bytes": 77412,
-      "sha256": "7d22c1d3e96af1725ff1f82eb4c5b0da572f4b702500c1b8c7c321dfbbdba7dc"
+      "sha256": "cf5532e7c3824eab0ac5bd471d73e557e7fa98c50bcdec2b05291721b7a5ab68"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_01_Enterprise_Core_v3_draft.pdf",
       "bytes": 71806,
-      "sha256": "d1ef116a2051911e064a88bb48e5018b30ae2178724f57bdcab1c8faa2411a9f"
+      "sha256": "bd015571b6d60d7f1252f271d2682d3826e60a30c9433bceb8f1ab8fd469eab0"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_02_Enterprise_Organization_v4_draft.pdf",
       "bytes": 70780,
-      "sha256": "ff1991204bd1e962451fc3a855579ffb0df8c98a81cee18eb000cdd83fc2332b"
+      "sha256": "18e0c2f71c94f80dccd53340861d2303418ac30804bc6b25b155b19fb712224f"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_03_AI_Society_v5_draft.pdf",
       "bytes": 111297,
-      "sha256": "d1f3fa4cb27118695cb9a84b632321e0207cdad8c9952c9ba74c5ba367f9e526"
+      "sha256": "eb33dded1746564f0cbfea338f960ca21e152ef8e2b5e6ba5ef2363703d4452b"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_04_Knowledge_System_v6_draft.pdf",
       "bytes": 110971,
-      "sha256": "9f3773e69b776aff8217aa78e098eaa66fea31137803cd065923ab79587b3e8e"
+      "sha256": "35411724968546d08e4c8ede2cb4906c60b4addeee534ec6ec483dc1fbd50b00"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_05_Capability_System_v7_draft.pdf",
       "bytes": 114912,
-      "sha256": "b0d18bb2ec051f68d0e07413b54483329c492f232273f354657a6053f0312329"
+      "sha256": "f6e5941a7149da455e0c9301aeff6751d300ed5c49ae471b1356c23723644dee"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_06_DNA_Operating_System_v8_draft.pdf",
       "bytes": 134487,
-      "sha256": "92742fd77af60eae90919e8a98e000e9905dd323a714c456e1a055524f704e39"
+      "sha256": "6ba75bc639a4b704c4ab6c181c897968669a4200d31e1e47fadd19f75da217de"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_07_Runtime_Ecosystem_v9_draft.pdf",
       "bytes": 133787,
-      "sha256": "796732c91a8f0971339f9409785fe3d795a67bd2c1a86aca25c1e6501c7bbd3e"
+      "sha256": "8e60301a9b475daa9fa41fbdba57b55746fbee1418f6cdd188f344a1a217d8ef"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_08_Workflow_System_v10_draft.pdf",
       "bytes": 133987,
-      "sha256": "95b9aa3e91b28594134e42ed55f779b648f8d815cb7fc97f92b84859c8a37eaa"
+      "sha256": "ca7e632766d5a0fad4b52cb746fad985dc7c96f4a35d9e8db87726d8970bcc5d"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_09_Swarm_Intelligence_v11_draft.pdf",
       "bytes": 133973,
-      "sha256": "50a43638d71e48ba086c30fb09d0f3a72a17d50aa04f0b1c0154f9cb7b3fe1af"
+      "sha256": "6cf985b88de772a6ec68082d4979905eb36856f2492a4736b28db2c2106c6747"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_10_Model_Ecosystem_v12_draft.pdf",
       "bytes": 133898,
-      "sha256": "f2550eb3f18a0382b2b3bbe98514cceb817853c4a7cfc3579cf884bdc48366ad"
+      "sha256": "739ba14bcc41e8189f1e981f0021004fe41ee52760744821a4a454ffda14d6fd"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_11_Provider_Ecosystem_v13_draft.pdf",
       "bytes": 133939,
-      "sha256": "a87520460533b4c0cbbca8a5947cb5a8026789241a234da008b72ffbda9e4a1f"
+      "sha256": "2e6823189ecf9876fbba9e2a3697e16ef974443ac9e0f963001774a74e3783f3"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_12_Plugin_Runtime_v14_draft.pdf",
       "bytes": 133746,
-      "sha256": "9470687d84002303777b44c505756dbc7f1333703a84e7dd4538a681c90ffff9"
+      "sha256": "7cdca52c705e9e295055e65f9da0665360baff49f3e1f29b1422a08dd48a13ec"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_13_Connector_Runtime_v15_draft.pdf",
       "bytes": 134387,
-      "sha256": "71845535e3d598a8982b12d2f1d0f10e4288cc24f1561bd0b1a96697a51a4b56"
+      "sha256": "8400202020e067fafca80fe863842a01a028d184fdcfe78e0a754728094e49e4"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_14_Marketplace_v16_draft.pdf",
       "bytes": 133415,
-      "sha256": "83a1c9817e36294082525969f60afaba4d564e46a1e1ef0e0dde6940b1a6dfcd"
+      "sha256": "db7a76185ec29f4eabc75566708bd57f3df688d566213615d5188e557cf558cc"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_03_Book_03_15_Opportunity_Intelligence_v17_draft.pdf",
+      "bytes": 135130,
+      "sha256": "5e3cdd34322f8fb347e70c185a6843798da569d30a0e5b2e8be5ba3fe9a0ab2c"
     }
   ]
 }
