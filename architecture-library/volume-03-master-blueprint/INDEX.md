@@ -437,3 +437,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-16-018 - `book-03-16-freelance-automation/book-03-16-18-freelance-security.md`
 - MAL-V03-B03-16-019 - `book-03-16-freelance-automation/book-03-16-19-freelance-testing.md`
 - MAL-V03-B03-16-020 - `book-03-16-freelance-automation/book-03-16-20-freelance-roadmap.md`
+
+## Book 03.17 Remote Work Automation
+- MAL-V03-B03-17-README - `book-03-17-remote-work-automation/README.md`
+- MAL-V03-B03-17-001 - `book-03-17-remote-work-automation/book-03-17-01-remote-work-automation-overview.md`
+- MAL-V03-B03-17-002 - `book-03-17-remote-work-automation/book-03-17-02-async-updates.md`
+- MAL-V03-B03-17-003 - `book-03-17-remote-work-automation/book-03-17-03-decision-records.md`
+- MAL-V03-B03-17-004 - `book-03-17-remote-work-automation/book-03-17-04-meeting-intelligence.md`
+- MAL-V03-B03-17-005 - `book-03-17-remote-work-automation/book-03-17-05-handoff-automation.md`
+- MAL-V03-B03-17-006 - `book-03-17-remote-work-automation/book-03-17-06-blocker-tracking.md`
+- MAL-V03-B03-17-007 - `book-03-17-remote-work-automation/book-03-17-07-team-rhythm.md`
+- MAL-V03-B03-17-008 - `book-03-17-remote-work-automation/book-03-17-08-timezone-coordination.md`
+- MAL-V03-B03-17-009 - `book-03-17-remote-work-automation/book-03-17-09-remote-dashboard.md`
+- MAL-V03-B03-17-010 - `book-03-17-remote-work-automation/book-03-17-10-knowledge-continuity.md`
+- MAL-V03-B03-17-011 - `book-03-17-remote-work-automation/book-03-17-11-accountability-signals.md`
+- MAL-V03-B03-17-012 - `book-03-17-remote-work-automation/book-03-17-12-remote-workflows.md`
+- MAL-V03-B03-17-013 - `book-03-17-remote-work-automation/book-03-17-13-remote-governance.md`
+- MAL-V03-B03-17-014 - `book-03-17-remote-work-automation/book-03-17-14-remote-quality.md`
+- MAL-V03-B03-17-015 - `book-03-17-remote-work-automation/book-03-17-15-remote-observability.md`
+- MAL-V03-B03-17-016 - `book-03-17-remote-work-automation/book-03-17-16-remote-events.md`
+- MAL-V03-B03-17-017 - `book-03-17-remote-work-automation/book-03-17-17-remote-storage.md`
+- MAL-V03-B03-17-018 - `book-03-17-remote-work-automation/book-03-17-18-remote-security.md`
+- MAL-V03-B03-17-019 - `book-03-17-remote-work-automation/book-03-17-19-remote-testing.md`
+- MAL-V03-B03-17-020 - `book-03-17-remote-work-automation/book-03-17-20-remote-roadmap.md`

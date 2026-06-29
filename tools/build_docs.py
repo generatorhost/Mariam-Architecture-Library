@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v18 draft"
-RELEASE_SLUG = "v18_draft"
+RELEASE_VERSION = "v19 draft"
+RELEASE_SLUG = "v19_draft"
 
 VOLUMES = [
     {
@@ -133,8 +133,14 @@ VOLUMES = [
     {
         "id": "volume-03-master-blueprint/book-03-16-freelance-automation",
         "title": "Volume 03 - Book 03.16 Freelance Automation",
-        "version": RELEASE_VERSION,
+        "version": "v18 draft",
         "pdf": "Volume_03_Book_03_16_Freelance_Automation_v18_draft.pdf",
+    },
+    {
+        "id": "volume-03-master-blueprint/book-03-17-remote-work-automation",
+        "title": "Volume 03 - Book 03.17 Remote Work Automation",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_03_Book_03_17_Remote_Work_Automation_v19_draft.pdf",
     },
 ]
 

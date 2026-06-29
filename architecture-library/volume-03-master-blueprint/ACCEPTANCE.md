@@ -181,3 +181,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v18 build produces `Volume_03_Book_03_16_Freelance_Automation_v18_draft.pdf`.
 - The v18 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v18_draft.md`.
 - Freelance Automation authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
+
+## Book 03.17 Remote Work Automation Acceptance Checklist
+- Book 03.17 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.17 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v19 build produces `Volume_03_Book_03_17_Remote_Work_Automation_v19_draft.pdf`.
+- The v19 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v19_draft.md`.
+- Remote Work Automation authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
