@@ -17,3 +17,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v42_draft.md |
 | Documents | v42-operations-guide-part-2/README.md, v42-operations-guide-part-2/INDEX.md, v42-operations-guide-part-2/guide-08-42-01-installation.md, v42-operations-guide-part-2/guide-08-42-02-tracing.md, v42-operations-guide-part-2/guide-08-42-03-security-operations.md |
+
+## v43 - Operations Guide Part 3
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v43_draft.md |
+| Documents | v43-operations-guide-part-3/README.md, v43-operations-guide-part-3/INDEX.md, v43-operations-guide-part-3/guide-08-43-01-configuration.md, v43-operations-guide-part-3/guide-08-43-02-recovery.md, v43-operations-guide-part-3/guide-08-43-03-incident-response.md |
