@@ -160,3 +160,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v15 build produces `Volume_03_Book_03_13_Connector_Runtime_v15_draft.pdf`.
 - The v15 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v15_draft.md`.
 - Connector Runtime authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
+
+## Book 03.14 Marketplace Acceptance Checklist
+- Book 03.14 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.14 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v16 build produces `Volume_03_Book_03_14_Marketplace_v16_draft.pdf`.
+- The v16 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v16_draft.md`.
+- Marketplace authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.

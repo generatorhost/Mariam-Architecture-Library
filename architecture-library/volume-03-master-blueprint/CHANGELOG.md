@@ -134,3 +134,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v15 draft | Draft | Added Book 03.13 Connector Runtime with 20 subsystem blueprint documents and v15 release artifacts. |
+
+## v16 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v16 draft | Draft | Added Book 03.14 Marketplace with 20 subsystem blueprint documents and v16 release artifacts. |

@@ -368,3 +368,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-13-018 - `book-03-13-connector-runtime/book-03-13-18-connector-security.md`
 - MAL-V03-B03-13-019 - `book-03-13-connector-runtime/book-03-13-19-connector-testing.md`
 - MAL-V03-B03-13-020 - `book-03-13-connector-runtime/book-03-13-20-connector-roadmap.md`
+
+## Book 03.14 Marketplace
+- MAL-V03-B03-14-README - `book-03-14-marketplace/README.md`
+- MAL-V03-B03-14-001 - `book-03-14-marketplace/book-03-14-01-marketplace-overview.md`
+- MAL-V03-B03-14-002 - `book-03-14-marketplace/book-03-14-02-catalog.md`
+- MAL-V03-B03-14-003 - `book-03-14-marketplace/book-03-14-03-listings.md`
+- MAL-V03-B03-14-004 - `book-03-14-marketplace/book-03-14-04-profiles.md`
+- MAL-V03-B03-14-005 - `book-03-14-marketplace/book-03-14-05-search-discovery.md`
+- MAL-V03-B03-14-006 - `book-03-14-marketplace/book-03-14-06-matching.md`
+- MAL-V03-B03-14-007 - `book-03-14-marketplace/book-03-14-07-ranking.md`
+- MAL-V03-B03-14-008 - `book-03-14-marketplace/book-03-14-08-reputation.md`
+- MAL-V03-B03-14-009 - `book-03-14-marketplace/book-03-14-09-transactions.md`
+- MAL-V03-B03-14-010 - `book-03-14-marketplace/book-03-14-10-fulfillment.md`
+- MAL-V03-B03-14-011 - `book-03-14-marketplace/book-03-14-11-reviews.md`
+- MAL-V03-B03-14-012 - `book-03-14-marketplace/book-03-14-12-disputes.md`
+- MAL-V03-B03-14-013 - `book-03-14-marketplace/book-03-14-13-marketplace-governance.md`
+- MAL-V03-B03-14-014 - `book-03-14-marketplace/book-03-14-14-marketplace-quality.md`
+- MAL-V03-B03-14-015 - `book-03-14-marketplace/book-03-14-15-marketplace-analytics.md`
+- MAL-V03-B03-14-016 - `book-03-14-marketplace/book-03-14-16-marketplace-events.md`
+- MAL-V03-B03-14-017 - `book-03-14-marketplace/book-03-14-17-marketplace-storage.md`
+- MAL-V03-B03-14-018 - `book-03-14-marketplace/book-03-14-18-marketplace-security.md`
+- MAL-V03-B03-14-019 - `book-03-14-marketplace/book-03-14-19-marketplace-testing.md`
+- MAL-V03-B03-14-020 - `book-03-14-marketplace/book-03-14-20-marketplace-roadmap.md`
