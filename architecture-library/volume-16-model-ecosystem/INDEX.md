@@ -17,3 +17,9 @@
 - `v83-model-ecosystem-part-3/INDEX.md`
 - `v83-model-ecosystem-part-3/guide-16-83-01-safetensors.md`
 - `v83-model-ecosystem-part-3/guide-16-83-02-ktransformers.md`
+
+## v84 - Model Ecosystem Part 4
+- `v84-model-ecosystem-part-4/README.md`
+- `v84-model-ecosystem-part-4/INDEX.md`
+- `v84-model-ecosystem-part-4/guide-16-84-01-pytorch.md`
+- `v84-model-ecosystem-part-4/guide-16-84-02-provider-abstraction.md`

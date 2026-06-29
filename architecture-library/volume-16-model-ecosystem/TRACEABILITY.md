@@ -26,3 +26,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v83_draft.md |
 | Documents | v83-model-ecosystem-part-3/README.md, v83-model-ecosystem-part-3/INDEX.md, v83-model-ecosystem-part-3/guide-16-83-01-safetensors.md, v83-model-ecosystem-part-3/guide-16-83-02-ktransformers.md |
+
+## v84 - Model Ecosystem Part 4
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v84_draft.md |
+| Documents | v84-model-ecosystem-part-4/README.md, v84-model-ecosystem-part-4/INDEX.md, v84-model-ecosystem-part-4/guide-16-84-01-pytorch.md, v84-model-ecosystem-part-4/guide-16-84-02-provider-abstraction.md |
