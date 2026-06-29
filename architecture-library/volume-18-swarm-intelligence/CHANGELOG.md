@@ -14,3 +14,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v93 draft | Draft | Added Swarm Intelligence Part 3 documentation and release artifacts. |
+
+## v94 - Swarm Intelligence Part 4
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v94 draft | Draft | Added Swarm Intelligence Part 4 documentation and release artifacts. |

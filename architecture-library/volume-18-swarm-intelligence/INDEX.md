@@ -17,3 +17,9 @@
 - `v93-swarm-intelligence-part-3/INDEX.md`
 - `v93-swarm-intelligence-part-3/guide-18-93-01-consensus.md`
 - `v93-swarm-intelligence-part-3/guide-18-93-02-optimization.md`
+
+## v94 - Swarm Intelligence Part 4
+- `v94-swarm-intelligence-part-4/README.md`
+- `v94-swarm-intelligence-part-4/INDEX.md`
+- `v94-swarm-intelligence-part-4/guide-18-94-01-collaboration.md`
+- `v94-swarm-intelligence-part-4/guide-18-94-02-swarm-memory.md`
