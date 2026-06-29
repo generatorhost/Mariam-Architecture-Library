@@ -11,3 +11,9 @@
 - `v87-workflow-system-part-2/INDEX.md`
 - `v87-workflow-system-part-2/guide-17-87-01-workflow-runtime.md`
 - `v87-workflow-system-part-2/guide-17-87-02-human-review.md`
+
+## v88 - Workflow System Part 3
+- `v88-workflow-system-part-3/README.md`
+- `v88-workflow-system-part-3/INDEX.md`
+- `v88-workflow-system-part-3/guide-17-88-01-triggers.md`
+- `v88-workflow-system-part-3/guide-17-88-02-automation.md`

@@ -17,3 +17,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v87_draft.md |
 | Documents | v87-workflow-system-part-2/README.md, v87-workflow-system-part-2/INDEX.md, v87-workflow-system-part-2/guide-17-87-01-workflow-runtime.md, v87-workflow-system-part-2/guide-17-87-02-human-review.md |
+
+## v88 - Workflow System Part 3
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v88_draft.md |
+| Documents | v88-workflow-system-part-3/README.md, v88-workflow-system-part-3/INDEX.md, v88-workflow-system-part-3/guide-17-88-01-triggers.md, v88-workflow-system-part-3/guide-17-88-02-automation.md |
