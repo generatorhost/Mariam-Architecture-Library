@@ -11,3 +11,9 @@
 - `v107-infrastructure-part-2/INDEX.md`
 - `v107-infrastructure-part-2/guide-21-107-01-cache.md`
 - `v107-infrastructure-part-2/guide-21-107-02-metrics.md`
+
+## v108 - Infrastructure Part 3
+- `v108-infrastructure-part-3/README.md`
+- `v108-infrastructure-part-3/INDEX.md`
+- `v108-infrastructure-part-3/guide-21-108-01-monitoring.md`
+- `v108-infrastructure-part-3/guide-21-108-02-recovery.md`
