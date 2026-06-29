@@ -4,3 +4,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v116 draft | Draft | Added Marketplace Part 1 documentation and release artifacts. |
+
+## v117 - Marketplace Part 2
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v117 draft | Draft | Added Marketplace Part 2 documentation and release artifacts. |
