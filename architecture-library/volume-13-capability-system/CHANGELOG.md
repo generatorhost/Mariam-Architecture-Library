@@ -9,3 +9,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v67 draft | Draft | Added Capability System Part 2 documentation and release artifacts. |
+
+## v68 - Capability System Part 3
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v68 draft | Draft | Added Capability System Part 3 documentation and release artifacts. |
