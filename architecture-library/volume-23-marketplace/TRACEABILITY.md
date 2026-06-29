@@ -17,3 +17,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v117_draft.md |
 | Documents | v117-marketplace-part-2/README.md, v117-marketplace-part-2/INDEX.md, v117-marketplace-part-2/guide-23-117-01-plugins.md, v117-marketplace-part-2/guide-23-117-02-assets.md |
+
+## v118 - Marketplace Part 3
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v118_draft.md |
+| Documents | v118-marketplace-part-3/README.md, v118-marketplace-part-3/INDEX.md, v118-marketplace-part-3/guide-23-118-01-skills.md, v118-marketplace-part-3/guide-23-118-02-ranking.md |
