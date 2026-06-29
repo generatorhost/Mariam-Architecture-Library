@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v119_draft.md |
 | Documents | v119-marketplace-part-4/README.md, v119-marketplace-part-4/INDEX.md, v119-marketplace-part-4/guide-23-119-01-models.md, v119-marketplace-part-4/guide-23-119-02-publishing.md |
+
+## v120 - Marketplace Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v120_draft.md |
+| Documents | v120-marketplace-part-5/README.md, v120-marketplace-part-5/INDEX.md, v120-marketplace-part-5/guide-23-120-01-providers.md, v120-marketplace-part-5/guide-23-120-02-marketplace-governance.md |
