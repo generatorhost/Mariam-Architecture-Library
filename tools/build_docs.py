@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v96 draft"
-RELEASE_SLUG = "v96_draft"
+RELEASE_VERSION = "v97 draft"
+RELEASE_SLUG = "v97_draft"
 
 VOLUMES = [
     {
@@ -601,8 +601,14 @@ VOLUMES = [
     {
         "id": "volume-19-opportunity-intelligence/v96-opportunity-intelligence-part-1",
         "title": "Volume 19 Opportunity Intelligence - Opportunity Intelligence Part 1",
-        "version": RELEASE_VERSION,
+        "version": "v96 draft",
         "pdf": "Volume_19_Opportunity_Intelligence_Part_1_v96_draft.pdf",
+    },
+    {
+        "id": "volume-19-opportunity-intelligence/v97-opportunity-intelligence-part-2",
+        "title": "Volume 19 Opportunity Intelligence - Opportunity Intelligence Part 2",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_19_Opportunity_Intelligence_Part_2_v97_draft.pdf",
     },
 ]
 

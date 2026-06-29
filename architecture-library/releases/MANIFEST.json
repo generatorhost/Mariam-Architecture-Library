@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v96 draft",
+  "version": "v97 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:55:04.613757+00:00",
+  "generated_at": "2026-06-29T18:55:15.831890+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v96_draft.zip",
-      "bytes": 4748883,
-      "sha256": "b7e641845e347f40020c1d0c4b0db6f53f29933df80fb0f1465a6b0f162a4cce"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v97_draft.zip",
+      "bytes": 4762847,
+      "sha256": "7e45a2228d92ca1971b243805ff827d4878f4e0b61c8982330817e17283bf7bb"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -493,6 +493,11 @@
       "path": "architecture-library/releases/pdf/Volume_19_Opportunity_Intelligence_Part_1_v96_draft.pdf",
       "bytes": 11652,
       "sha256": "1ed1ccb9863ad6634ae15a979eaf1bc5ef8d5aae2f450d0efcc5085ea05b62ff"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_19_Opportunity_Intelligence_Part_2_v97_draft.pdf",
+      "bytes": 11769,
+      "sha256": "7a325164a461535da3c513ef2f3d894e389969e1691e09c920ee74c5b99365cd"
     }
   ]
 }
