@@ -78,3 +78,10 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - The v26 build produces `Volume_06_DNA_Operating_System_Specifications_v26_draft.pdf`.
 - The v26 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v26_draft.md`.
 - DNA package lifecycle behavior remains bounded by validation, compatibility, security, provenance, and governance controls.
+
+## Runtime Ecosystem Specification Acceptance Checklist
+- `runtime-ecosystem/` contains 15 executable specification files.
+- Each Runtime specification includes functional, non-functional, interface, event, storage, security, observability, failure, recovery, test, acceptance, implementation, and traceability sections.
+- The v27 build produces `Volume_06_Runtime_Ecosystem_Specifications_v27_draft.pdf`.
+- The v27 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v27_draft.md`.
+- Runtime behavior remains bounded by permissions, sandboxing, observability, recovery, and governance controls.

@@ -101,3 +101,20 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - MAL-V06-DNA-SPEC-013 - `dna-operating-system/spec-06-dna-13-dna-compatibility-specification.md`
 - MAL-V06-DNA-SPEC-014 - `dna-operating-system/spec-06-dna-14-dna-federation-specification.md`
 - MAL-V06-DNA-SPEC-015 - `dna-operating-system/spec-06-dna-15-export-evolved-dna-specification.md`
+
+## Runtime Ecosystem Specifications
+- MAL-V06-RUNTIME-SPEC-001 - `runtime-ecosystem/spec-06-runtime-01-runtime-ecosystem-specification.md`
+- MAL-V06-RUNTIME-SPEC-002 - `runtime-ecosystem/spec-06-runtime-02-model-runtime-specification.md`
+- MAL-V06-RUNTIME-SPEC-003 - `runtime-ecosystem/spec-06-runtime-03-tool-runtime-specification.md`
+- MAL-V06-RUNTIME-SPEC-004 - `runtime-ecosystem/spec-06-runtime-04-plugin-runtime-specification.md`
+- MAL-V06-RUNTIME-SPEC-005 - `runtime-ecosystem/spec-06-runtime-05-connector-runtime-specification.md`
+- MAL-V06-RUNTIME-SPEC-006 - `runtime-ecosystem/spec-06-runtime-06-provider-runtime-specification.md`
+- MAL-V06-RUNTIME-SPEC-007 - `runtime-ecosystem/spec-06-runtime-07-service-runtime-specification.md`
+- MAL-V06-RUNTIME-SPEC-008 - `runtime-ecosystem/spec-06-runtime-08-workflow-runtime-specification.md`
+- MAL-V06-RUNTIME-SPEC-009 - `runtime-ecosystem/spec-06-runtime-09-memory-runtime-specification.md`
+- MAL-V06-RUNTIME-SPEC-010 - `runtime-ecosystem/spec-06-runtime-10-mission-runtime-specification.md`
+- MAL-V06-RUNTIME-SPEC-011 - `runtime-ecosystem/spec-06-runtime-11-runtime-lifecycle-specification.md`
+- MAL-V06-RUNTIME-SPEC-012 - `runtime-ecosystem/spec-06-runtime-12-runtime-permissions-specification.md`
+- MAL-V06-RUNTIME-SPEC-013 - `runtime-ecosystem/spec-06-runtime-13-runtime-observability-specification.md`
+- MAL-V06-RUNTIME-SPEC-014 - `runtime-ecosystem/spec-06-runtime-14-runtime-failure-recovery-specification.md`
+- MAL-V06-RUNTIME-SPEC-015 - `runtime-ecosystem/spec-06-runtime-15-runtime-testing-specification.md`

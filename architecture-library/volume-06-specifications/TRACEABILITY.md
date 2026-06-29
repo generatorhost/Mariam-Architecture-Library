@@ -80,3 +80,11 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Package graph and dependency resolver | MAL-V03-B03-06-004, MAL-V03-B03-06-005 |
 | Runtime store and mount lifecycle | MAL-V03-B03-06-003, MAL-V03-B03-06-006 |
 | Validation, versioning, compatibility, federation | MAL-V03-B03-06-009, MAL-V03-B03-06-012, MAL-V03-B03-06-013 |
+
+## Runtime Ecosystem Specification Trace Map
+| Specification Area | Primary Sources |
+| --- | --- |
+| Runtime ecosystem and lifecycle | MAL-V03-B03-07-001, MAL-V03-B03-07-002 |
+| Model, provider, plugin, connector runtimes | MAL-V03-B03-10-001, MAL-V03-B03-11-001, MAL-V03-B03-12-001, MAL-V03-B03-13-001 |
+| Service, workflow, memory, mission runtimes | MAL-V03-B03-07-009, MAL-V03-B03-08-002, MAL-V03-B03-04-005 |
+| Permissions, observability, recovery, testing | MAL-V03-B03-07-012, MAL-V03-B03-07-013, MAL-V03-B03-07-014, MAL-V03-B03-07-019 |
