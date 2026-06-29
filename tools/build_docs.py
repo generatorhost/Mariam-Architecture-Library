@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v84 draft"
-RELEASE_SLUG = "v84_draft"
+RELEASE_VERSION = "v85 draft"
+RELEASE_SLUG = "v85_draft"
 
 VOLUMES = [
     {
@@ -529,8 +529,14 @@ VOLUMES = [
     {
         "id": "volume-16-model-ecosystem/v84-model-ecosystem-part-4",
         "title": "Volume 16 Model Ecosystem - Model Ecosystem Part 4",
-        "version": RELEASE_VERSION,
+        "version": "v84 draft",
         "pdf": "Volume_16_Model_Ecosystem_Part_4_v84_draft.pdf",
+    },
+    {
+        "id": "volume-16-model-ecosystem/v85-model-ecosystem-part-5",
+        "title": "Volume 16 Model Ecosystem - Model Ecosystem Part 5",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_16_Model_Ecosystem_Part_5_v85_draft.pdf",
     },
 ]
 

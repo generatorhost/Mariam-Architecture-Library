@@ -23,3 +23,9 @@
 - `v84-model-ecosystem-part-4/INDEX.md`
 - `v84-model-ecosystem-part-4/guide-16-84-01-pytorch.md`
 - `v84-model-ecosystem-part-4/guide-16-84-02-provider-abstraction.md`
+
+## v85 - Model Ecosystem Part 5
+- `v85-model-ecosystem-part-5/README.md`
+- `v85-model-ecosystem-part-5/INDEX.md`
+- `v85-model-ecosystem-part-5/guide-16-85-01-transformers.md`
+- `v85-model-ecosystem-part-5/guide-16-85-02-model-governance.md`

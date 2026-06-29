@@ -19,3 +19,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v84 draft | Draft | Added Model Ecosystem Part 4 documentation and release artifacts. |
+
+## v85 - Model Ecosystem Part 5
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v85 draft | Draft | Added Model Ecosystem Part 5 documentation and release artifacts. |
