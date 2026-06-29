@@ -23,3 +23,9 @@
 - `v114-experience-layer-part-4/INDEX.md`
 - `v114-experience-layer-part-4/guide-22-114-01-marketplace.md`
 - `v114-experience-layer-part-4/guide-22-114-02-user-journeys.md`
+
+## v115 - Experience Layer Part 5
+- `v115-experience-layer-part-5/README.md`
+- `v115-experience-layer-part-5/INDEX.md`
+- `v115-experience-layer-part-5/guide-22-115-01-analytics.md`
+- `v115-experience-layer-part-5/guide-22-115-02-experience-governance.md`
