@@ -151,3 +151,12 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v34_draft.md |
 | Documents | v34-integration-notification-automation-analytics-specifications/README.md, v34-integration-notification-automation-analytics-specifications/INDEX.md, v34-integration-notification-automation-analytics-specifications/spec-06-34-01-integration.md, v34-integration-notification-automation-analytics-specifications/spec-06-34-02-notification.md, v34-integration-notification-automation-analytics-specifications/spec-06-34-03-automation.md, v34-integration-notification-automation-analytics-specifications/spec-06-34-04-analytics.md |
+
+## v35 - Volume 06 Completion Specifications
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v35_draft.md |
+| Documents | v35-volume-06-completion-specifications/README.md, v35-volume-06-completion-specifications/INDEX.md, v35-volume-06-completion-specifications/spec-06-35-01-specification-governance.md, v35-volume-06-completion-specifications/spec-06-35-02-specification-traceability.md, v35-volume-06-completion-specifications/spec-06-35-03-specification-acceptance.md, v35-volume-06-completion-specifications/spec-06-35-04-specification-release-control.md |

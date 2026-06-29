@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v34 draft"
-RELEASE_SLUG = "v34_draft"
+RELEASE_VERSION = "v35 draft"
+RELEASE_SLUG = "v35_draft"
 
 VOLUMES = [
     {
@@ -229,8 +229,14 @@ VOLUMES = [
     {
         "id": "volume-06-specifications/v34-integration-notification-automation-analytics-specifications",
         "title": "Volume 06 Specifications - Integration Notification Automation Analytics Specifications",
-        "version": RELEASE_VERSION,
+        "version": "v34 draft",
         "pdf": "Volume_06_Integration_Notification_Automation_Analytics_Specifications_v34_draft.pdf",
+    },
+    {
+        "id": "volume-06-specifications/v35-volume-06-completion-specifications",
+        "title": "Volume 06 Specifications - Volume 06 Completion Specifications",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_06_Volume_06_Completion_Specifications_v35_draft.pdf",
     },
 ]
 

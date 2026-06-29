@@ -182,3 +182,11 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - `v34-integration-notification-automation-analytics-specifications/spec-06-34-02-notification.md`
 - `v34-integration-notification-automation-analytics-specifications/spec-06-34-03-automation.md`
 - `v34-integration-notification-automation-analytics-specifications/spec-06-34-04-analytics.md`
+
+## v35 - Volume 06 Completion Specifications
+- `v35-volume-06-completion-specifications/README.md`
+- `v35-volume-06-completion-specifications/INDEX.md`
+- `v35-volume-06-completion-specifications/spec-06-35-01-specification-governance.md`
+- `v35-volume-06-completion-specifications/spec-06-35-02-specification-traceability.md`
+- `v35-volume-06-completion-specifications/spec-06-35-03-specification-acceptance.md`
+- `v35-volume-06-completion-specifications/spec-06-35-04-specification-release-control.md`
