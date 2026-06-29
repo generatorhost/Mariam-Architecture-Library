@@ -23,3 +23,9 @@
 - `v99-opportunity-intelligence-part-4/INDEX.md`
 - `v99-opportunity-intelligence-part-4/guide-19-99-01-marketplace-intelligence.md`
 - `v99-opportunity-intelligence-part-4/guide-19-99-02-proposal-signals.md`
+
+## v100 - Opportunity Intelligence Part 5
+- `v100-opportunity-intelligence-part-5/README.md`
+- `v100-opportunity-intelligence-part-5/INDEX.md`
+- `v100-opportunity-intelligence-part-5/guide-19-100-01-ranking.md`
+- `v100-opportunity-intelligence-part-5/guide-19-100-02-pipeline-intelligence.md`

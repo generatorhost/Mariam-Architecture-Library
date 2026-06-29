@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v99_draft.md |
 | Documents | v99-opportunity-intelligence-part-4/README.md, v99-opportunity-intelligence-part-4/INDEX.md, v99-opportunity-intelligence-part-4/guide-19-99-01-marketplace-intelligence.md, v99-opportunity-intelligence-part-4/guide-19-99-02-proposal-signals.md |
+
+## v100 - Opportunity Intelligence Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v100_draft.md |
+| Documents | v100-opportunity-intelligence-part-5/README.md, v100-opportunity-intelligence-part-5/INDEX.md, v100-opportunity-intelligence-part-5/guide-19-100-01-ranking.md, v100-opportunity-intelligence-part-5/guide-19-100-02-pipeline-intelligence.md |
