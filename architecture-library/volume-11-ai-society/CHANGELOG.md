@@ -19,3 +19,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v59 draft | Draft | Added AI Society Part 4 documentation and release artifacts. |
+
+## v60 - AI Society Part 5
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v60 draft | Draft | Added AI Society Part 5 documentation and release artifacts. |

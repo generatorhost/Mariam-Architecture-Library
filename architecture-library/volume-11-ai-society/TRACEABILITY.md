@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v59_draft.md |
 | Documents | v59-ai-society-part-4/README.md, v59-ai-society-part-4/INDEX.md, v59-ai-society-part-4/guide-11-59-01-teams.md, v59-ai-society-part-4/guide-11-59-02-reasoning.md, v59-ai-society-part-4/guide-11-59-03-evolution.md |
+
+## v60 - AI Society Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v60_draft.md |
+| Documents | v60-ai-society-part-5/README.md, v60-ai-society-part-5/INDEX.md, v60-ai-society-part-5/guide-11-60-01-agents.md, v60-ai-society-part-5/guide-11-60-02-planning.md |
