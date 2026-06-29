@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v69_draft.md |
 | Documents | v69-capability-system-part-4/README.md, v69-capability-system-part-4/INDEX.md, v69-capability-system-part-4/guide-13-69-01-matching.md, v69-capability-system-part-4/guide-13-69-02-benchmarks.md |
+
+## v70 - Capability System Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v70_draft.md |
+| Documents | v70-capability-system-part-5/README.md, v70-capability-system-part-5/INDEX.md, v70-capability-system-part-5/guide-13-70-01-ranking.md, v70-capability-system-part-5/guide-13-70-02-governance.md |

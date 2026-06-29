@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v69 draft",
+  "version": "v70 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:50:16.837571+00:00",
+  "generated_at": "2026-06-29T18:50:27.263971+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v69_draft.zip",
-      "bytes": 4368827,
-      "sha256": "796dcd5e5742ae62d84d9ef7561a0116d6135a217201de0b0f8b562e5bcf28b9"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v70_draft.zip",
+      "bytes": 4382349,
+      "sha256": "014b69debd20150a8cf95b48ea004d0298aa86b05a3d11c7a2a076654db11877"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -358,6 +358,11 @@
       "path": "architecture-library/releases/pdf/Volume_13_Capability_System_Part_4_v69_draft.pdf",
       "bytes": 11628,
       "sha256": "d48e637a94e1b99bd0f6f4018e2539026f2f984f27be6e506b893e4bcba3b168"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_13_Capability_System_Part_5_v70_draft.pdf",
+      "bytes": 11601,
+      "sha256": "49710c58e99ed940920e661be738797c399c86f333bb2ec609fb0487d8068594"
     }
   ]
 }
