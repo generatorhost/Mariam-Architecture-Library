@@ -26,3 +26,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v113_draft.md |
 | Documents | v113-experience-layer-part-3/README.md, v113-experience-layer-part-3/INDEX.md, v113-experience-layer-part-3/guide-22-113-01-knowledge-center.md, v113-experience-layer-part-3/guide-22-113-02-notifications.md |
+
+## v114 - Experience Layer Part 4
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v114_draft.md |
+| Documents | v114-experience-layer-part-4/README.md, v114-experience-layer-part-4/INDEX.md, v114-experience-layer-part-4/guide-22-114-01-marketplace.md, v114-experience-layer-part-4/guide-22-114-02-user-journeys.md |

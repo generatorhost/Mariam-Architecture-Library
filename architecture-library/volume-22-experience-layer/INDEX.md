@@ -17,3 +17,9 @@
 - `v113-experience-layer-part-3/INDEX.md`
 - `v113-experience-layer-part-3/guide-22-113-01-knowledge-center.md`
 - `v113-experience-layer-part-3/guide-22-113-02-notifications.md`
+
+## v114 - Experience Layer Part 4
+- `v114-experience-layer-part-4/README.md`
+- `v114-experience-layer-part-4/INDEX.md`
+- `v114-experience-layer-part-4/guide-22-114-01-marketplace.md`
+- `v114-experience-layer-part-4/guide-22-114-02-user-journeys.md`
