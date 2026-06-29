@@ -138,3 +138,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-03-018 - `book-03-03-ai-society/book-03-03-18-agent-governance.md`
 - MAL-V03-B03-03-019 - `book-03-03-ai-society/book-03-03-19-ai-society-testing.md`
 - MAL-V03-B03-03-020 - `book-03-03-ai-society/book-03-03-20-ai-society-roadmap.md`
+
+## Book 03.04 Knowledge System
+- MAL-V03-B03-04-README - `book-03-04-knowledge-system/README.md`
+- MAL-V03-B03-04-001 - `book-03-04-knowledge-system/book-03-04-01-knowledge-system-overview.md`
+- MAL-V03-B03-04-002 - `book-03-04-knowledge-system/book-03-04-02-knowledge-graph.md`
+- MAL-V03-B03-04-003 - `book-03-04-knowledge-system/book-03-04-03-knowledge-store.md`
+- MAL-V03-B03-04-004 - `book-03-04-knowledge-system/book-03-04-04-document-intelligence.md`
+- MAL-V03-B03-04-005 - `book-03-04-knowledge-system/book-03-04-05-memory-system.md`
+- MAL-V03-B03-04-006 - `book-03-04-knowledge-system/book-03-04-06-vector-store.md`
+- MAL-V03-B03-04-007 - `book-03-04-knowledge-system/book-03-04-07-embedding-system.md`
+- MAL-V03-B03-04-008 - `book-03-04-knowledge-system/book-03-04-08-semantic-search.md`
+- MAL-V03-B03-04-009 - `book-03-04-knowledge-system/book-03-04-09-knowledge-indexing.md`
+- MAL-V03-B03-04-010 - `book-03-04-knowledge-system/book-03-04-10-knowledge-versioning.md`
+- MAL-V03-B03-04-011 - `book-03-04-knowledge-system/book-03-04-11-knowledge-ingestion.md`
+- MAL-V03-B03-04-012 - `book-03-04-knowledge-system/book-03-04-12-knowledge-extraction.md`
+- MAL-V03-B03-04-013 - `book-03-04-knowledge-system/book-03-04-13-knowledge-normalization.md`
+- MAL-V03-B03-04-014 - `book-03-04-knowledge-system/book-03-04-14-knowledge-linking.md`
+- MAL-V03-B03-04-015 - `book-03-04-knowledge-system/book-03-04-15-knowledge-quality.md`
+- MAL-V03-B03-04-016 - `book-03-04-knowledge-system/book-03-04-16-knowledge-security.md`
+- MAL-V03-B03-04-017 - `book-03-04-knowledge-system/book-03-04-17-knowledge-events.md`
+- MAL-V03-B03-04-018 - `book-03-04-knowledge-system/book-03-04-18-knowledge-testing.md`
+- MAL-V03-B03-04-019 - `book-03-04-knowledge-system/book-03-04-19-knowledge-acceptance.md`
+- MAL-V03-B03-04-020 - `book-03-04-knowledge-system/book-03-04-20-knowledge-roadmap.md`

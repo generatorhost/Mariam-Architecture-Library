@@ -90,3 +90,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v5 build produces `Volume_03_Book_03_03_AI_Society_v5_draft.pdf`.
 - The v5 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v5_draft.md`.
 - AI Society authority remains bounded by Enterprise Core, Enterprise Organization, governance, security, and human review controls.
+
+## Book 03.04 Knowledge System Acceptance Checklist
+- Book 03.04 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.04 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, tests, acceptance, and traceability.
+- The v6 build produces `Volume_03_Book_03_04_Knowledge_System_v6_draft.pdf`.
+- The v6 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v6_draft.md`.
+- Knowledge System authority preserves provenance, review state, security classification, and retrieval grounding controls.

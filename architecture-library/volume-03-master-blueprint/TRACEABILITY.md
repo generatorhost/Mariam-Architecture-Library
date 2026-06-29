@@ -96,3 +96,12 @@ Covers trace links from Book 03.01 Enterprise Core to Volumes 00, 01, and 02.
 | Skills, capabilities, memory, DNA | MAL-V00-B007, MAL-V02-B007, MAL-V02-B008 |
 | Planning, execution, review, validation | MAL-V00-B010, MAL-V02-B011, MAL-V03-B03-01-004 |
 | Governance, testing, roadmap | MAL-V00-B009, MAL-V00-B011, MAL-V03-B03-01-018 |
+
+## Book 03.04 Trace Map
+| Blueprint Area | Primary Sources |
+| --- | --- |
+| Knowledge System blueprint | MAL-V00-B007, MAL-V01-B008, MAL-V02-B006 |
+| Graph, store, memory, document intelligence | MAL-V00-B010, MAL-V02-B006, MAL-V03-B03-01-015 |
+| Vector store, embeddings, semantic search, indexing | MAL-V01-B008, MAL-V02-B006, MAL-V02-B010 |
+| Ingestion, extraction, normalization, linking | MAL-V00-B012, MAL-V02-B006, MAL-V03-B03-01-006 |
+| Quality, security, testing, roadmap | MAL-V00-B010, MAL-V00-B011, MAL-V03-B03-03-015 |
