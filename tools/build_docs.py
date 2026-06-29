@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v75 draft"
-RELEASE_SLUG = "v75_draft"
+RELEASE_VERSION = "v76 draft"
+RELEASE_SLUG = "v76_draft"
 
 VOLUMES = [
     {
@@ -475,8 +475,14 @@ VOLUMES = [
     {
         "id": "volume-14-dna-operating-system/v75-dna-operating-system-part-5",
         "title": "Volume 14 DNA Operating System - DNA Operating System Part 5",
-        "version": RELEASE_VERSION,
+        "version": "v75 draft",
         "pdf": "Volume_14_Dna_Operating_System_Part_5_v75_draft.pdf",
+    },
+    {
+        "id": "volume-15-runtime-ecosystem/v76-runtime-ecosystem-part-1",
+        "title": "Volume 15 Runtime Ecosystem - Runtime Ecosystem Part 1",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_15_Runtime_Ecosystem_Part_1_v76_draft.pdf",
     },
 ]
 
