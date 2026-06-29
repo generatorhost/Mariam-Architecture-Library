@@ -9,3 +9,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v62 draft | Draft | Added Knowledge System Part 2 documentation and release artifacts. |
+
+## v63 - Knowledge System Part 3
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v63 draft | Draft | Added Knowledge System Part 3 documentation and release artifacts. |
