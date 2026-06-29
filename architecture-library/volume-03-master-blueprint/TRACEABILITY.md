@@ -105,3 +105,12 @@ Covers trace links from Book 03.01 Enterprise Core to Volumes 00, 01, and 02.
 | Vector store, embeddings, semantic search, indexing | MAL-V01-B008, MAL-V02-B006, MAL-V02-B010 |
 | Ingestion, extraction, normalization, linking | MAL-V00-B012, MAL-V02-B006, MAL-V03-B03-01-006 |
 | Quality, security, testing, roadmap | MAL-V00-B010, MAL-V00-B011, MAL-V03-B03-03-015 |
+
+## Book 03.05 Trace Map
+| Blueprint Area | Primary Sources |
+| --- | --- |
+| Capability System blueprint | MAL-V00-B010, MAL-V01-B004, MAL-V02-B007 |
+| Graph, registry, discovery, matching, ranking | MAL-V02-B007, MAL-V03-B03-03-008, MAL-V03-B03-04-008 |
+| Requirements, dependencies, lifecycle, DNA | MAL-V00-B007, MAL-V02-B008, MAL-V03-B03-04-014 |
+| Benchmarks, quality, governance, security | MAL-V00-B009, MAL-V00-B011, MAL-V03-B03-01-016 |
+| Events, storage, metrics, testing, roadmap | MAL-V03-B03-01-014, MAL-V03-B03-01-015, MAL-V03-B03-01-018 |

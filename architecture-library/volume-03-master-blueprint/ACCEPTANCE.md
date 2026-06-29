@@ -97,3 +97,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v6 build produces `Volume_03_Book_03_04_Knowledge_System_v6_draft.pdf`.
 - The v6 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v6_draft.md`.
 - Knowledge System authority preserves provenance, review state, security classification, and retrieval grounding controls.
+
+## Book 03.05 Capability System Acceptance Checklist
+- Book 03.05 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.05 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, tests, acceptance, and traceability.
+- The v7 build produces `Volume_03_Book_03_05_Capability_System_v7_draft.pdf`.
+- The v7 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v7_draft.md`.
+- Capability System authority preserves explicit contracts, lifecycle, matching, ranking, governance, security, benchmark, and acceptance controls.

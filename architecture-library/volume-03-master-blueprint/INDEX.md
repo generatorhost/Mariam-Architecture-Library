@@ -161,3 +161,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-04-018 - `book-03-04-knowledge-system/book-03-04-18-knowledge-testing.md`
 - MAL-V03-B03-04-019 - `book-03-04-knowledge-system/book-03-04-19-knowledge-acceptance.md`
 - MAL-V03-B03-04-020 - `book-03-04-knowledge-system/book-03-04-20-knowledge-roadmap.md`
+
+## Book 03.05 Capability System
+- MAL-V03-B03-05-README - `book-03-05-capability-system/README.md`
+- MAL-V03-B03-05-001 - `book-03-05-capability-system/book-03-05-01-capability-system-overview.md`
+- MAL-V03-B03-05-002 - `book-03-05-capability-system/book-03-05-02-capability-graph.md`
+- MAL-V03-B03-05-003 - `book-03-05-capability-system/book-03-05-03-capability-registry.md`
+- MAL-V03-B03-05-004 - `book-03-05-capability-system/book-03-05-04-capability-discovery.md`
+- MAL-V03-B03-05-005 - `book-03-05-capability-system/book-03-05-05-capability-matching.md`
+- MAL-V03-B03-05-006 - `book-03-05-capability-system/book-03-05-06-capability-ranking.md`
+- MAL-V03-B03-05-007 - `book-03-05-capability-system/book-03-05-07-capability-requirements.md`
+- MAL-V03-B03-05-008 - `book-03-05-capability-system/book-03-05-08-capability-dependencies.md`
+- MAL-V03-B03-05-009 - `book-03-05-capability-system/book-03-05-09-capability-lifecycle.md`
+- MAL-V03-B03-05-010 - `book-03-05-capability-system/book-03-05-10-capability-dna.md`
+- MAL-V03-B03-05-011 - `book-03-05-capability-system/book-03-05-11-capability-benchmarks.md`
+- MAL-V03-B03-05-012 - `book-03-05-capability-system/book-03-05-12-capability-quality.md`
+- MAL-V03-B03-05-013 - `book-03-05-capability-system/book-03-05-13-capability-governance.md`
+- MAL-V03-B03-05-014 - `book-03-05-capability-system/book-03-05-14-capability-security.md`
+- MAL-V03-B03-05-015 - `book-03-05-capability-system/book-03-05-15-capability-events.md`
+- MAL-V03-B03-05-016 - `book-03-05-capability-system/book-03-05-16-capability-storage.md`
+- MAL-V03-B03-05-017 - `book-03-05-capability-system/book-03-05-17-capability-metrics.md`
+- MAL-V03-B03-05-018 - `book-03-05-capability-system/book-03-05-18-capability-testing.md`
+- MAL-V03-B03-05-019 - `book-03-05-capability-system/book-03-05-19-capability-acceptance.md`
+- MAL-V03-B03-05-020 - `book-03-05-capability-system/book-03-05-20-capability-roadmap.md`

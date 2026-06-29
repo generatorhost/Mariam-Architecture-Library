@@ -89,3 +89,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v6 draft | Draft | Added Book 03.04 Knowledge System with 20 subsystem blueprint documents and v6 release artifacts. |
+
+## v7 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v7 draft | Draft | Added Book 03.05 Capability System with 20 subsystem blueprint documents and v7 release artifacts. |
