@@ -322,3 +322,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-11-018 - `book-03-11-provider-ecosystem/book-03-11-18-provider-security.md`
 - MAL-V03-B03-11-019 - `book-03-11-provider-ecosystem/book-03-11-19-provider-testing.md`
 - MAL-V03-B03-11-020 - `book-03-11-provider-ecosystem/book-03-11-20-provider-roadmap.md`
+
+## Book 03.12 Plugin Runtime
+- MAL-V03-B03-12-README - `book-03-12-plugin-runtime/README.md`
+- MAL-V03-B03-12-001 - `book-03-12-plugin-runtime/book-03-12-01-plugin-runtime-overview.md`
+- MAL-V03-B03-12-002 - `book-03-12-plugin-runtime/book-03-12-02-plugin-manifest.md`
+- MAL-V03-B03-12-003 - `book-03-12-plugin-runtime/book-03-12-03-plugin-loader.md`
+- MAL-V03-B03-12-004 - `book-03-12-plugin-runtime/book-03-12-04-plugin-sandbox.md`
+- MAL-V03-B03-12-005 - `book-03-12-plugin-runtime/book-03-12-05-plugin-permissions.md`
+- MAL-V03-B03-12-006 - `book-03-12-plugin-runtime/book-03-12-06-plugin-api.md`
+- MAL-V03-B03-12-007 - `book-03-12-plugin-runtime/book-03-12-07-plugin-lifecycle.md`
+- MAL-V03-B03-12-008 - `book-03-12-plugin-runtime/book-03-12-08-plugin-dependencies.md`
+- MAL-V03-B03-12-009 - `book-03-12-plugin-runtime/book-03-12-09-plugin-configuration.md`
+- MAL-V03-B03-12-010 - `book-03-12-plugin-runtime/book-03-12-10-plugin-marketplace.md`
+- MAL-V03-B03-12-011 - `book-03-12-plugin-runtime/book-03-12-11-plugin-observability.md`
+- MAL-V03-B03-12-012 - `book-03-12-plugin-runtime/book-03-12-12-plugin-versioning.md`
+- MAL-V03-B03-12-013 - `book-03-12-plugin-runtime/book-03-12-13-plugin-governance.md`
+- MAL-V03-B03-12-014 - `book-03-12-plugin-runtime/book-03-12-14-plugin-quality.md`
+- MAL-V03-B03-12-015 - `book-03-12-plugin-runtime/book-03-12-15-plugin-compatibility.md`
+- MAL-V03-B03-12-016 - `book-03-12-plugin-runtime/book-03-12-16-plugin-events.md`
+- MAL-V03-B03-12-017 - `book-03-12-plugin-runtime/book-03-12-17-plugin-storage.md`
+- MAL-V03-B03-12-018 - `book-03-12-plugin-runtime/book-03-12-18-plugin-security.md`
+- MAL-V03-B03-12-019 - `book-03-12-plugin-runtime/book-03-12-19-plugin-testing.md`
+- MAL-V03-B03-12-020 - `book-03-12-plugin-runtime/book-03-12-20-plugin-roadmap.md`

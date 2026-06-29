@@ -124,3 +124,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v13 draft | Draft | Added Book 03.11 Provider Ecosystem with 20 subsystem blueprint documents and v13 release artifacts. |
+
+## v14 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v14 draft | Draft | Added Book 03.12 Plugin Runtime with 20 subsystem blueprint documents and v14 release artifacts. |
