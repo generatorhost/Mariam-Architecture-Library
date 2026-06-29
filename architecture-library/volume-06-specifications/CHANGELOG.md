@@ -71,3 +71,8 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v25 draft | 2026-06-29 | Draft | Initial Volume 06 administrative document. |
+
+## v26 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v26 draft | Draft | Added 15 DNA Operating System specifications and v26 release artifacts. |

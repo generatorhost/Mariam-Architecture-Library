@@ -71,3 +71,10 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v25 draft | 2026-06-29 | Draft | Initial Volume 06 administrative document. |
+
+## DNA Operating System Specification Acceptance Checklist
+- `dna-operating-system/` contains 15 executable specification files.
+- Each DNA specification includes functional, non-functional, interface, event, storage, security, observability, failure, recovery, test, acceptance, implementation, and traceability sections.
+- The v26 build produces `Volume_06_DNA_Operating_System_Specifications_v26_draft.pdf`.
+- The v26 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v26_draft.md`.
+- DNA package lifecycle behavior remains bounded by validation, compatibility, security, provenance, and governance controls.

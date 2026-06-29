@@ -71,3 +71,12 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v25 draft | 2026-06-29 | Draft | Initial Volume 06 administrative document. |
+
+## DNA Operating System Specification Trace Map
+| Specification Area | Primary Sources |
+| --- | --- |
+| DNA kernel and package engine | MAL-V03-B03-06-001, MAL-V03-B03-06-002 |
+| Import, export, archive adapters | MAL-V03-B03-06-010, MAL-V05-STD-011 |
+| Package graph and dependency resolver | MAL-V03-B03-06-004, MAL-V03-B03-06-005 |
+| Runtime store and mount lifecycle | MAL-V03-B03-06-003, MAL-V03-B03-06-006 |
+| Validation, versioning, compatibility, federation | MAL-V03-B03-06-009, MAL-V03-B03-06-012, MAL-V03-B03-06-013 |

@@ -84,3 +84,20 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - MAL-V06-CORE-SPEC-008 - `core/spec-06-core-08-identity-access-specification.md`
 - MAL-V06-CORE-SPEC-009 - `core/spec-06-core-09-state-manager-specification.md`
 - MAL-V06-CORE-SPEC-010 - `core/spec-06-core-10-health-manager-specification.md`
+
+## DNA Operating System Specifications
+- MAL-V06-DNA-SPEC-001 - `dna-operating-system/spec-06-dna-01-dna-kernel-specification.md`
+- MAL-V06-DNA-SPEC-002 - `dna-operating-system/spec-06-dna-02-dna-package-engine-specification.md`
+- MAL-V06-DNA-SPEC-003 - `dna-operating-system/spec-06-dna-03-mdp-import-export-specification.md`
+- MAL-V06-DNA-SPEC-004 - `dna-operating-system/spec-06-dna-04-zip-git-archive-adapters-specification.md`
+- MAL-V06-DNA-SPEC-005 - `dna-operating-system/spec-06-dna-05-package-runtime-object-specification.md`
+- MAL-V06-DNA-SPEC-006 - `dna-operating-system/spec-06-dna-06-package-graph-specification.md`
+- MAL-V06-DNA-SPEC-007 - `dna-operating-system/spec-06-dna-07-dependency-resolver-specification.md`
+- MAL-V06-DNA-SPEC-008 - `dna-operating-system/spec-06-dna-08-runtime-store-specification.md`
+- MAL-V06-DNA-SPEC-009 - `dna-operating-system/spec-06-dna-09-mount-unmount-hot-reload-specification.md`
+- MAL-V06-DNA-SPEC-010 - `dna-operating-system/spec-06-dna-10-universal-dna-extractor-specification.md`
+- MAL-V06-DNA-SPEC-011 - `dna-operating-system/spec-06-dna-11-dna-validation-specification.md`
+- MAL-V06-DNA-SPEC-012 - `dna-operating-system/spec-06-dna-12-dna-versioning-specification.md`
+- MAL-V06-DNA-SPEC-013 - `dna-operating-system/spec-06-dna-13-dna-compatibility-specification.md`
+- MAL-V06-DNA-SPEC-014 - `dna-operating-system/spec-06-dna-14-dna-federation-specification.md`
+- MAL-V06-DNA-SPEC-015 - `dna-operating-system/spec-06-dna-15-export-evolved-dna-specification.md`
