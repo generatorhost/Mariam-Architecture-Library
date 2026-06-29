@@ -85,3 +85,10 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - The v27 build produces `Volume_06_Runtime_Ecosystem_Specifications_v27_draft.pdf`.
 - The v27 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v27_draft.md`.
 - Runtime behavior remains bounded by permissions, sandboxing, observability, recovery, and governance controls.
+
+## Execution OS Specification Acceptance Checklist
+- `execution-os/` contains 15 executable specification files.
+- Each Execution OS specification includes functional, non-functional, interface, event, storage, security, observability, failure, recovery, test, acceptance, implementation, and traceability sections.
+- The v28 build produces `Volume_06_Execution_OS_Specifications_v28_draft.pdf`.
+- The v28 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v28_draft.md`.
+- Mission, swarm, task graph, scheduler, executor, recovery, and self-healing behavior remains bounded by governance, security, observability, and acceptance controls.

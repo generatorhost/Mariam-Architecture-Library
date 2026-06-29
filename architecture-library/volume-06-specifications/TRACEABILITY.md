@@ -88,3 +88,12 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Model, provider, plugin, connector runtimes | MAL-V03-B03-10-001, MAL-V03-B03-11-001, MAL-V03-B03-12-001, MAL-V03-B03-13-001 |
 | Service, workflow, memory, mission runtimes | MAL-V03-B03-07-009, MAL-V03-B03-08-002, MAL-V03-B03-04-005 |
 | Permissions, observability, recovery, testing | MAL-V03-B03-07-012, MAL-V03-B03-07-013, MAL-V03-B03-07-014, MAL-V03-B03-07-019 |
+
+## Execution OS Specification Trace Map
+| Specification Area | Primary Sources |
+| --- | --- |
+| Mission orchestration and mission manager | MAL-V03-B03-03-002, MAL-V03-B03-03-003, MAL-V06-RUNTIME-SPEC-010 |
+| Swarm engine, team coordination, and agent routing | MAL-V03-B03-09-001, MAL-V03-B03-03-006, MAL-V03-B03-05-004 |
+| Task graph, mission graph, scheduler, and executor | MAL-V03-B03-08-003, MAL-V03-B03-08-001, MAL-V06-RUNTIME-SPEC-008 |
+| Long-running missions, stall detection, recovery, and self-healing | MAL-V03-B03-20-001, MAL-V03-B03-17-001, MAL-V06-RUNTIME-SPEC-014 |
+| Execution testing | MAL-V03-B03-09-019, MAL-V05-STD-013, MAL-V06-RUNTIME-SPEC-015 |

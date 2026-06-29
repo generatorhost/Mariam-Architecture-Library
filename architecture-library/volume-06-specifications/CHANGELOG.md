@@ -81,3 +81,8 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v27 draft | Draft | Added 15 Runtime Ecosystem specifications and v27 release artifacts. |
+
+## v28 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v28 draft | Draft | Added 15 Execution OS specifications and v28 release artifacts. |

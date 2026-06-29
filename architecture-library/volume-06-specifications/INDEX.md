@@ -118,3 +118,20 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - MAL-V06-RUNTIME-SPEC-013 - `runtime-ecosystem/spec-06-runtime-13-runtime-observability-specification.md`
 - MAL-V06-RUNTIME-SPEC-014 - `runtime-ecosystem/spec-06-runtime-14-runtime-failure-recovery-specification.md`
 - MAL-V06-RUNTIME-SPEC-015 - `runtime-ecosystem/spec-06-runtime-15-runtime-testing-specification.md`
+
+## Execution OS Specifications
+- MAL-V06-EXEC-SPEC-01 - `execution-os/spec-06-exec-01-execution-os-specification.md`
+- MAL-V06-EXEC-SPEC-02 - `execution-os/spec-06-exec-02-chief-orchestration-specification.md`
+- MAL-V06-EXEC-SPEC-03 - `execution-os/spec-06-exec-03-mission-manager-specification.md`
+- MAL-V06-EXEC-SPEC-04 - `execution-os/spec-06-exec-04-swarm-engine-specification.md`
+- MAL-V06-EXEC-SPEC-05 - `execution-os/spec-06-exec-05-team-coordination-specification.md`
+- MAL-V06-EXEC-SPEC-06 - `execution-os/spec-06-exec-06-agent-routing-specification.md`
+- MAL-V06-EXEC-SPEC-07 - `execution-os/spec-06-exec-07-task-graph-specification.md`
+- MAL-V06-EXEC-SPEC-08 - `execution-os/spec-06-exec-08-mission-graph-specification.md`
+- MAL-V06-EXEC-SPEC-09 - `execution-os/spec-06-exec-09-distributed-scheduler-specification.md`
+- MAL-V06-EXEC-SPEC-10 - `execution-os/spec-06-exec-10-parallel-executor-specification.md`
+- MAL-V06-EXEC-SPEC-11 - `execution-os/spec-06-exec-11-long-running-missions-specification.md`
+- MAL-V06-EXEC-SPEC-12 - `execution-os/spec-06-exec-12-stall-detection-specification.md`
+- MAL-V06-EXEC-SPEC-13 - `execution-os/spec-06-exec-13-recovery-engine-specification.md`
+- MAL-V06-EXEC-SPEC-14 - `execution-os/spec-06-exec-14-self-healing-specification.md`
+- MAL-V06-EXEC-SPEC-15 - `execution-os/spec-06-exec-15-execution-testing-specification.md`
