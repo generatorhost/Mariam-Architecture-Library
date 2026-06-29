@@ -20,3 +20,10 @@
 - `v43-operations-guide-part-3/guide-08-43-01-configuration.md`
 - `v43-operations-guide-part-3/guide-08-43-02-recovery.md`
 - `v43-operations-guide-part-3/guide-08-43-03-incident-response.md`
+
+## v44 - Operations Guide Part 4
+- `v44-operations-guide-part-4/README.md`
+- `v44-operations-guide-part-4/INDEX.md`
+- `v44-operations-guide-part-4/guide-08-44-01-scaling.md`
+- `v44-operations-guide-part-4/guide-08-44-02-backup.md`
+- `v44-operations-guide-part-4/guide-08-44-03-disaster-recovery.md`
