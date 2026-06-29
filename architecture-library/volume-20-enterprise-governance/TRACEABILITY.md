@@ -17,3 +17,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v102_draft.md |
 | Documents | v102-enterprise-governance-part-2/README.md, v102-enterprise-governance-part-2/INDEX.md, v102-enterprise-governance-part-2/guide-20-102-01-iso.md, v102-enterprise-governance-part-2/guide-20-102-02-audit.md |
+
+## v103 - Enterprise Governance Part 3
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v103_draft.md |
+| Documents | v103-enterprise-governance-part-3/README.md, v103-enterprise-governance-part-3/INDEX.md, v103-enterprise-governance-part-3/guide-20-103-01-risk.md, v103-enterprise-governance-part-3/guide-20-103-02-security.md |
