@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v30 draft",
+  "version": "v31 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:43:49.581381+00:00",
+  "generated_at": "2026-06-29T18:43:58.738808+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v30_draft.zip",
-      "bytes": 3644884,
-      "sha256": "4b4172062b29dbcdc165a74aec8195beb3bdc75e8d3c4a39c46a896a022e6fed"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v31_draft.zip",
+      "bytes": 3681195,
+      "sha256": "e23e618b16c7a7d999088082c7645fbc5895cd51888106cb7639bbce1b31d91a"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -153,6 +153,11 @@
       "path": "architecture-library/releases/pdf/Volume_06_Knowledge_Capability_Workflow_Specifications_v29_draft.pdf",
       "bytes": 25920,
       "sha256": "f98f8b5320180373c1ce484be320a70e985af10978c9c5a051d7b2e7f82f50a0"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_06_Marketplace_Opportunity_Automation_Specifications_v31_draft.pdf",
+      "bytes": 33675,
+      "sha256": "8cf774a0c060fe07fd1643f80eb41cdf544e44d82a6070759d59c60ea5af962e"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_06_Model_Provider_Plugin_Connector_Specifications_v30_draft.pdf",

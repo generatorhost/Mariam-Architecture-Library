@@ -150,3 +150,11 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - `v30-model-provider-plugin-connector-specifications/spec-06-30-02-provider-ecosystem.md`
 - `v30-model-provider-plugin-connector-specifications/spec-06-30-03-plugin-runtime.md`
 - `v30-model-provider-plugin-connector-specifications/spec-06-30-04-connector-runtime.md`
+
+## v31 - Marketplace Opportunity Automation Specifications
+- `v31-marketplace-opportunity-automation-specifications/README.md`
+- `v31-marketplace-opportunity-automation-specifications/INDEX.md`
+- `v31-marketplace-opportunity-automation-specifications/spec-06-31-01-marketplace.md`
+- `v31-marketplace-opportunity-automation-specifications/spec-06-31-02-opportunity-intelligence.md`
+- `v31-marketplace-opportunity-automation-specifications/spec-06-31-03-freelance-automation.md`
+- `v31-marketplace-opportunity-automation-specifications/spec-06-31-04-remote-work-automation.md`

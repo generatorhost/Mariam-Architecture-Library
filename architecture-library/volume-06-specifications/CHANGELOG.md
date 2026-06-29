@@ -96,3 +96,8 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v30 draft | Draft | Added Model Provider Plugin Connector Specifications documentation and release artifacts. |
+
+## v31 - Marketplace Opportunity Automation Specifications
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v31 draft | Draft | Added Marketplace Opportunity Automation Specifications documentation and release artifacts. |
