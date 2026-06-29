@@ -207,3 +207,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-06-018 - `book-03-06-dna-operating-system/book-03-06-18-dna-testing.md`
 - MAL-V03-B03-06-019 - `book-03-06-dna-operating-system/book-03-06-19-dna-acceptance.md`
 - MAL-V03-B03-06-020 - `book-03-06-dna-operating-system/book-03-06-20-dna-roadmap.md`
+
+## Book 03.07 Runtime Ecosystem
+- MAL-V03-B03-07-README - `book-03-07-runtime-ecosystem/README.md`
+- MAL-V03-B03-07-001 - `book-03-07-runtime-ecosystem/book-03-07-01-runtime-ecosystem-overview.md`
+- MAL-V03-B03-07-002 - `book-03-07-runtime-ecosystem/book-03-07-02-runtime-kernel.md`
+- MAL-V03-B03-07-003 - `book-03-07-runtime-ecosystem/book-03-07-03-model-runtime.md`
+- MAL-V03-B03-07-004 - `book-03-07-runtime-ecosystem/book-03-07-04-plugin-runtime.md`
+- MAL-V03-B03-07-005 - `book-03-07-runtime-ecosystem/book-03-07-05-connector-runtime.md`
+- MAL-V03-B03-07-006 - `book-03-07-runtime-ecosystem/book-03-07-06-provider-runtime.md`
+- MAL-V03-B03-07-007 - `book-03-07-runtime-ecosystem/book-03-07-07-workflow-runtime.md`
+- MAL-V03-B03-07-008 - `book-03-07-runtime-ecosystem/book-03-07-08-mission-runtime.md`
+- MAL-V03-B03-07-009 - `book-03-07-runtime-ecosystem/book-03-07-09-service-runtime.md`
+- MAL-V03-B03-07-010 - `book-03-07-runtime-ecosystem/book-03-07-10-runtime-scheduler.md`
+- MAL-V03-B03-07-011 - `book-03-07-runtime-ecosystem/book-03-07-11-runtime-isolation.md`
+- MAL-V03-B03-07-012 - `book-03-07-runtime-ecosystem/book-03-07-12-runtime-policy.md`
+- MAL-V03-B03-07-013 - `book-03-07-runtime-ecosystem/book-03-07-13-runtime-observability.md`
+- MAL-V03-B03-07-014 - `book-03-07-runtime-ecosystem/book-03-07-14-runtime-recovery.md`
+- MAL-V03-B03-07-015 - `book-03-07-runtime-ecosystem/book-03-07-15-runtime-scaling.md`
+- MAL-V03-B03-07-016 - `book-03-07-runtime-ecosystem/book-03-07-16-runtime-events.md`
+- MAL-V03-B03-07-017 - `book-03-07-runtime-ecosystem/book-03-07-17-runtime-storage.md`
+- MAL-V03-B03-07-018 - `book-03-07-runtime-ecosystem/book-03-07-18-runtime-security.md`
+- MAL-V03-B03-07-019 - `book-03-07-runtime-ecosystem/book-03-07-19-runtime-testing.md`
+- MAL-V03-B03-07-020 - `book-03-07-runtime-ecosystem/book-03-07-20-runtime-roadmap.md`
