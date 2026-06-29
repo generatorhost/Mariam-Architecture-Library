@@ -14,3 +14,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v98 draft | Draft | Added Opportunity Intelligence Part 3 documentation and release artifacts. |
+
+## v99 - Opportunity Intelligence Part 4
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v99 draft | Draft | Added Opportunity Intelligence Part 4 documentation and release artifacts. |
