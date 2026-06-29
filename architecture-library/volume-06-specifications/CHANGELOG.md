@@ -91,3 +91,8 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v29 draft | Draft | Added Knowledge Capability Workflow Specifications documentation and release artifacts. |
+
+## v30 - Model Provider Plugin Connector Specifications
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v30 draft | Draft | Added Model Provider Plugin Connector Specifications documentation and release artifacts. |

@@ -142,3 +142,11 @@ Volume 06 contains implementation-ready specifications derived from the Master B
 - `v29-knowledge-capability-workflow-specifications/spec-06-29-01-knowledge-system.md`
 - `v29-knowledge-capability-workflow-specifications/spec-06-29-02-capability-system.md`
 - `v29-knowledge-capability-workflow-specifications/spec-06-29-03-workflow-system.md`
+
+## v30 - Model Provider Plugin Connector Specifications
+- `v30-model-provider-plugin-connector-specifications/README.md`
+- `v30-model-provider-plugin-connector-specifications/INDEX.md`
+- `v30-model-provider-plugin-connector-specifications/spec-06-30-01-model-ecosystem.md`
+- `v30-model-provider-plugin-connector-specifications/spec-06-30-02-provider-ecosystem.md`
+- `v30-model-provider-plugin-connector-specifications/spec-06-30-03-plugin-runtime.md`
+- `v30-model-provider-plugin-connector-specifications/spec-06-30-04-connector-runtime.md`

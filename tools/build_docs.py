@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v29 draft"
-RELEASE_SLUG = "v29_draft"
+RELEASE_VERSION = "v30 draft"
+RELEASE_SLUG = "v30_draft"
 
 VOLUMES = [
     {
@@ -199,8 +199,14 @@ VOLUMES = [
     {
         "id": "volume-06-specifications/v29-knowledge-capability-workflow-specifications",
         "title": "Volume 06 Specifications - Knowledge Capability Workflow Specifications",
-        "version": RELEASE_VERSION,
+        "version": "v29 draft",
         "pdf": "Volume_06_Knowledge_Capability_Workflow_Specifications_v29_draft.pdf",
+    },
+    {
+        "id": "volume-06-specifications/v30-model-provider-plugin-connector-specifications",
+        "title": "Volume 06 Specifications - Model Provider Plugin Connector Specifications",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_06_Model_Provider_Plugin_Connector_Specifications_v30_draft.pdf",
     },
 ]
 
