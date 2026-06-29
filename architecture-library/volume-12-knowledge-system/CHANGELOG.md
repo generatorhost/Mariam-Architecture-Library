@@ -19,3 +19,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v64 draft | Draft | Added Knowledge System Part 4 documentation and release artifacts. |
+
+## v65 - Knowledge System Part 5
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v65 draft | Draft | Added Knowledge System Part 5 documentation and release artifacts. |

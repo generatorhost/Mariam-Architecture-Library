@@ -23,3 +23,9 @@
 - `v64-knowledge-system-part-4/INDEX.md`
 - `v64-knowledge-system-part-4/guide-12-64-01-memory-system.md`
 - `v64-knowledge-system-part-4/guide-12-64-02-versioning.md`
+
+## v65 - Knowledge System Part 5
+- `v65-knowledge-system-part-5/README.md`
+- `v65-knowledge-system-part-5/INDEX.md`
+- `v65-knowledge-system-part-5/guide-12-65-01-vector-store.md`
+- `v65-knowledge-system-part-5/guide-12-65-02-knowledge-security.md`

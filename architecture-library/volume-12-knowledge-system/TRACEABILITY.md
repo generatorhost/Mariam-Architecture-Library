@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v64_draft.md |
 | Documents | v64-knowledge-system-part-4/README.md, v64-knowledge-system-part-4/INDEX.md, v64-knowledge-system-part-4/guide-12-64-01-memory-system.md, v64-knowledge-system-part-4/guide-12-64-02-versioning.md |
+
+## v65 - Knowledge System Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v65_draft.md |
+| Documents | v65-knowledge-system-part-5/README.md, v65-knowledge-system-part-5/INDEX.md, v65-knowledge-system-part-5/guide-12-65-01-vector-store.md, v65-knowledge-system-part-5/guide-12-65-02-knowledge-security.md |
