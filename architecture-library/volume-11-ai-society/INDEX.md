@@ -13,3 +13,10 @@
 - `v57-ai-society-part-2/guide-11-57-01-swarm.md`
 - `v57-ai-society-part-2/guide-11-57-02-capabilities.md`
 - `v57-ai-society-part-2/guide-11-57-03-review.md`
+
+## v58 - AI Society Part 3
+- `v58-ai-society-part-3/README.md`
+- `v58-ai-society-part-3/INDEX.md`
+- `v58-ai-society-part-3/guide-11-58-01-departments.md`
+- `v58-ai-society-part-3/guide-11-58-02-memory.md`
+- `v58-ai-society-part-3/guide-11-58-03-optimization.md`
