@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v56 draft",
+  "version": "v57 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:48:03.687784+00:00",
+  "generated_at": "2026-06-29T18:48:13.613071+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v56_draft.zip",
-      "bytes": 4174146,
-      "sha256": "ce8a9d9a24299d563c6a06439c4b04a5363a25d88888c38bd4454f003c1e9bc3"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v57_draft.zip",
+      "bytes": 4192324,
+      "sha256": "d702c571cf520f71b3df1ed1ab57f53c19d75245722f3ac2f9d9236ff8b64b13"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -293,6 +293,11 @@
       "path": "architecture-library/releases/pdf/Volume_11_Ai_Society_Part_1_v56_draft.pdf",
       "bytes": 15891,
       "sha256": "8b8d135784e42340b73c8eba7ed25c811b732a087f0c7a9c4b7e0e0685d6969d"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_11_Ai_Society_Part_2_v57_draft.pdf",
+      "bytes": 15891,
+      "sha256": "6c67d30dfe8f3b655d72f7794b850bbfa615a077b45a1e901d37cc42884f6033"
     }
   ]
 }
