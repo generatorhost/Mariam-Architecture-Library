@@ -17,3 +17,9 @@
 - `v103-enterprise-governance-part-3/INDEX.md`
 - `v103-enterprise-governance-part-3/guide-20-103-01-risk.md`
 - `v103-enterprise-governance-part-3/guide-20-103-02-security.md`
+
+## v104 - Enterprise Governance Part 4
+- `v104-enterprise-governance-part-4/README.md`
+- `v104-enterprise-governance-part-4/INDEX.md`
+- `v104-enterprise-governance-part-4/guide-20-104-01-quality.md`
+- `v104-enterprise-governance-part-4/guide-20-104-02-policy.md`
