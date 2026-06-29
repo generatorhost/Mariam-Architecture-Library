@@ -26,3 +26,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v88_draft.md |
 | Documents | v88-workflow-system-part-3/README.md, v88-workflow-system-part-3/INDEX.md, v88-workflow-system-part-3/guide-17-88-01-triggers.md, v88-workflow-system-part-3/guide-17-88-02-automation.md |
+
+## v89 - Workflow System Part 4
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v89_draft.md |
+| Documents | v89-workflow-system-part-4/README.md, v89-workflow-system-part-4/INDEX.md, v89-workflow-system-part-4/guide-17-89-01-actions.md, v89-workflow-system-part-4/guide-17-89-02-workflow-observability.md |

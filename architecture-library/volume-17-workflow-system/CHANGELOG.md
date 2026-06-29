@@ -14,3 +14,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v88 draft | Draft | Added Workflow System Part 3 documentation and release artifacts. |
+
+## v89 - Workflow System Part 4
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v89 draft | Draft | Added Workflow System Part 4 documentation and release artifacts. |

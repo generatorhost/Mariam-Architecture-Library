@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v88 draft"
-RELEASE_SLUG = "v88_draft"
+RELEASE_VERSION = "v89 draft"
+RELEASE_SLUG = "v89_draft"
 
 VOLUMES = [
     {
@@ -553,8 +553,14 @@ VOLUMES = [
     {
         "id": "volume-17-workflow-system/v88-workflow-system-part-3",
         "title": "Volume 17 Workflow System - Workflow System Part 3",
-        "version": RELEASE_VERSION,
+        "version": "v88 draft",
         "pdf": "Volume_17_Workflow_System_Part_3_v88_draft.pdf",
+    },
+    {
+        "id": "volume-17-workflow-system/v89-workflow-system-part-4",
+        "title": "Volume 17 Workflow System - Workflow System Part 4",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_17_Workflow_System_Part_4_v89_draft.pdf",
     },
 ]
 
