@@ -19,3 +19,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v79 draft | Draft | Added Runtime Ecosystem Part 4 documentation and release artifacts. |
+
+## v80 - Runtime Ecosystem Part 5
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v80 draft | Draft | Added Runtime Ecosystem Part 5 documentation and release artifacts. |

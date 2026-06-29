@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v79_draft.md |
 | Documents | v79-runtime-ecosystem-part-4/README.md, v79-runtime-ecosystem-part-4/INDEX.md, v79-runtime-ecosystem-part-4/guide-15-79-01-plugin-runtime.md, v79-runtime-ecosystem-part-4/guide-15-79-02-memory-runtime.md |
+
+## v80 - Runtime Ecosystem Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v80_draft.md |
+| Documents | v80-runtime-ecosystem-part-5/README.md, v80-runtime-ecosystem-part-5/INDEX.md, v80-runtime-ecosystem-part-5/guide-15-80-01-connector-runtime.md, v80-runtime-ecosystem-part-5/guide-15-80-02-mission-runtime.md |

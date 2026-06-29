@@ -23,3 +23,9 @@
 - `v79-runtime-ecosystem-part-4/INDEX.md`
 - `v79-runtime-ecosystem-part-4/guide-15-79-01-plugin-runtime.md`
 - `v79-runtime-ecosystem-part-4/guide-15-79-02-memory-runtime.md`
+
+## v80 - Runtime Ecosystem Part 5
+- `v80-runtime-ecosystem-part-5/README.md`
+- `v80-runtime-ecosystem-part-5/INDEX.md`
+- `v80-runtime-ecosystem-part-5/guide-15-80-01-connector-runtime.md`
+- `v80-runtime-ecosystem-part-5/guide-15-80-02-mission-runtime.md`
