@@ -414,3 +414,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-15-018 - `book-03-15-opportunity-intelligence/book-03-15-18-opportunity-security.md`
 - MAL-V03-B03-15-019 - `book-03-15-opportunity-intelligence/book-03-15-19-opportunity-testing.md`
 - MAL-V03-B03-15-020 - `book-03-15-opportunity-intelligence/book-03-15-20-opportunity-roadmap.md`
+
+## Book 03.16 Freelance Automation
+- MAL-V03-B03-16-README - `book-03-16-freelance-automation/README.md`
+- MAL-V03-B03-16-001 - `book-03-16-freelance-automation/book-03-16-01-freelance-automation-overview.md`
+- MAL-V03-B03-16-002 - `book-03-16-freelance-automation/book-03-16-02-freelancer-profile.md`
+- MAL-V03-B03-16-003 - `book-03-16-freelance-automation/book-03-16-03-opportunity-monitoring.md`
+- MAL-V03-B03-16-004 - `book-03-16-freelance-automation/book-03-16-04-proposal-engine.md`
+- MAL-V03-B03-16-005 - `book-03-16-freelance-automation/book-03-16-05-portfolio-memory.md`
+- MAL-V03-B03-16-006 - `book-03-16-freelance-automation/book-03-16-06-client-communication.md`
+- MAL-V03-B03-16-007 - `book-03-16-freelance-automation/book-03-16-07-pricing-support.md`
+- MAL-V03-B03-16-008 - `book-03-16-freelance-automation/book-03-16-08-delivery-workflows.md`
+- MAL-V03-B03-16-009 - `book-03-16-freelance-automation/book-03-16-09-contract-support.md`
+- MAL-V03-B03-16-010 - `book-03-16-freelance-automation/book-03-16-10-invoice-support.md`
+- MAL-V03-B03-16-011 - `book-03-16-freelance-automation/book-03-16-11-client-success.md`
+- MAL-V03-B03-16-012 - `book-03-16-freelance-automation/book-03-16-12-reputation-growth.md`
+- MAL-V03-B03-16-013 - `book-03-16-freelance-automation/book-03-16-13-freelance-governance.md`
+- MAL-V03-B03-16-014 - `book-03-16-freelance-automation/book-03-16-14-freelance-quality.md`
+- MAL-V03-B03-16-015 - `book-03-16-freelance-automation/book-03-16-15-freelance-observability.md`
+- MAL-V03-B03-16-016 - `book-03-16-freelance-automation/book-03-16-16-freelance-events.md`
+- MAL-V03-B03-16-017 - `book-03-16-freelance-automation/book-03-16-17-freelance-storage.md`
+- MAL-V03-B03-16-018 - `book-03-16-freelance-automation/book-03-16-18-freelance-security.md`
+- MAL-V03-B03-16-019 - `book-03-16-freelance-automation/book-03-16-19-freelance-testing.md`
+- MAL-V03-B03-16-020 - `book-03-16-freelance-automation/book-03-16-20-freelance-roadmap.md`

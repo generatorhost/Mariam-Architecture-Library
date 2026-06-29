@@ -144,3 +144,8 @@ Covers additions, sequencing changes, document ID changes, and release impacts f
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v17 draft | Draft | Added Book 03.15 Opportunity Intelligence with 20 subsystem blueprint documents and v17 release artifacts. |
+
+## v18 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v18 draft | Draft | Added Book 03.16 Freelance Automation with 20 subsystem blueprint documents and v18 release artifacts. |

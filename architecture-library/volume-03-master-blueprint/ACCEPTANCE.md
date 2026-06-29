@@ -174,3 +174,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v17 build produces `Volume_03_Book_03_15_Opportunity_Intelligence_v17_draft.pdf`.
 - The v17 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v17_draft.md`.
 - Opportunity Intelligence authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
+
+## Book 03.16 Freelance Automation Acceptance Checklist
+- Book 03.16 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.16 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v18 build produces `Volume_03_Book_03_16_Freelance_Automation_v18_draft.pdf`.
+- The v18 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v18_draft.md`.
+- Freelance Automation authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
