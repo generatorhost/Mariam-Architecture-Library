@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v39_draft.md |
 | Documents | v39-development-guide-part-4/README.md, v39-development-guide-part-4/INDEX.md, v39-development-guide-part-4/guide-07-39-01-agent-development.md, v39-development-guide-part-4/guide-07-39-02-testing-workflow.md, v39-development-guide-part-4/guide-07-39-03-pull-requests.md |
+
+## v40 - Development Guide Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v40_draft.md |
+| Documents | v40-development-guide-part-5/README.md, v40-development-guide-part-5/INDEX.md, v40-development-guide-part-5/guide-07-40-01-dna-development.md, v40-development-guide-part-5/guide-07-40-02-documentation-workflow.md, v40-development-guide-part-5/guide-07-40-03-version-management.md |
