@@ -35,3 +35,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v94_draft.md |
 | Documents | v94-swarm-intelligence-part-4/README.md, v94-swarm-intelligence-part-4/INDEX.md, v94-swarm-intelligence-part-4/guide-18-94-01-collaboration.md, v94-swarm-intelligence-part-4/guide-18-94-02-swarm-memory.md |
+
+## v95 - Swarm Intelligence Part 5
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v95_draft.md |
+| Documents | v95-swarm-intelligence-part-5/README.md, v95-swarm-intelligence-part-5/INDEX.md, v95-swarm-intelligence-part-5/guide-18-95-01-task-allocation.md, v95-swarm-intelligence-part-5/guide-18-95-02-swarm-governance.md |
