@@ -1,23 +1,28 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v1 draft",
+  "version": "v2 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T15:05:54.568386+00:00",
+  "generated_at": "2026-06-29T15:15:02.008708+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v1_draft.zip",
-      "bytes": 72060,
-      "sha256": "d0f7c2ce1676aa807eea169f53110de326ffd13462ff6265a0ec75c16eefbbe5"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v2_draft.zip",
+      "bytes": 152118,
+      "sha256": "6b8bd8554aac49d6077d4d0f5bc65e6928bde75c1b240bd1497b754539820340"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
       "bytes": 39899,
-      "sha256": "25115fd8d33ae51f65a83a3f5ce914c73ec9d9bb99b2e80d8a20df971af27547"
+      "sha256": "ce6e1e19cb5326ee36eb6eb956465eb869f0070ac02547faef2bf8dd42437aaa"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_01_Master_Vision_v1_draft.pdf",
       "bytes": 22202,
-      "sha256": "8514f4d732723c189a1911cabeb9fe658d605597bbfb2ac662d40bbdbb312306"
+      "sha256": "1d11ab4547bfc7bc53db57614ed3e318eed7f8b937eb4feb5bdff2a8505fe561"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_02_Master_Roadmap_v2_draft.pdf",
+      "bytes": 77412,
+      "sha256": "748fad62982d5d3a13fb42b437b1a977e1308c35390ae606aac27f304ff4107e"
     }
   ]
 }

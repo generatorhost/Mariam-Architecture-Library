@@ -18,17 +18,27 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
+RELEASE_VERSION = "v2 draft"
+RELEASE_SLUG = "v2_draft"
 
 VOLUMES = [
     {
         "id": "volume-00-enterprise-constitution",
         "title": "Volume 00 - Enterprise Constitution",
+        "version": "v1 draft",
         "pdf": "Volume_00_Enterprise_Constitution_v1_draft.pdf",
     },
     {
         "id": "volume-01-master-vision",
         "title": "Volume 01 - Master Vision",
+        "version": "v1 draft",
         "pdf": "Volume_01_Master_Vision_v1_draft.pdf",
+    },
+    {
+        "id": "volume-02-master-roadmap",
+        "title": "Volume 02 - Master Roadmap",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_02_Master_Roadmap_v2_draft.pdf",
     },
 ]
 
@@ -204,7 +214,7 @@ def build_pdf(volume: dict[str, str]) -> Path:
         title=volume["title"],
         author="Mariam Architecture Library",
     )
-    story = [Paragraph(volume["title"], styles["title"]), Paragraph("Version v1 draft", styles["meta"])]
+    story = [Paragraph(volume["title"], styles["title"]), Paragraph(f"Version {volume['version']}", styles["meta"])]
     for index, path in enumerate(markdown_files(volume_dir)):
         if index:
             story.append(PageBreak())
@@ -225,7 +235,7 @@ def release_inputs() -> list[Path]:
 
 
 def build_zip() -> Path:
-    zip_path = RELEASES / "Mariam_Architecture_Library_v1_draft.zip"
+    zip_path = RELEASES / f"Mariam_Architecture_Library_{RELEASE_SLUG}.zip"
     if zip_path.exists():
         zip_path.unlink()
     with zipfile.ZipFile(zip_path, "w", compression=zipfile.ZIP_DEFLATED) as archive:
@@ -247,7 +257,7 @@ def build_manifest(artifacts: list[Path]) -> Path:
         )
     manifest = {
         "name": "Mariam Architecture Library",
-        "version": "v1 draft",
+        "version": RELEASE_VERSION,
         "status": "draft",
         "generated_at": datetime.now(timezone.utc).isoformat(),
         "artifacts": entries,
@@ -262,8 +272,8 @@ def main() -> None:
     manifest = build_manifest(pdfs)
     zip_path = build_zip()
     manifest = build_manifest(pdfs + [zip_path])
-    print(f"Generated {pdfs[0].relative_to(ROOT)}")
-    print(f"Generated {pdfs[1].relative_to(ROOT)}")
+    for pdf in pdfs:
+        print(f"Generated {pdf.relative_to(ROOT)}")
     print(f"Generated {zip_path.relative_to(ROOT)}")
     print(f"Generated {manifest.relative_to(ROOT)}")
 
