@@ -17,3 +17,9 @@
 - `v118-marketplace-part-3/INDEX.md`
 - `v118-marketplace-part-3/guide-23-118-01-skills.md`
 - `v118-marketplace-part-3/guide-23-118-02-ranking.md`
+
+## v119 - Marketplace Part 4
+- `v119-marketplace-part-4/README.md`
+- `v119-marketplace-part-4/INDEX.md`
+- `v119-marketplace-part-4/guide-23-119-01-models.md`
+- `v119-marketplace-part-4/guide-23-119-02-publishing.md`
