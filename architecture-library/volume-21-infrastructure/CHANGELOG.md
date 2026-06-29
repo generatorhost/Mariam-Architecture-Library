@@ -4,3 +4,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v106 draft | Draft | Added Infrastructure Part 1 documentation and release artifacts. |
+
+## v107 - Infrastructure Part 2
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v107 draft | Draft | Added Infrastructure Part 2 documentation and release artifacts. |
