@@ -17,3 +17,9 @@
 - `v73-dna-operating-system-part-3/INDEX.md`
 - `v73-dna-operating-system-part-3/guide-14-73-01-runtime-store.md`
 - `v73-dna-operating-system-part-3/guide-14-73-02-federation.md`
+
+## v74 - DNA Operating System Part 4
+- `v74-dna-operating-system-part-4/README.md`
+- `v74-dna-operating-system-part-4/INDEX.md`
+- `v74-dna-operating-system-part-4/guide-14-74-01-package-graph.md`
+- `v74-dna-operating-system-part-4/guide-14-74-02-evolution.md`

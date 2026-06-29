@@ -26,3 +26,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v73_draft.md |
 | Documents | v73-dna-operating-system-part-3/README.md, v73-dna-operating-system-part-3/INDEX.md, v73-dna-operating-system-part-3/guide-14-73-01-runtime-store.md, v73-dna-operating-system-part-3/guide-14-73-02-federation.md |
+
+## v74 - DNA Operating System Part 4
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v74_draft.md |
+| Documents | v74-dna-operating-system-part-4/README.md, v74-dna-operating-system-part-4/INDEX.md, v74-dna-operating-system-part-4/guide-14-74-01-package-graph.md, v74-dna-operating-system-part-4/guide-14-74-02-evolution.md |
