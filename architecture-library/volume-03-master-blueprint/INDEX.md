@@ -460,3 +460,26 @@ Covers current v3 content and establishes stable references for future blueprint
 - MAL-V03-B03-17-018 - `book-03-17-remote-work-automation/book-03-17-18-remote-security.md`
 - MAL-V03-B03-17-019 - `book-03-17-remote-work-automation/book-03-17-19-remote-testing.md`
 - MAL-V03-B03-17-020 - `book-03-17-remote-work-automation/book-03-17-20-remote-roadmap.md`
+
+## Book 03.18 Enterprise Governance
+- MAL-V03-B03-18-README - `book-03-18-enterprise-governance/README.md`
+- MAL-V03-B03-18-001 - `book-03-18-enterprise-governance/book-03-18-01-enterprise-governance-overview.md`
+- MAL-V03-B03-18-002 - `book-03-18-enterprise-governance/book-03-18-02-policy-engine.md`
+- MAL-V03-B03-18-003 - `book-03-18-enterprise-governance/book-03-18-03-approval-engine.md`
+- MAL-V03-B03-18-004 - `book-03-18-enterprise-governance/book-03-18-04-exception-management.md`
+- MAL-V03-B03-18-005 - `book-03-18-enterprise-governance/book-03-18-05-audit-system.md`
+- MAL-V03-B03-18-006 - `book-03-18-enterprise-governance/book-03-18-06-risk-register.md`
+- MAL-V03-B03-18-007 - `book-03-18-enterprise-governance/book-03-18-07-compliance-evidence.md`
+- MAL-V03-B03-18-008 - `book-03-18-enterprise-governance/book-03-18-08-legal-controls.md`
+- MAL-V03-B03-18-009 - `book-03-18-enterprise-governance/book-03-18-09-security-governance.md`
+- MAL-V03-B03-18-010 - `book-03-18-enterprise-governance/book-03-18-10-quality-governance.md`
+- MAL-V03-B03-18-011 - `book-03-18-enterprise-governance/book-03-18-11-finance-governance.md`
+- MAL-V03-B03-18-012 - `book-03-18-enterprise-governance/book-03-18-12-governance-reporting.md`
+- MAL-V03-B03-18-013 - `book-03-18-enterprise-governance/book-03-18-13-governance-checkpoints.md`
+- MAL-V03-B03-18-014 - `book-03-18-enterprise-governance/book-03-18-14-governance-analytics.md`
+- MAL-V03-B03-18-015 - `book-03-18-enterprise-governance/book-03-18-15-governance-operations.md`
+- MAL-V03-B03-18-016 - `book-03-18-enterprise-governance/book-03-18-16-governance-events.md`
+- MAL-V03-B03-18-017 - `book-03-18-enterprise-governance/book-03-18-17-governance-storage.md`
+- MAL-V03-B03-18-018 - `book-03-18-enterprise-governance/book-03-18-18-governance-security.md`
+- MAL-V03-B03-18-019 - `book-03-18-enterprise-governance/book-03-18-19-governance-testing.md`
+- MAL-V03-B03-18-020 - `book-03-18-enterprise-governance/book-03-18-20-governance-roadmap.md`

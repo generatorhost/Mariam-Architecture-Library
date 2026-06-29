@@ -188,3 +188,10 @@ Covers document completeness, subsystem coverage, traceability, and release arti
 - The v19 build produces `Volume_03_Book_03_17_Remote_Work_Automation_v19_draft.pdf`.
 - The v19 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v19_draft.md`.
 - Remote Work Automation authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
+
+## Book 03.18 Enterprise Governance Acceptance Checklist
+- Book 03.18 folder contains README, INDEX, and 20 subsystem blueprint files.
+- Each Book 03.18 file contains responsibilities, inputs, outputs, interfaces, events, storage, security, metrics, testing, acceptance, and traceability.
+- The v20 build produces `Volume_03_Book_03_18_Enterprise_Governance_v20_draft.pdf`.
+- The v20 ZIP contains all Markdown, all PDFs, `MANIFEST.json`, and `RELEASE_NOTES_v20_draft.md`.
+- Enterprise Governance authority remains bounded by Enterprise Core, governance, security, and release acceptance controls.
