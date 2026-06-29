@@ -26,3 +26,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v63_draft.md |
 | Documents | v63-knowledge-system-part-3/README.md, v63-knowledge-system-part-3/INDEX.md, v63-knowledge-system-part-3/guide-12-63-01-document-intelligence.md, v63-knowledge-system-part-3/guide-12-63-02-indexing.md |
+
+## v64 - Knowledge System Part 4
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v64_draft.md |
+| Documents | v64-knowledge-system-part-4/README.md, v64-knowledge-system-part-4/INDEX.md, v64-knowledge-system-part-4/guide-12-64-01-memory-system.md, v64-knowledge-system-part-4/guide-12-64-02-versioning.md |

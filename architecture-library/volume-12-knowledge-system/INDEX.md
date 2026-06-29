@@ -17,3 +17,9 @@
 - `v63-knowledge-system-part-3/INDEX.md`
 - `v63-knowledge-system-part-3/guide-12-63-01-document-intelligence.md`
 - `v63-knowledge-system-part-3/guide-12-63-02-indexing.md`
+
+## v64 - Knowledge System Part 4
+- `v64-knowledge-system-part-4/README.md`
+- `v64-knowledge-system-part-4/INDEX.md`
+- `v64-knowledge-system-part-4/guide-12-64-01-memory-system.md`
+- `v64-knowledge-system-part-4/guide-12-64-02-versioning.md`
