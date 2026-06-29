@@ -11,3 +11,9 @@
 - `v82-model-ecosystem-part-2/INDEX.md`
 - `v82-model-ecosystem-part-2/guide-16-82-01-onnx.md`
 - `v82-model-ecosystem-part-2/guide-16-82-02-vllm.md`
+
+## v83 - Model Ecosystem Part 3
+- `v83-model-ecosystem-part-3/README.md`
+- `v83-model-ecosystem-part-3/INDEX.md`
+- `v83-model-ecosystem-part-3/guide-16-83-01-safetensors.md`
+- `v83-model-ecosystem-part-3/guide-16-83-02-ktransformers.md`

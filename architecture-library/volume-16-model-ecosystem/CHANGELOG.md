@@ -9,3 +9,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v82 draft | Draft | Added Model Ecosystem Part 2 documentation and release artifacts. |
+
+## v83 - Model Ecosystem Part 3
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v83 draft | Draft | Added Model Ecosystem Part 3 documentation and release artifacts. |

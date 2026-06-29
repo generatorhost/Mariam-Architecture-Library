@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v82 draft",
+  "version": "v83 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:52:33.024666+00:00",
+  "generated_at": "2026-06-29T18:52:43.250680+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v82_draft.zip",
-      "bytes": 4551865,
-      "sha256": "742f60a173e21867c50620f2f55e9d4ac3ec676a357dc246f5342ae23dd1f449"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v83_draft.zip",
+      "bytes": 4565387,
+      "sha256": "aaf1ec2a5c220fb414b5078e8a05ac97467cf24a90f8ad6114d9c1b36fcc0c9d"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -423,6 +423,11 @@
       "path": "architecture-library/releases/pdf/Volume_16_Model_Ecosystem_Part_2_v82_draft.pdf",
       "bytes": 11547,
       "sha256": "85f9147961e3dfad8dadce9c3ebfe1f653e0392f4df3f3576041b7d5c82448ad"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_16_Model_Ecosystem_Part_3_v83_draft.pdf",
+      "bytes": 11648,
+      "sha256": "c85379144a207d6f475716f88c86078456536be94612eb2d2eca5191accb0560"
     }
   ]
 }
