@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v66 draft"
-RELEASE_SLUG = "v66_draft"
+RELEASE_VERSION = "v67 draft"
+RELEASE_SLUG = "v67_draft"
 
 VOLUMES = [
     {
@@ -421,8 +421,14 @@ VOLUMES = [
     {
         "id": "volume-13-capability-system/v66-capability-system-part-1",
         "title": "Volume 13 Capability System - Capability System Part 1",
-        "version": RELEASE_VERSION,
+        "version": "v66 draft",
         "pdf": "Volume_13_Capability_System_Part_1_v66_draft.pdf",
+    },
+    {
+        "id": "volume-13-capability-system/v67-capability-system-part-2",
+        "title": "Volume 13 Capability System - Capability System Part 2",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_13_Capability_System_Part_2_v67_draft.pdf",
     },
 ]
 
