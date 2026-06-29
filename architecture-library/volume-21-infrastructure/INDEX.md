@@ -17,3 +17,9 @@
 - `v108-infrastructure-part-3/INDEX.md`
 - `v108-infrastructure-part-3/guide-21-108-01-monitoring.md`
 - `v108-infrastructure-part-3/guide-21-108-02-recovery.md`
+
+## v109 - Infrastructure Part 4
+- `v109-infrastructure-part-4/README.md`
+- `v109-infrastructure-part-4/INDEX.md`
+- `v109-infrastructure-part-4/guide-21-109-01-tracing.md`
+- `v109-infrastructure-part-4/guide-21-109-02-network.md`
