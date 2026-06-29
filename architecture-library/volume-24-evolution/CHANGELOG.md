@@ -4,3 +4,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v121 draft | Draft | Added Evolution Part 1 documentation and release artifacts. |
+
+## v122 - Evolution Part 2
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v122 draft | Draft | Added Evolution Part 2 documentation and release artifacts. |
