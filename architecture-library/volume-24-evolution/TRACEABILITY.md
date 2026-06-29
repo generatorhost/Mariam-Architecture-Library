@@ -17,3 +17,12 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v122_draft.md |
 | Documents | v122-evolution-part-2/README.md, v122-evolution-part-2/INDEX.md, v122-evolution-part-2/guide-24-122-01-mutation.md, v122-evolution-part-2/guide-24-122-02-evolution-governance.md |
+
+## v123 - Evolution Part 3
+| Area | Traceability |
+| --- | --- |
+| Primary Blueprint | Volume 03 Master Blueprint |
+| Standards | Volume 05 Engineering Standards |
+| Specifications | Volume 06 Specifications |
+| Release | RELEASE_NOTES_v123_draft.md |
+| Documents | v123-evolution-part-3/README.md, v123-evolution-part-3/INDEX.md, v123-evolution-part-3/guide-24-123-01-optimization.md, v123-evolution-part-3/guide-24-123-02-feedback-loops.md |
