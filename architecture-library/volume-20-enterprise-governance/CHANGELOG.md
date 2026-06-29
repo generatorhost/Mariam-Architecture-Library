@@ -19,3 +19,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v104 draft | Draft | Added Enterprise Governance Part 4 documentation and release artifacts. |
+
+## v105 - Enterprise Governance Part 5
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-29 | v105 draft | Draft | Added Enterprise Governance Part 5 documentation and release artifacts. |

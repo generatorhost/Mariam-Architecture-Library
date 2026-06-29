@@ -23,3 +23,9 @@
 - `v104-enterprise-governance-part-4/INDEX.md`
 - `v104-enterprise-governance-part-4/guide-20-104-01-quality.md`
 - `v104-enterprise-governance-part-4/guide-20-104-02-policy.md`
+
+## v105 - Enterprise Governance Part 5
+- `v105-enterprise-governance-part-5/README.md`
+- `v105-enterprise-governance-part-5/INDEX.md`
+- `v105-enterprise-governance-part-5/guide-20-105-01-finance.md`
+- `v105-enterprise-governance-part-5/guide-20-105-02-governance-boards.md`

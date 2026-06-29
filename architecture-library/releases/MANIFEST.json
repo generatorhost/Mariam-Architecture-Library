@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v104 draft",
+  "version": "v105 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:56:35.671302+00:00",
+  "generated_at": "2026-06-29T18:56:46.776690+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v104_draft.zip",
-      "bytes": 4860910,
-      "sha256": "6e9ca13b6264c091b46e26d4b3a70093e4932da7829786e92cec72e1d2f2110d"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v105_draft.zip",
+      "bytes": 4874564,
+      "sha256": "2637f68e04efb5c230bf8c2aa3bf0a74e1cc5894283ca2996188d3d5fa71ed18"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -533,6 +533,11 @@
       "path": "architecture-library/releases/pdf/Volume_20_Enterprise_Governance_Part_4_v104_draft.pdf",
       "bytes": 11605,
       "sha256": "041d22e1928d44e0a2aa40ac9a43a48e75f6a4e9110497da4380e5925d01feba"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_20_Enterprise_Governance_Part_5_v105_draft.pdf",
+      "bytes": 11639,
+      "sha256": "b48798c3c6effd9844ed6e9aa1159b81d4c06e67a1b38ca3a76ac13532d43afc"
     }
   ]
 }
