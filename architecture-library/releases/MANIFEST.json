@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v85 draft",
+  "version": "v86 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T18:53:04.154366+00:00",
+  "generated_at": "2026-06-29T18:53:14.613419+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v85_draft.zip",
-      "bytes": 4592544,
-      "sha256": "67cdaa7c509a8d78d2ced0668b7644141df905578648af460452712f5d5b0c4f"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v86_draft.zip",
+      "bytes": 4608271,
+      "sha256": "fe48895f005e3e07c2db142bf75d67e6862896edb2e9823fbc51c8b9a97460eb"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -438,6 +438,11 @@
       "path": "architecture-library/releases/pdf/Volume_16_Model_Ecosystem_Part_5_v85_draft.pdf",
       "bytes": 11638,
       "sha256": "766bfd1b94fc177419074f7e61d48980529297746b5d24f27ae50e3c09d0d6ff"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_17_Workflow_System_Part_1_v86_draft.pdf",
+      "bytes": 11664,
+      "sha256": "d79da26ac128baed4074637ba5d8e13b0dae6f5cf0372d215da088383ef1a8fd"
     }
   ]
 }
