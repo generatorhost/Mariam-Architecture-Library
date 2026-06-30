@@ -1,4 +1,4 @@
-# Volume 14 DNA Operating System Changelog
+﻿# Volume 14 DNA Operating System Changelog
 
 ## v71 - DNA Operating System Part 1
 | Date | Version | Status | Summary |
@@ -24,3 +24,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v75 draft | Draft | Added DNA Operating System Part 5 documentation and release artifacts. |
+## v129 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-30 | v129 draft | Draft | Added official Mariam Living Enterprise OS Core terminology. |
+

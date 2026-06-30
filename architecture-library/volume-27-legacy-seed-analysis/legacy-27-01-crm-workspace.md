@@ -1,4 +1,4 @@
-# CRM Workspace
+﻿# CRM Workspace
 
 **Title:** CRM Workspace
 **Version:** v128 draft
@@ -35,7 +35,7 @@ Document the safe legacy seed extracted from ai-business-os for the customer rel
 - Autonomous Enterprise
 - Communications Hub
 - Governance
-- Postgres Business DB
+- Mariam Data Platform
 - MANIFEST and release notes for documentation traceability.
 - Security and governance review before implementation begins.
 

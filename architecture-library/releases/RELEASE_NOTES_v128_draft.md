@@ -1,4 +1,4 @@
-# Release Notes - Mariam Architecture Library v128 draft
+﻿# Release Notes - Mariam Architecture Library v128 draft
 
 **Version:** v128 draft
 **Status:** Draft
@@ -6,7 +6,7 @@
 
 ## What Was Added In v128
 - Added Volume 27 - Legacy Seed Analysis.
-- Added safe Legacy Seed Integration documents for CRM Workspace, Sales Pipeline, AI Agent Chat, Memory JSON Pattern, WebSocket Live Metrics, Service Status Panel, Mindmap / Service Graph, Docker Runtime Stack, n8n Integration Layer, Ollama Local Provider, MinIO Storage, Redis Cache, and Postgres Business DB.
+- Added safe Legacy Seed Integration documents for CRM Workspace, Sales Pipeline, AI Agent Chat, Memory JSON Pattern, WebSocket Live Metrics, Service Status Panel, Mindmap / Service Graph, Docker Runtime Stack, n8n Integration Layer, Ollama Local Provider, MinIO Storage, Redis Cache, and Mariam Data Platform.
 - Added dedicated Security Exclusions documentation to prevent secrets, passwords, SSH keys, API keys, runtime data, raw .env files, database URLs, and customer records from entering the Architecture Library.
 - Added PDF build target `Volume_27_Legacy_Seed_Analysis_v128_draft.pdf`.
 - Added ZIP package `Mariam_Architecture_Library_v128_draft.zip`.

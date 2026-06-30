@@ -1,4 +1,4 @@
-# Volume 21 Infrastructure Traceability
+﻿# Volume 21 Infrastructure Traceability
 
 ## v106 - Infrastructure Part 1
 | Area | Traceability |
@@ -44,3 +44,9 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v110_draft.md |
 | Documents | v110-infrastructure-part-5/README.md, v110-infrastructure-part-5/INDEX.md, v110-infrastructure-part-5/guide-21-110-01-security.md, v110-infrastructure-part-5/guide-21-110-02-deployment.md |
+## v129 - Mariam Data Platform
+| Area | Traceability |
+| --- | --- |
+| Mariam Data Platform | Runtime DB, Knowledge DB, Audit DB, Governance DB, Mission DB, CRM DB, Scraping DB, Opportunity DB, Communication DB, Document DB, DNA Registry DB, Capability Graph DB, Workflow DB, Vector Store, Object Storage, Cache, Logs Store, Metrics Store, Artifact Store |
+| Living Core | Volume 14 Mariam Living Enterprise OS Core |
+

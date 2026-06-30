@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v128 draft"
-RELEASE_SLUG = "v128_draft"
+RELEASE_VERSION = "v129 draft"
+RELEASE_SLUG = "v129_draft"
 
 VOLUMES = [
     {
@@ -793,8 +793,14 @@ VOLUMES = [
     {
         "id": "volume-27-legacy-seed-analysis",
         "title": "Volume 27 - Legacy Seed Analysis",
-        "version": RELEASE_VERSION,
+        "version": "v128 draft",
         "pdf": "Volume_27_Legacy_Seed_Analysis_v128_draft.pdf",
+    },
+    {
+        "id": "volume-21-infrastructure/data-platform",
+        "title": "Volume 21 - Mariam Data Platform",
+        "version": RELEASE_VERSION,
+        "pdf": "Volume_21_Mariam_Data_Platform_v129_draft.pdf",
     },
 ]
 

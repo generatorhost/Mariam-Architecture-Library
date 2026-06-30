@@ -1,4 +1,4 @@
-# Volume 14 DNA Operating System Index
+﻿# Volume 14 DNA Operating System Index
 
 ## v71 - DNA Operating System Part 1
 - `v71-dna-operating-system-part-1/README.md`
@@ -29,3 +29,6 @@
 - `v75-dna-operating-system-part-5/INDEX.md`
 - `v75-dna-operating-system-part-5/guide-14-75-01-dependency-resolver.md`
 - `v75-dna-operating-system-part-5/guide-14-75-02-export.md`
+## v129 - Mariam Living Enterprise OS Core
+- MAL-V14-LIVING-CORE-001 - `living-enterprise-os-core.md` - Official core terminology and living DNA capabilities.
+

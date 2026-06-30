@@ -1,4 +1,4 @@
-# Volume 14 DNA Operating System Traceability
+﻿# Volume 14 DNA Operating System Traceability
 
 ## v71 - DNA Operating System Part 1
 | Area | Traceability |
@@ -44,3 +44,10 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v75_draft.md |
 | Documents | v75-dna-operating-system-part-5/README.md, v75-dna-operating-system-part-5/INDEX.md, v75-dna-operating-system-part-5/guide-14-75-01-dependency-resolver.md, v75-dna-operating-system-part-5/guide-14-75-02-export.md |
+## v129 - Mariam Living Enterprise OS Core
+| Capability | Traceability |
+| --- | --- |
+| Learning, expansion, development | Living Enterprise OS Core |
+| DNA extraction, composition, runtime, evolution, export | DNA Operating System |
+| Data substrate | Mariam Data Platform |
+

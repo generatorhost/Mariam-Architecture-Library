@@ -1,4 +1,4 @@
-# Volume 27 - Legacy Seed Analysis Index
+﻿# Volume 27 - Legacy Seed Analysis Index
 
 - MAL-V27-LEGACY-01 - `legacy-27-01-crm-workspace.md` - CRM Workspace
 - MAL-V27-LEGACY-02 - `legacy-27-02-sales-pipeline.md` - Sales Pipeline
@@ -12,5 +12,5 @@
 - MAL-V27-LEGACY-10 - `legacy-27-10-ollama-local-provider.md` - Ollama Local Provider
 - MAL-V27-LEGACY-11 - `legacy-27-11-minio-storage.md` - MinIO Storage
 - MAL-V27-LEGACY-12 - `legacy-27-12-redis-cache.md` - Redis Cache
-- MAL-V27-LEGACY-13 - `legacy-27-13-postgres-business-db.md` - Postgres Business DB
+- MAL-V27-LEGACY-13 - `legacy-27-13-mariam-data-platform.md` - Mariam Data Platform
 - MAL-V27-SECURITY-001 - `legacy-27-99-security-exclusions.md` - Security Exclusions

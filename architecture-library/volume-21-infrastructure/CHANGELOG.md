@@ -1,4 +1,4 @@
-# Volume 21 Infrastructure Changelog
+﻿# Volume 21 Infrastructure Changelog
 
 ## v106 - Infrastructure Part 1
 | Date | Version | Status | Summary |
@@ -24,3 +24,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v110 draft | Draft | Added Infrastructure Part 5 documentation and release artifacts. |
+## v129 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-30 | v129 draft | Draft | Added official Mariam Data Platform terminology and architecture. |
+

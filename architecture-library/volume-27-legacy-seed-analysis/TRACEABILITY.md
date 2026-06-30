@@ -1,4 +1,4 @@
-# Volume 27 - Legacy Seed Analysis Traceability
+﻿# Volume 27 - Legacy Seed Analysis Traceability
 
 ## Legacy Seed Trace Map
 | Legacy Seed | Mariam Target |
@@ -15,7 +15,7 @@
 | Ollama Local Provider | Volume 16 Model Ecosystem, Volume 06 Provider Specifications |
 | MinIO Storage | Volume 21 Infrastructure, Volume 06 Storage Specifications |
 | Redis Cache | Volume 21 Infrastructure |
-| Postgres Business DB | Volume 21 Infrastructure, Volume 25 Autonomous Enterprise |
+| Mariam Data Platform | Volume 21 Infrastructure, Volume 25 Autonomous Enterprise |
 
 ## Security Trace
 All extracted seeds pass through `legacy-27-99-security-exclusions.md` before they can become implementation tasks.

@@ -1,4 +1,4 @@
-# Volume 21 Infrastructure Index
+﻿# Volume 21 Infrastructure Index
 
 ## v106 - Infrastructure Part 1
 - `v106-infrastructure-part-1/README.md`
@@ -29,3 +29,6 @@
 - `v110-infrastructure-part-5/INDEX.md`
 - `v110-infrastructure-part-5/guide-21-110-01-security.md`
 - `v110-infrastructure-part-5/guide-21-110-02-deployment.md`
+## v129 - Mariam Data Platform
+- MAL-V21-DATA-PLATFORM-001 - `data-platform/mariam-data-platform.md` - Official Mariam Data Platform terminology and component architecture.
+
