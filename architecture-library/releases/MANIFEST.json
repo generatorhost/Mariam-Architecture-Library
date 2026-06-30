@@ -1,13 +1,13 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v127 draft",
+  "version": "v128 draft",
   "status": "draft",
-  "generated_at": "2026-06-29T23:45:35.007796+00:00",
+  "generated_at": "2026-06-30T01:18:45.266456+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v127_draft.zip",
-      "bytes": 5504606,
-      "sha256": "19f36b934bf4bef4e451293060e65783fc7e782919a46e7634bc6317ba7cea5f"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v128_draft.zip",
+      "bytes": 5593782,
+      "sha256": "a36108e7323309f484865d558274292d55ce5b47b28d85622f9ae1e616a4910b"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
@@ -648,6 +648,11 @@
       "path": "architecture-library/releases/pdf/Volume_26_Experience_Interface_Design_v127_draft.pdf",
       "bytes": 282007,
       "sha256": "8bc258074460d11d5762b5814eec5236320b3bf2110e4ee398e0e08e8442a46a"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Volume_27_Legacy_Seed_Analysis_v128_draft.pdf",
+      "bytes": 88784,
+      "sha256": "8f13a7c8fdc20c8e929a2361086125e8b13afb5c7aba406022df876d92da07fa"
     }
   ]
 }
