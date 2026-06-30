@@ -50,4 +50,8 @@
 | Learning, expansion, development | Living Enterprise OS Core |
 | DNA extraction, composition, runtime, evolution, export | DNA Operating System |
 | Data substrate | Mariam Data Platform |
+## v130 DNA Managed Runtime Objects
+| Document | Traceability |
+| --- | --- |
+| MAL-V14-DNA-RUNTIME-OBJECTS-001 | Defines Chief, Team, Agent, Skill, Capability, Workflow, Plugin, Connector, Provider, Model, Tool, Service, Prompt, Policy, Rule, Permission, Dashboard, Report, Scraper, Scheduler, Planner, Executor, Reviewer, Validator, Optimizer, Knowledge Asset, Vector Index, Storage Adapter, API, and MCP Server as DNA managed runtime object types. |
 

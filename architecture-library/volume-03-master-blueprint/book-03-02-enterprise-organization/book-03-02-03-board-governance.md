@@ -1,4 +1,4 @@
-# Book 03.02.03 - Board Governance
+﻿# Book 03.02.03 - Board Governance
 
 **Version:** v4 draft
 **Status:** Draft
@@ -48,7 +48,7 @@ Covers boards, committees, mandates, agendas, resolutions, review gates, and exe
 
 ## Security
 - Board records may be restricted to privileged roles.
-- Resolution changes are immutable after approval unless superseded.
+- Approved resolutions keep immutable audit evidence, while future governance may supersede them through a versioned change record.
 - Sensitive agenda content is classified.
 
 ## Metrics

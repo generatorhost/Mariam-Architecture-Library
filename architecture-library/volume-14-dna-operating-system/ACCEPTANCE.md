@@ -33,4 +33,7 @@
 - Documentation uses Mariam Living Enterprise OS Core instead of legacy narrow-core wording.
 - The core is described as able to learn, expand, develop, extract DNA, compose DNA, run DNA, evolve behavior, and export new DNA.
 - The terminology is linked to Mariam Data Platform.
+## DNA Managed Runtime Objects Acceptance
+- Listed object types are managed as DNA Managed Runtime Objects when active in Mariam.
+- DNA export/import is a governed lifecycle path. |
 

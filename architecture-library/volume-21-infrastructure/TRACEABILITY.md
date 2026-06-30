@@ -49,4 +49,8 @@
 | --- | --- |
 | Mariam Data Platform | Runtime DB, Knowledge DB, Audit DB, Governance DB, Mission DB, CRM DB, Scraping DB, Opportunity DB, Communication DB, Document DB, DNA Registry DB, Capability Graph DB, Workflow DB, Vector Store, Object Storage, Cache, Logs Store, Metrics Store, Artifact Store |
 | Living Core | Volume 14 Mariam Living Enterprise OS Core |
+## v130 Runtime Object Governance
+| Document | Traceability |
+| --- | --- |
+| MAL-V21-RUNTIME-GOVERNANCE-001 | Defines runtime object lifecycle, add/edit/delete lifecycle, soft delete, hard delete, disable/enable, dependency checks, impact analysis, approval workflow, rollback, and audit logs. |
 

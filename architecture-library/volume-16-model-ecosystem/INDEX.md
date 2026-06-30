@@ -1,4 +1,4 @@
-# Volume 16 Model Ecosystem Index
+﻿# Volume 16 Model Ecosystem Index
 
 ## v81 - Model Ecosystem Part 1
 - `v81-model-ecosystem-part-1/README.md`
@@ -29,3 +29,5 @@
 - `v85-model-ecosystem-part-5/INDEX.md`
 - `v85-model-ecosystem-part-5/guide-16-85-01-transformers.md`
 - `v85-model-ecosystem-part-5/guide-16-85-02-model-governance.md`
+- MAL-V16-MODEL-UPLOADER-001 - model-manager-provider-uploader.md - Model Manager Provider Uploader
+

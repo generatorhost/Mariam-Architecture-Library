@@ -1,4 +1,4 @@
-# Volume 00 Changelog
+﻿# Volume 00 Changelog
 
 **Version:** v1 draft
 **Status:** Draft
@@ -35,3 +35,8 @@ It covers changes to Volume 00 content, document status, document IDs, acceptanc
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v1 draft | 2026-06-29 | Draft | Initial changelog. |
+## v130 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-30 | v130 draft | Draft | Added Modular Changeability Principle. |
+

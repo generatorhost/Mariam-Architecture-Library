@@ -1,4 +1,4 @@
-# Volume 00 Traceability
+﻿# Volume 00 Traceability
 
 **Version:** v1 draft
 **Status:** Draft
@@ -38,3 +38,8 @@ This document applies to all Volume 00 principles and all downstream documents t
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v1 draft | 2026-06-29 | Draft | Initial traceability model. |
+## v130 Traceability
+| Document | Traceability |
+| --- | --- |
+| MAL-V00-B16 | Governs add, edit, delete, disable, enable, upgrade, replace, fork, rollback, DNA export, and DNA import for all Mariam objects. |
+

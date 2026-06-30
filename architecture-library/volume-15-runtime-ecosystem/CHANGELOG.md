@@ -1,4 +1,4 @@
-# Volume 15 Runtime Ecosystem Changelog
+﻿# Volume 15 Runtime Ecosystem Changelog
 
 ## v76 - Runtime Ecosystem Part 1
 | Date | Version | Status | Summary |
@@ -24,3 +24,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-29 | v80 draft | Draft | Added Runtime Ecosystem Part 5 documentation and release artifacts. |
+## v130 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-30 | v130 draft | Draft | Added provider/model runtime management for GGUF, ONNX, SafeTensors, PyTorch, Ollama, vLLM, llama.cpp, and KTransformers. |
+

@@ -11,7 +11,7 @@ Define the official core terminology for Mariam. Mariam is not merely an legacy 
 ## Scope
 - Covers the living core concept that coordinates runtime objects, DNA packages, knowledge, capabilities, workflows, agents, governance, missions, data, and evolution.
 - Applies to all future architecture documents, specifications, implementation guides, operations, UI documents, and code rebuild work.
-- Replaces language that implies Mariam is only a kernel, only an AI layer, or only a static automation platform.
+- Replaces language that implies Mariam is only a kernel, only an AI layer, or a non-changeable automation platform.
 
 ## Core Definition
 Mariam Living Enterprise OS Core is the governed, evolving enterprise operating core that can learn from evidence, expand through capabilities, develop through releases, extract DNA from systems, compose DNA into new operating structures, run DNA as governed runtime behavior, evolve behavior through feedback, and export new DNA packages for reuse.
@@ -28,7 +28,7 @@ Mariam Living Enterprise OS Core is the governed, evolving enterprise operating 
 
 ## Operating Principles
 - The core remains stable enough to govern the enterprise, but living enough to absorb verified change.
-- DNA is not static configuration; it is a governed operating pattern that can be extracted, composed, executed, evolved, and exported.
+- DNA is not frozen configuration; it is a governed operating pattern that can be extracted, composed, executed, evolved, and exported.
 - Learning must be auditable and reversible where risk requires human governance.
 - Expansion must use registries, graphs, lifecycle state, permissions, and traceability rather than hidden coupling.
 - Evolution must never bypass security, acceptance criteria, audit, or governance controls.

@@ -1,4 +1,4 @@
-# Volume 16 Model Ecosystem Traceability
+﻿# Volume 16 Model Ecosystem Traceability
 
 ## v81 - Model Ecosystem Part 1
 | Area | Traceability |
@@ -44,3 +44,8 @@
 | Specifications | Volume 06 Specifications |
 | Release | RELEASE_NOTES_v85_draft.md |
 | Documents | v85-model-ecosystem-part-5/README.md, v85-model-ecosystem-part-5/INDEX.md, v85-model-ecosystem-part-5/guide-16-85-01-transformers.md, v85-model-ecosystem-part-5/guide-16-85-02-model-governance.md |
+## v130 Model Manager Provider Uploader
+| Document | Traceability |
+| --- | --- |
+| MAL-V16-MODEL-UPLOADER-001 | Defines model upload, provider registration, compatibility checks, metadata extraction, benchmarking, approval, activation, rollback, and DNA export. |
+

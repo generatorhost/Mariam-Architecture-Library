@@ -31,4 +31,5 @@
 - `v110-infrastructure-part-5/guide-21-110-02-deployment.md`
 ## v129 - Mariam Data Platform
 - MAL-V21-DATA-PLATFORM-001 - `data-platform/mariam-data-platform.md` - Official Mariam Data Platform terminology and component architecture.
+- MAL-V21-RUNTIME-GOVERNANCE-001 - untime-object-governance.md - Runtime Object Governance
 

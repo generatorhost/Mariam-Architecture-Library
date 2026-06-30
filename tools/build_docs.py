@@ -18,8 +18,8 @@ ROOT = Path(__file__).resolve().parents[1]
 LIBRARY = ROOT / "architecture-library"
 RELEASES = LIBRARY / "releases"
 PDF_DIR = RELEASES / "pdf"
-RELEASE_VERSION = "v129 draft"
-RELEASE_SLUG = "v129_draft"
+RELEASE_VERSION = "v130 draft"
+RELEASE_SLUG = "v130_draft"
 
 VOLUMES = [
     {
@@ -799,8 +799,14 @@ VOLUMES = [
     {
         "id": "volume-21-infrastructure/data-platform",
         "title": "Volume 21 - Mariam Data Platform",
-        "version": RELEASE_VERSION,
+        "version": "v129 draft",
         "pdf": "Volume_21_Mariam_Data_Platform_v129_draft.pdf",
+    },
+    {
+        "id": "volume-00-enterprise-constitution",
+        "title": "Mariam Modular Runtime Object Model",
+        "version": RELEASE_VERSION,
+        "pdf": "Mariam_Modular_Runtime_Object_Model_v130_draft.pdf",
     },
 ]
 

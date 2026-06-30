@@ -1,18 +1,23 @@
 {
   "name": "Mariam Architecture Library",
-  "version": "v129 draft",
+  "version": "v130 draft",
   "status": "draft",
-  "generated_at": "2026-06-30T01:45:54.737625+00:00",
+  "generated_at": "2026-06-30T01:52:25.478687+00:00",
   "artifacts": [
     {
-      "path": "architecture-library/releases/Mariam_Architecture_Library_v129_draft.zip",
-      "bytes": 5610136,
-      "sha256": "9a42eb3a5976e7f9dab666b1d00145a09f171b70de15756da615b79ba75667bb"
+      "path": "architecture-library/releases/Mariam_Architecture_Library_v130_draft.zip",
+      "bytes": 5656234,
+      "sha256": "5f00079cd9ac2a805b8c31e11c49574e0dc9aa6a1b538598eb5c4919f578dcda"
+    },
+    {
+      "path": "architecture-library/releases/pdf/Mariam_Modular_Runtime_Object_Model_v130_draft.pdf",
+      "bytes": 45675,
+      "sha256": "30a4ccbf5a00627c410b9e2111fabed1ae497b827777ad16ec7247360a384d97"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_00_Enterprise_Constitution_v1_draft.pdf",
-      "bytes": 40374,
-      "sha256": "2eacd402c30f8514246bc6328069c5ded482658b7e05948d625208081a697ce7"
+      "bytes": 45648,
+      "sha256": "2181e7ef96e03e7a2a6b2a7fa59f1de033d1b88fc7a4756ac71d26fe8255ba4f"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_01_Master_Vision_v1_draft.pdf",
@@ -31,8 +36,8 @@
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_02_Enterprise_Organization_v4_draft.pdf",
-      "bytes": 71713,
-      "sha256": "133469888bc2d591dba8df214d86034596b0b83c4a4f2d04da1db4300582e9ad"
+      "bytes": 70944,
+      "sha256": "dbdd89ff7f404c32085ea406b3c8bd0640b3ae40ffb50f802647ebd94de2f677"
     },
     {
       "path": "architecture-library/releases/pdf/Volume_03_Book_03_03_AI_Society_v5_draft.pdf",

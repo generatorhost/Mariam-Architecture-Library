@@ -31,4 +31,5 @@
 - `v75-dna-operating-system-part-5/guide-14-75-02-export.md`
 ## v129 - Mariam Living Enterprise OS Core
 - MAL-V14-LIVING-CORE-001 - `living-enterprise-os-core.md` - Official core terminology and living DNA capabilities.
+- MAL-V14-DNA-RUNTIME-OBJECTS-001 - dna-managed-runtime-objects.md - DNA Managed Runtime Objects
 

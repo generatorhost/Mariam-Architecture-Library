@@ -1,4 +1,4 @@
-# Volume 00 Acceptance
+﻿# Volume 00 Acceptance
 
 **Version:** v1 draft
 **Status:** Draft
@@ -30,3 +30,7 @@ It covers document completeness, review readiness, release packaging, and readin
 | Version | Date | Status | Notes |
 | --- | --- | --- | --- |
 | v1 draft | 2026-06-29 | Draft | Initial acceptance criteria. |
+## Modular Changeability Principle Acceptance
+- Every governed Mariam object is treated as lifecycle-managed and changeable through approved operations.
+- Governance, permission, versioning, audit, compatibility, testing, and rollback are mandatory.
+

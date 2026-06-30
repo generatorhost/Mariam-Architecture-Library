@@ -28,4 +28,8 @@
 | Date | Version | Status | Summary |
 | --- | --- | --- | --- |
 | 2026-06-30 | v129 draft | Draft | Added official Mariam Living Enterprise OS Core terminology. |
+## v130 Entries
+| Date | Version | Status | Summary |
+| --- | --- | --- | --- |
+| 2026-06-30 | v130 draft | Draft | Added DNA Managed Runtime Objects. |
 
