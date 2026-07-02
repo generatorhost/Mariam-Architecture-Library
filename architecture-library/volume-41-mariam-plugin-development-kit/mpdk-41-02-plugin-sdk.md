@@ -5,22 +5,27 @@ Status: Active
 Document ID: architecture-library/volume-41-mariam-plugin-development-kit/mpdk-41-02-plugin-sdk.md
 
 ## Purpose
-Defines plugin manifest, contract, lifecycle, permissions, dashboard, chat, chief, swarm, and events.
+Define how third parties and internal studios build installable Mariam plugins.
 
-## Scope
-This document belongs to the final Mariam Architecture closure set.
+## Plugin Shape
+Each plugin has manifest, contract, dashboard, settings, chat, chief agent, swarm, events, permissions, data ownership, reports, tests, and marketplace metadata.
 
-## Core Rules
-- Small files only.
-- Registry-driven design.
-- Everything is a managed runtime object.
-- Everything extends Mariam; nothing modifies Mariam Core directly.
-- Human approval is required for sensitive actions.
+## Manifest Requirements
+plugin_id, name, version, owner, capabilities, dependencies, permissions, APIs, events, storage, UI entrypoints, and compatibility range.
+
+## Contract Requirements
+Inputs, outputs, events, permissions, dependencies, error modes, approval gates, rollback rules, and test obligations.
+
+## Lifecycle
+Draft -> Validate -> Security Review -> Install -> Configure -> Enable -> Run -> Update -> Disable -> Uninstall -> Archive.
+
+## Zero Core Modification
+Plugins must extend Mariam through registries and contracts. They must not require direct core changes.
 
 ## Acceptance Criteria
-- The concept is documented.
-- The file is small and focused.
-- The content is traceable to Mariam architecture.
+- The document contains actionable architecture rules.
+- The document stays focused and does not become monolithic.
+- The document can guide implementation without extra interpretation.
 
 ## Version History
-- draft: initial creation.
+- draft: enriched architecture content.

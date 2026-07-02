@@ -5,22 +5,24 @@ Status: Active
 Document ID: architecture-library/volume-42-bootstrap-installer-platform/installer-42-01-overview.md
 
 ## Purpose
-Mariam must install as a self-contained package without manual PowerShell usage by ordinary users.
+Define the self-contained installation experience for Mariam.
 
-## Scope
-This document belongs to the final Mariam Architecture closure set.
+## User Goal
+The user downloads one package, runs it, chooses Desktop/VPS/Server mode, and opens Mariam without manual PowerShell or Docker commands.
 
-## Core Rules
-- Small files only.
-- Registry-driven design.
-- Everything is a managed runtime object.
-- Everything extends Mariam; nothing modifies Mariam Core directly.
-- Human approval is required for sensitive actions.
+## Included Services
+Docker stack, PostgreSQL, Redis, MinIO, Ollama, API server, workers, dashboard UI, AI Resource Manager, security, monitoring, backup, and update manager.
+
+## First Run
+Detect environment -> verify prerequisites -> install services -> generate secrets -> run migrations -> register local AI resources -> create admin account -> open dashboard.
+
+## Failure Handling
+Installer must provide readable errors, rollback, retry, logs, and recovery steps without requiring the user to debug commands.
 
 ## Acceptance Criteria
-- The concept is documented.
-- The file is small and focused.
-- The content is traceable to Mariam architecture.
+- The document contains actionable architecture rules.
+- The document stays focused and does not become monolithic.
+- The document can guide implementation without extra interpretation.
 
 ## Version History
-- draft: initial creation.
+- draft: enriched architecture content.

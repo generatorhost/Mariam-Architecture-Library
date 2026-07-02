@@ -5,22 +5,32 @@ Status: Active
 Document ID: architecture-library/volume-40-universal-digital-platform-intelligence/udpi-40-05-whatsapp-business-unit.md
 
 ## Purpose
-WhatsApp integration follows official APIs, templates, consent, rate limits, and messaging policies.
+Define WhatsApp as a policy-aware communication business unit.
 
 ## Scope
-This document belongs to the final Mariam Architecture closure set.
+Covers official WhatsApp Business API usage, templates, consent, approved messaging, support flows, rate limits, customer records, and audit.
 
-## Core Rules
-- Small files only.
-- Registry-driven design.
-- Everything is a managed runtime object.
-- Everything extends Mariam; nothing modifies Mariam Core directly.
-- Human approval is required for sensitive actions.
+## Chief Agent
+WhatsApp Chief Agent manages safe messaging workflows, approved templates, customer context, escalation, and compliance.
+
+## Swarm Roles
+- Template Agent
+- Consent Agent
+- Conversation Agent
+- Support Agent
+- Escalation Agent
+- Compliance Agent
+
+## Policy Rules
+The system must avoid spam behavior, unauthorized bulk messaging, scraping contacts, or bypassing official controls.
+
+## Execution Flow
+Customer event -> permission check -> template selection -> message draft -> approval if needed -> delivery -> audit -> follow-up.
 
 ## Acceptance Criteria
-- The concept is documented.
-- The file is small and focused.
-- The content is traceable to Mariam architecture.
+- The document contains actionable architecture rules.
+- The document stays focused and does not become monolithic.
+- The document can guide implementation without extra interpretation.
 
 ## Version History
-- draft: initial creation.
+- draft: enriched architecture content.

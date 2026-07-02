@@ -5,22 +5,27 @@ Status: Active
 Document ID: architecture-library/volume-45-final-canonical-architecture/final-45-10-zero-core-modification.md
 
 ## Purpose
-Everything extends Mariam through plugins, providers, connectors, studios, and registries. Nothing modifies the core directly.
+Protect Mariam core from uncontrolled growth.
 
-## Scope
-This document belongs to the final Mariam Architecture closure set.
+## Principle
+Everything extends Mariam; nothing modifies Mariam core directly.
 
-## Core Rules
-- Small files only.
-- Registry-driven design.
-- Everything is a managed runtime object.
-- Everything extends Mariam; nothing modifies Mariam Core directly.
-- Human approval is required for sensitive actions.
+## Allowed Extension Paths
+Plugins, providers, connectors, MCP servers, studios, registries, manifests, contracts, events, and DNA packages.
+
+## Forbidden Pattern
+No hardcoded feature logic in core such as if plugin equals YouTube or switch platform.
+
+## Core Role
+The core provides identity, registry, event bus, lifecycle, permissions, dependency graph, configuration, and runtime activation.
+
+## Acceptance
+A new business feature must be added as an extension unless it is necessary for all system components.
 
 ## Acceptance Criteria
-- The concept is documented.
-- The file is small and focused.
-- The content is traceable to Mariam architecture.
+- The document contains actionable architecture rules.
+- The document stays focused and does not become monolithic.
+- The document can guide implementation without extra interpretation.
 
 ## Version History
-- draft: initial creation.
+- draft: enriched architecture content.

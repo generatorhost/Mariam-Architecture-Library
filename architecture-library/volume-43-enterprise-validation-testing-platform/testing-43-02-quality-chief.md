@@ -5,22 +5,28 @@ Status: Active
 Document ID: architecture-library/volume-43-enterprise-validation-testing-platform/testing-43-02-quality-chief.md
 
 ## Purpose
-Chief responsible for QA swarms and acceptance gates.
+Define the chief agent responsible for quality across architecture, code, plugins, UI, security, and releases.
 
-## Scope
-This document belongs to the final Mariam Architecture closure set.
+## Responsibilities
+Coordinate QA swarms, enforce acceptance gates, compare implementation with specifications, block unsafe releases, and produce quality reports.
 
-## Core Rules
-- Small files only.
-- Registry-driven design.
-- Everything is a managed runtime object.
-- Everything extends Mariam; nothing modifies Mariam Core directly.
-- Human approval is required for sensitive actions.
+## QA Swarms
+- Architecture QA
+- Runtime QA
+- Plugin QA
+- Security QA
+- UX QA
+- Installer QA
+- Performance QA
+- Recovery QA
+
+## Gate Rules
+No release is accepted without passing relevant tests, documentation checks, security checks, and human approval where needed.
 
 ## Acceptance Criteria
-- The concept is documented.
-- The file is small and focused.
-- The content is traceable to Mariam architecture.
+- The document contains actionable architecture rules.
+- The document stays focused and does not become monolithic.
+- The document can guide implementation without extra interpretation.
 
 ## Version History
-- draft: initial creation.
+- draft: enriched architecture content.

@@ -5,22 +5,21 @@ Status: Active
 Document ID: architecture-library/volume-44-release-engineering-marketplace-platform/release-44-01-overview.md
 
 ## Purpose
-Controls build, packaging, signing, versioning, rollback, migration, and marketplace publishing.
+Define controlled release engineering for Mariam core, plugins, providers, connectors, DNA packages, and marketplace assets.
 
 ## Scope
-This document belongs to the final Mariam Architecture closure set.
+Build, package, sign, version, publish, rollback, migrate, certify, and track compatibility.
 
-## Core Rules
-- Small files only.
-- Registry-driven design.
-- Everything is a managed runtime object.
-- Everything extends Mariam; nothing modifies Mariam Core directly.
-- Human approval is required for sensitive actions.
+## Release Objects
+Core release, plugin release, provider release, connector release, model package, DNA package, installer, dashboard asset, documentation release.
+
+## Release Gates
+Build -> tests -> security -> compatibility -> documentation -> approval -> signing -> publish -> monitor -> rollback readiness.
 
 ## Acceptance Criteria
-- The concept is documented.
-- The file is small and focused.
-- The content is traceable to Mariam architecture.
+- The document contains actionable architecture rules.
+- The document stays focused and does not become monolithic.
+- The document can guide implementation without extra interpretation.
 
 ## Version History
-- draft: initial creation.
+- draft: enriched architecture content.
